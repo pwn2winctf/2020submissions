@@ -2507,6 +2507,18 @@
     }
    },
    "team": "Hunter\u7f51\u7edc\u5b89\u5168"
+  },
+  {
+   "lastAccept": 1590778735,
+   "pos": 208,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778735
+    }
+   },
+   "team": "RadiumHacker"
   }
  ],
  "tasks": [
