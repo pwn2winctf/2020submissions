@@ -1875,6 +1875,18 @@
     }
    },
    "team": "fLAGers"
+  },
+  {
+   "lastAccept": 1590776580,
+   "pos": 157,
+   "score": 74,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 74,
+     "time": 1590776580
+    }
+   },
+   "team": "BambooFox"
   }
  ],
  "tasks": [
