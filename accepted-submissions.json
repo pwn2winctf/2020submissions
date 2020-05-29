@@ -2775,6 +2775,18 @@
     }
    },
    "team": "u310831124E0B5DF3311A"
+  },
+  {
+   "lastAccept": 1590779856,
+   "pos": 229,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779856
+    }
+   },
+   "team": "RPISEC"
   }
  ],
  "tasks": [
