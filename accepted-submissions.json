@@ -2443,6 +2443,18 @@
     }
    },
    "team": "break_the_code"
+  },
+  {
+   "lastAccept": 1590778482,
+   "pos": 203,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778482
+    }
+   },
+   "team": "teamB4SH"
   }
  ],
  "tasks": [
