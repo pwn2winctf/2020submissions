@@ -2663,6 +2663,18 @@
     }
    },
    "team": "PPP"
+  },
+  {
+   "lastAccept": 1590779486,
+   "pos": 221,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779486
+    }
+   },
+   "team": "TrainzRulez"
   }
  ],
  "tasks": [
