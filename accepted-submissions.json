@@ -1,8 +1,24 @@
 {
  "standings": [
   {
-   "lastAccept": 1590770226,
+   "lastAccept": 1590774991,
    "pos": 1,
+   "score": 600,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 500,
+     "time": 1590774991
+    },
+    "transcendence_rebellion": {
+     "points": 100,
+     "time": 1590770422
+    }
+   },
+   "team": "hxp"
+  },
+  {
+   "lastAccept": 1590770226,
+   "pos": 2,
    "score": 100,
    "taskStats": {
     "transcendence_rebellion": {
@@ -14,7 +30,7 @@
   },
   {
    "lastAccept": 1590770267,
-   "pos": 2,
+   "pos": 3,
    "score": 100,
    "taskStats": {
     "transcendence_rebellion": {
@@ -26,7 +42,7 @@
   },
   {
    "lastAccept": 1590770287,
-   "pos": 3,
+   "pos": 4,
    "score": 100,
    "taskStats": {
     "transcendence_rebellion": {
@@ -38,7 +54,7 @@
   },
   {
    "lastAccept": 1590770305,
-   "pos": 4,
+   "pos": 5,
    "score": 100,
    "taskStats": {
     "transcendence_rebellion": {
@@ -50,7 +66,7 @@
   },
   {
    "lastAccept": 1590770323,
-   "pos": 5,
+   "pos": 6,
    "score": 100,
    "taskStats": {
     "transcendence_rebellion": {
@@ -62,7 +78,7 @@
   },
   {
    "lastAccept": 1590770361,
-   "pos": 6,
+   "pos": 7,
    "score": 100,
    "taskStats": {
     "transcendence_rebellion": {
@@ -74,7 +90,7 @@
   },
   {
    "lastAccept": 1590770378,
-   "pos": 7,
+   "pos": 8,
    "score": 100,
    "taskStats": {
     "transcendence_rebellion": {
@@ -86,7 +102,7 @@
   },
   {
    "lastAccept": 1590770403,
-   "pos": 8,
+   "pos": 9,
    "score": 100,
    "taskStats": {
     "transcendence_rebellion": {
@@ -95,18 +111,6 @@
     }
    },
    "team": "justCatTheFish"
-  },
-  {
-   "lastAccept": 1590770422,
-   "pos": 9,
-   "score": 100,
-   "taskStats": {
-    "transcendence_rebellion": {
-     "points": 100,
-     "time": 1590770422
-    }
-   },
-   "team": "hxp"
   },
   {
    "lastAccept": 1590770440,
@@ -1502,6 +1506,7 @@
   }
  ],
  "tasks": [
-  "transcendence_rebellion"
+  "transcendence_rebellion",
+  "androids_encryption"
  ]
 }
