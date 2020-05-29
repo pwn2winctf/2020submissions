@@ -2859,6 +2859,18 @@
     }
    },
    "team": "zer0pts"
+  },
+  {
+   "lastAccept": 1590780223,
+   "pos": 235,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590780223
+    }
+   },
+   "team": "cutes"
   }
  ],
  "tasks": [
