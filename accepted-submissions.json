@@ -2727,6 +2727,18 @@
     }
    },
    "team": "http.cat/202"
+  },
+  {
+   "lastAccept": 1590779688,
+   "pos": 226,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779688
+    }
+   },
+   "team": "Pwnie Island"
   }
  ],
  "tasks": [
