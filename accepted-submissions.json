@@ -3007,6 +3007,18 @@
     }
    },
    "team": "Hacker Solitario"
+  },
+  {
+   "lastAccept": 1590781391,
+   "pos": 245,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590781391
+    }
+   },
+   "team": "VUbar"
   }
  ],
  "tasks": [
