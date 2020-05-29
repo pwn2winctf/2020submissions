@@ -3,14 +3,26 @@
   {
    "lastAccept": 1590770226,
    "pos": 1,
-   "score": 500,
+   "score": 474,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 500,
+     "points": 474,
      "time": 1590770226
     }
    },
    "team": "Kuality"
+  },
+  {
+   "lastAccept": 1590770267,
+   "pos": 2,
+   "score": 474,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 474,
+     "time": 1590770267
+    }
+   },
+   "team": "OpenToAll"
   }
  ],
  "tasks": [
