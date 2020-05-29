@@ -1487,6 +1487,18 @@
     }
    },
    "team": "NULLKrypt3rs"
+  },
+  {
+   "lastAccept": 1590774958,
+   "pos": 125,
+   "score": 100,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 100,
+     "time": 1590774958
+    }
+   },
+   "team": "prashanth"
   }
  ],
  "tasks": [
