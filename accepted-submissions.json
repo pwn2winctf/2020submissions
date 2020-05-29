@@ -3591,6 +3591,18 @@
     }
    },
    "team": "KDB"
+  },
+  {
+   "lastAccept": 1590794111,
+   "pos": 280,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590794111
+    }
+   },
+   "team": "hynotiks"
   }
  ],
  "tasks": [
