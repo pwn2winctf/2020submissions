@@ -2311,6 +2311,18 @@
     }
    },
    "team": "Anbu"
+  },
+  {
+   "lastAccept": 1590778047,
+   "pos": 192,
+   "score": 52,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 52,
+     "time": 1590778047
+    }
+   },
+   "team": "NullAnVoid"
   }
  ],
  "tasks": [
