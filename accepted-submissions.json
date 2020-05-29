@@ -3119,6 +3119,18 @@
     }
    },
    "team": "y4chtclub"
+  },
+  {
+   "lastAccept": 1590784216,
+   "pos": 252,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590784216
+    }
+   },
+   "team": "SuperTrashcan"
   }
  ],
  "tasks": [
