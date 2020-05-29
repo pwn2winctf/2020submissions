@@ -2675,6 +2675,18 @@
     }
    },
    "team": "TrainzRulez"
+  },
+  {
+   "lastAccept": 1590779505,
+   "pos": 222,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779505
+    }
+   },
+   "team": "utilitas"
   }
  ],
  "tasks": [
