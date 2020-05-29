@@ -3,10 +3,10 @@
   {
    "lastAccept": 1590770226,
    "pos": 1,
-   "score": 474,
+   "score": 453,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 474,
+     "points": 453,
      "time": 1590770226
     }
    },
@@ -15,14 +15,26 @@
   {
    "lastAccept": 1590770267,
    "pos": 2,
-   "score": 474,
+   "score": 453,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 474,
+     "points": 453,
      "time": 1590770267
     }
    },
    "team": "OpenToAll"
+  },
+  {
+   "lastAccept": 1590770287,
+   "pos": 3,
+   "score": 453,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 453,
+     "time": 1590770287
+    }
+   },
+   "team": "RATF"
   }
  ],
  "tasks": [
