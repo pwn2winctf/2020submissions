@@ -3339,6 +3339,18 @@
     }
    },
    "team": "polpol"
+  },
+  {
+   "lastAccept": 1590787944,
+   "pos": 267,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590787944
+    }
+   },
+   "team": "TELOS"
   }
  ],
  "tasks": [
