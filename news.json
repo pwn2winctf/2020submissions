@@ -2,5 +2,9 @@
  {
   "msg": "Welcome to our platform! Registration is open. We are looking very forward to see you playing Pwn2Win on May 29.",
   "time": 1590069460
+ },
+ {
+  "msg": "Please submit flags only once. No submission is lost, as you can see at your pull request. They are processed in queue so your score will never be harmed.",
+  "time": 1590772940
  }
 ]
