@@ -1911,6 +1911,18 @@
     }
    },
    "team": "3xV"
+  },
+  {
+   "lastAccept": 1590776680,
+   "pos": 160,
+   "score": 72,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 72,
+     "time": 1590776680
+    }
+   },
+   "team": "APA Razi"
   }
  ],
  "tasks": [
