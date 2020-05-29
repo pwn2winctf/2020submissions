@@ -3,10 +3,10 @@
   {
    "lastAccept": 1590770226,
    "pos": 1,
-   "score": 406,
+   "score": 394,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 406,
+     "points": 394,
      "time": 1590770226
     }
    },
@@ -15,10 +15,10 @@
   {
    "lastAccept": 1590770267,
    "pos": 2,
-   "score": 406,
+   "score": 394,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 406,
+     "points": 394,
      "time": 1590770267
     }
    },
@@ -27,10 +27,10 @@
   {
    "lastAccept": 1590770287,
    "pos": 3,
-   "score": 406,
+   "score": 394,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 406,
+     "points": 394,
      "time": 1590770287
     }
    },
@@ -39,10 +39,10 @@
   {
    "lastAccept": 1590770305,
    "pos": 4,
-   "score": 406,
+   "score": 394,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 406,
+     "points": 394,
      "time": 1590770305
     }
    },
@@ -51,10 +51,10 @@
   {
    "lastAccept": 1590770323,
    "pos": 5,
-   "score": 406,
+   "score": 394,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 406,
+     "points": 394,
      "time": 1590770323
     }
    },
@@ -63,14 +63,26 @@
   {
    "lastAccept": 1590770361,
    "pos": 6,
-   "score": 406,
+   "score": 394,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 406,
+     "points": 394,
      "time": 1590770361
     }
    },
    "team": "SSTI"
+  },
+  {
+   "lastAccept": 1590770378,
+   "pos": 7,
+   "score": 394,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 394,
+     "time": 1590770378
+    }
+   },
+   "team": "Benevolent_0rder_0f_4ntelopes"
   }
  ],
  "tasks": [
