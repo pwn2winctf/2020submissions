@@ -2395,6 +2395,18 @@
     }
    },
    "team": "ldrahnik"
+  },
+  {
+   "lastAccept": 1590778346,
+   "pos": 199,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778346
+    }
+   },
+   "team": "Netkubb"
   }
  ],
  "tasks": [
