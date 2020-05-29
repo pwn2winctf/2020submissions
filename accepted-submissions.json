@@ -2519,6 +2519,18 @@
     }
    },
    "team": "RadiumHacker"
+  },
+  {
+   "lastAccept": 1590778790,
+   "pos": 209,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778790
+    }
+   },
+   "team": "PelarianCP"
   }
  ],
  "tasks": [
