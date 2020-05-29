@@ -3311,6 +3311,18 @@
     }
    },
    "team": "brain-dead"
+  },
+  {
+   "lastAccept": 1590787647,
+   "pos": 265,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590787647
+    }
+   },
+   "team": "apoil"
   }
  ],
  "tasks": [
