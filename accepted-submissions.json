@@ -3715,6 +3715,18 @@
     }
    },
    "team": "InsHack@ti"
+  },
+  {
+   "lastAccept": 1590796444,
+   "pos": 286,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590796444
+    }
+   },
+   "team": "score_gazer"
   }
  ],
  "tasks": [
