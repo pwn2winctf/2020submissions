@@ -1,8 +1,32 @@
 {
  "standings": [
   {
-   "lastAccept": 1590783556,
+   "lastAccept": 1590786588,
    "pos": 1,
+   "score": 1338,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 288,
+     "time": 1590784079
+    },
+    "dr_manhattan": {
+     "points": 500,
+     "time": 1590786588
+    },
+    "lost_qkeys": {
+     "points": 500,
+     "time": 1590779836
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770403
+    }
+   },
+   "team": "justCatTheFish"
+  },
+  {
+   "lastAccept": 1590783556,
+   "pos": 2,
    "score": 913,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -19,26 +43,6 @@
     }
    },
    "team": "ID-10-T"
-  },
-  {
-   "lastAccept": 1590784079,
-   "pos": 2,
-   "score": 838,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 288,
-     "time": 1590784079
-    },
-    "lost_qkeys": {
-     "points": 500,
-     "time": 1590779836
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770403
-    }
-   },
-   "team": "justCatTheFish"
   },
   {
    "lastAccept": 1590779815,
@@ -3263,6 +3267,7 @@
   "a_payload_to_rule_them_all",
   "at_your_command",
   "lost_qkeys",
-  "trusted_node"
+  "trusted_node",
+  "dr_manhattan"
  ]
 }
