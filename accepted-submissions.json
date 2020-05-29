@@ -25,8 +25,32 @@
    "team": "justCatTheFish"
   },
   {
-   "lastAccept": 1590789084,
+   "lastAccept": 1590791646,
    "pos": 2,
+   "score": 1110,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 333,
+     "time": 1590779815
+    },
+    "androids_encryption": {
+     "points": 253,
+     "time": 1590776763
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772931
+    },
+    "trusted_node": {
+     "points": 474,
+     "time": 1590791646
+    }
+   },
+   "team": "perfect blue"
+  },
+  {
+   "lastAccept": 1590789084,
+   "pos": 3,
    "score": 1056,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -50,8 +74,8 @@
   },
   {
    "lastAccept": 1590783556,
-   "pos": 3,
-   "score": 883,
+   "pos": 4,
+   "score": 857,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 333,
@@ -62,7 +86,7 @@
      "time": 1590772681
     },
     "trusted_node": {
-     "points": 500,
+     "points": 474,
      "time": 1590783556
     }
    },
@@ -70,7 +94,7 @@
   },
   {
    "lastAccept": 1590787577,
-   "pos": 4,
+   "pos": 5,
    "score": 803,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -90,7 +114,7 @@
   },
   {
    "lastAccept": 1590789659,
-   "pos": 5,
+   "pos": 6,
    "score": 777,
    "taskStats": {
     "androids_encryption": {
@@ -110,7 +134,7 @@
   },
   {
    "lastAccept": 1590789708,
-   "pos": 6,
+   "pos": 7,
    "score": 777,
    "taskStats": {
     "androids_encryption": {
@@ -127,26 +151,6 @@
     }
    },
    "team": "STT"
-  },
-  {
-   "lastAccept": 1590779815,
-   "pos": 7,
-   "score": 636,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 333,
-     "time": 1590779815
-    },
-    "androids_encryption": {
-     "points": 253,
-     "time": 1590776763
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772931
-    }
-   },
-   "team": "perfect blue"
   },
   {
    "lastAccept": 1590789918,
