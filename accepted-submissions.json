@@ -3327,6 +3327,18 @@
     }
    },
    "team": "apoil"
+  },
+  {
+   "lastAccept": 1590787805,
+   "pos": 266,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590787805
+    }
+   },
+   "team": "polpol"
   }
  ],
  "tasks": [
