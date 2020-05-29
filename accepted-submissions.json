@@ -3355,6 +3355,18 @@
     }
    },
    "team": "TELOS"
+  },
+  {
+   "lastAccept": 1590788998,
+   "pos": 268,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590788998
+    }
+   },
+   "team": "GARID LUCID"
   }
  ],
  "tasks": [
