@@ -2715,6 +2715,18 @@
     }
    },
    "team": "c1rcu5_w0lv35"
+  },
+  {
+   "lastAccept": 1590779643,
+   "pos": 225,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779643
+    }
+   },
+   "team": "http.cat/202"
   }
  ],
  "tasks": [
