@@ -2591,6 +2591,18 @@
     }
    },
    "team": "GeeseWithTeeth"
+  },
+  {
+   "lastAccept": 1590779046,
+   "pos": 215,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779046
+    }
+   },
+   "team": "BerenAlone"
   }
  ],
  "tasks": [
