@@ -2383,6 +2383,18 @@
     }
    },
    "team": "Hitori de team"
+  },
+  {
+   "lastAccept": 1590778308,
+   "pos": 198,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778308
+    }
+   },
+   "team": "ldrahnik"
   }
  ],
  "tasks": [
