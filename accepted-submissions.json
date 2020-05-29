@@ -81,8 +81,24 @@
    "team": "Chocolatine"
   },
   {
-   "lastAccept": 1590779717,
+   "lastAccept": 1590787538,
    "pos": 5,
+   "score": 550,
+   "taskStats": {
+    "s1_protocol": {
+     "points": 500,
+     "time": 1590787282
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590787538
+    }
+   },
+   "team": "Tasteless"
+  },
+  {
+   "lastAccept": 1590779717,
+   "pos": 6,
    "score": 524,
    "taskStats": {
     "at_your_command": {
@@ -95,18 +111,6 @@
     }
    },
    "team": "InfoSecIITR"
-  },
-  {
-   "lastAccept": 1590787282,
-   "pos": 6,
-   "score": 500,
-   "taskStats": {
-    "s1_protocol": {
-     "points": 500,
-     "time": 1590787282
-    }
-   },
-   "team": "Tasteless"
   },
   {
    "lastAccept": 1590780540,
