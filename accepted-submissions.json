@@ -2467,6 +2467,18 @@
     }
    },
    "team": "Streb"
+  },
+  {
+   "lastAccept": 1590778627,
+   "pos": 205,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778627
+    }
+   },
+   "team": "Phalerovia"
   }
  ],
  "tasks": [
