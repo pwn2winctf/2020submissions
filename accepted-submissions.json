@@ -3575,6 +3575,18 @@
     }
    },
    "team": "echobash"
+  },
+  {
+   "lastAccept": 1590794047,
+   "pos": 279,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590794047
+    }
+   },
+   "team": "KDB"
   }
  ],
  "tasks": [
