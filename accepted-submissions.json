@@ -3431,6 +3431,18 @@
     }
    },
    "team": "RussianCats"
+  },
+  {
+   "lastAccept": 1590790037,
+   "pos": 272,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590790037
+    }
+   },
+   "team": "B.R.A.V.O"
   }
  ],
  "tasks": [
