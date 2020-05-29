@@ -89,8 +89,28 @@
    "team": "More Smoked Leet Chicken"
   },
   {
-   "lastAccept": 1590779815,
+   "lastAccept": 1590789659,
    "pos": 5,
+   "score": 813,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 263,
+     "time": 1590780647
+    },
+    "omni_crypto": {
+     "points": 500,
+     "time": 1590789659
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779790
+    }
+   },
+   "team": "u310831124E0B5DF3311A"
+  },
+  {
+   "lastAccept": 1590779815,
+   "pos": 6,
    "score": 660,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -110,7 +130,7 @@
   },
   {
    "lastAccept": 1590780443,
-   "pos": 6,
+   "pos": 7,
    "score": 610,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -126,7 +146,7 @@
   },
   {
    "lastAccept": 1590787538,
-   "pos": 7,
+   "pos": 8,
    "score": 550,
    "taskStats": {
     "s1_protocol": {
@@ -142,7 +162,7 @@
   },
   {
    "lastAccept": 1590779717,
-   "pos": 8,
+   "pos": 9,
    "score": 485,
    "taskStats": {
     "at_your_command": {
@@ -158,7 +178,7 @@
   },
   {
    "lastAccept": 1590780540,
-   "pos": 9,
+   "pos": 10,
    "score": 435,
    "taskStats": {
     "at_your_command": {
@@ -170,7 +190,7 @@
   },
   {
    "lastAccept": 1590778653,
-   "pos": 10,
+   "pos": 11,
    "score": 397,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -186,7 +206,7 @@
   },
   {
    "lastAccept": 1590780385,
-   "pos": 11,
+   "pos": 12,
    "score": 397,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -202,7 +222,7 @@
   },
   {
    "lastAccept": 1590786139,
-   "pos": 12,
+   "pos": 13,
    "score": 397,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -218,7 +238,7 @@
   },
   {
    "lastAccept": 1590786933,
-   "pos": 13,
+   "pos": 14,
    "score": 397,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -234,7 +254,7 @@
   },
   {
    "lastAccept": 1590789042,
-   "pos": 14,
+   "pos": 15,
    "score": 397,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -250,7 +270,7 @@
   },
   {
    "lastAccept": 1590779277,
-   "pos": 15,
+   "pos": 16,
    "score": 347,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -262,7 +282,7 @@
   },
   {
    "lastAccept": 1590781775,
-   "pos": 16,
+   "pos": 17,
    "score": 347,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -274,7 +294,7 @@
   },
   {
    "lastAccept": 1590774991,
-   "pos": 17,
+   "pos": 18,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -290,7 +310,7 @@
   },
   {
    "lastAccept": 1590777160,
-   "pos": 18,
+   "pos": 19,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -306,7 +326,7 @@
   },
   {
    "lastAccept": 1590777657,
-   "pos": 19,
+   "pos": 20,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -322,7 +342,7 @@
   },
   {
    "lastAccept": 1590779583,
-   "pos": 20,
+   "pos": 21,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -338,7 +358,7 @@
   },
   {
    "lastAccept": 1590779914,
-   "pos": 21,
+   "pos": 22,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -354,7 +374,7 @@
   },
   {
    "lastAccept": 1590779973,
-   "pos": 22,
+   "pos": 23,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -370,7 +390,7 @@
   },
   {
    "lastAccept": 1590780120,
-   "pos": 23,
+   "pos": 24,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -386,7 +406,7 @@
   },
   {
    "lastAccept": 1590780322,
-   "pos": 24,
+   "pos": 25,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -402,7 +422,7 @@
   },
   {
    "lastAccept": 1590780425,
-   "pos": 25,
+   "pos": 26,
    "score": 313,
    "taskStats": {
     "androids_encryption": {
@@ -415,22 +435,6 @@
     }
    },
    "team": "Houston We Got Pwned"
-  },
-  {
-   "lastAccept": 1590780647,
-   "pos": 26,
-   "score": 313,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 263,
-     "time": 1590780647
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590779790
-    }
-   },
-   "team": "u310831124E0B5DF3311A"
   },
   {
    "lastAccept": 1590781287,
@@ -3417,6 +3421,7 @@
   "lost_qkeys",
   "trusted_node",
   "dr_manhattan",
-  "s1_protocol"
+  "s1_protocol",
+  "omni_crypto"
  ]
 }
