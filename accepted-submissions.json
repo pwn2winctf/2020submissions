@@ -2943,6 +2943,18 @@
     }
    },
    "team": "toolate"
+  },
+  {
+   "lastAccept": 1590780732,
+   "pos": 240,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590780732
+    }
+   },
+   "team": "k1r170"
   }
  ],
  "tasks": [
