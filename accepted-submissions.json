@@ -3291,6 +3291,18 @@
     }
    },
    "team": "napasta"
+  },
+  {
+   "lastAccept": 1590787468,
+   "pos": 264,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590787468
+    }
+   },
+   "team": "brain-dead"
   }
  ],
  "tasks": [
