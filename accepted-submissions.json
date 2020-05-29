@@ -149,8 +149,24 @@
    "team": "Sentry Whale"
   },
   {
-   "lastAccept": 1590779277,
+   "lastAccept": 1590779914,
    "pos": 10,
+   "score": 444,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 394,
+     "time": 1590777806
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779914
+    }
+   },
+   "team": "STT"
+  },
+  {
+   "lastAccept": 1590779277,
+   "pos": 11,
    "score": 420,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -162,7 +178,7 @@
   },
   {
    "lastAccept": 1590779602,
-   "pos": 11,
+   "pos": 12,
    "score": 420,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -171,18 +187,6 @@
     }
    },
    "team": "Chocolatine"
-  },
-  {
-   "lastAccept": 1590777806,
-   "pos": 12,
-   "score": 394,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 394,
-     "time": 1590777806
-    }
-   },
-   "team": "STT"
   },
   {
    "lastAccept": 1590779763,
