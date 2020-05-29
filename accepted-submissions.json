@@ -3,10 +3,10 @@
   {
    "lastAccept": 1590770226,
    "pos": 1,
-   "score": 435,
+   "score": 420,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 435,
+     "points": 420,
      "time": 1590770226
     }
    },
@@ -15,10 +15,10 @@
   {
    "lastAccept": 1590770267,
    "pos": 2,
-   "score": 435,
+   "score": 420,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 435,
+     "points": 420,
      "time": 1590770267
     }
    },
@@ -27,10 +27,10 @@
   {
    "lastAccept": 1590770287,
    "pos": 3,
-   "score": 435,
+   "score": 420,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 435,
+     "points": 420,
      "time": 1590770287
     }
    },
@@ -39,14 +39,26 @@
   {
    "lastAccept": 1590770305,
    "pos": 4,
-   "score": 435,
+   "score": 420,
    "taskStats": {
     "transcendence_rebellion": {
-     "points": 435,
+     "points": 420,
      "time": 1590770305
     }
    },
    "team": "Ganesh"
+  },
+  {
+   "lastAccept": 1590770323,
+   "pos": 5,
+   "score": 420,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 420,
+     "time": 1590770323
+    }
+   },
+   "team": "isok_"
   }
  ],
  "tasks": [
