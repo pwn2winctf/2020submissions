@@ -6,5 +6,9 @@
  {
   "msg": "Please submit flags only once. No submission is lost, as you can see at your pull request. They are processed in queue so your score will never be harmed.",
   "time": 1590772940
+ },
+ {
+  "msg": "Queue should get normal in a few minutes, thank you for the patience.",
+  "time": 1590780049
  }
 ]
