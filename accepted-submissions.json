@@ -3143,6 +3143,18 @@
     }
    },
    "team": "Cyberus"
+  },
+  {
+   "lastAccept": 1590784398,
+   "pos": 254,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590784398
+    }
+   },
+   "team": "Djangos Team"
   }
  ],
  "tasks": [
