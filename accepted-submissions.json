@@ -2651,6 +2651,18 @@
     }
    },
    "team": "Shrek"
+  },
+  {
+   "lastAccept": 1590779359,
+   "pos": 220,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779359
+    }
+   },
+   "team": "PPP"
   }
  ],
  "tasks": [
