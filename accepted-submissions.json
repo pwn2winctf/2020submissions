@@ -2215,6 +2215,18 @@
     }
    },
    "team": "NSI"
+  },
+  {
+   "lastAccept": 1590777756,
+   "pos": 184,
+   "score": 56,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 56,
+     "time": 1590777756
+    }
+   },
+   "team": "Me"
   }
  ],
  "tasks": [
