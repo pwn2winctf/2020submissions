@@ -2967,6 +2967,18 @@
     }
    },
    "team": "Sleeping Senseis"
+  },
+  {
+   "lastAccept": 1590781108,
+   "pos": 242,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590781108
+    }
+   },
+   "team": "HashSlingingHackers"
   }
  ],
  "tasks": [
