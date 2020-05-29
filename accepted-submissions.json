@@ -2483,6 +2483,18 @@
     }
    },
    "team": "Phalerovia"
+  },
+  {
+   "lastAccept": 1590778688,
+   "pos": 206,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778688
+    }
+   },
+   "team": "dietCokeTheorists"
   }
  ],
  "tasks": [
