@@ -45,8 +45,28 @@
    "team": "ID-10-T"
   },
   {
-   "lastAccept": 1590779815,
+   "lastAccept": 1590787577,
    "pos": 3,
+   "score": 858,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 355,
+     "time": 1590786248
+    },
+    "at_your_command": {
+     "points": 453,
+     "time": 1590787577
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590774546
+    }
+   },
+   "team": "More Smoked Leet Chicken"
+  },
+  {
+   "lastAccept": 1590779815,
+   "pos": 4,
    "score": 684,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -66,7 +86,7 @@
   },
   {
    "lastAccept": 1590780443,
-   "pos": 4,
+   "pos": 5,
    "score": 634,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -82,7 +102,7 @@
   },
   {
    "lastAccept": 1590787538,
-   "pos": 5,
+   "pos": 6,
    "score": 550,
    "taskStats": {
     "s1_protocol": {
@@ -98,11 +118,11 @@
   },
   {
    "lastAccept": 1590779717,
-   "pos": 6,
-   "score": 524,
+   "pos": 7,
+   "score": 503,
    "taskStats": {
     "at_your_command": {
-     "points": 474,
+     "points": 453,
      "time": 1590779717
     },
     "transcendence_rebellion": {
@@ -114,11 +134,11 @@
   },
   {
    "lastAccept": 1590780540,
-   "pos": 7,
-   "score": 474,
+   "pos": 8,
+   "score": 453,
    "taskStats": {
     "at_your_command": {
-     "points": 474,
+     "points": 453,
      "time": 1590780540
     }
    },
@@ -126,7 +146,7 @@
   },
   {
    "lastAccept": 1590778653,
-   "pos": 8,
+   "pos": 9,
    "score": 405,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -142,7 +162,7 @@
   },
   {
    "lastAccept": 1590780251,
-   "pos": 9,
+   "pos": 10,
    "score": 405,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -158,7 +178,7 @@
   },
   {
    "lastAccept": 1590780385,
-   "pos": 10,
+   "pos": 11,
    "score": 405,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -174,7 +194,7 @@
   },
   {
    "lastAccept": 1590786139,
-   "pos": 11,
+   "pos": 12,
    "score": 405,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -187,22 +207,6 @@
     }
    },
    "team": "Regular Fellows"
-  },
-  {
-   "lastAccept": 1590786248,
-   "pos": 12,
-   "score": 405,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 355,
-     "time": 1590786248
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590774546
-    }
-   },
-   "team": "More Smoked Leet Chicken"
   },
   {
    "lastAccept": 1590786933,
