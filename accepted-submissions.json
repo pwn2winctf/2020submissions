@@ -1,8 +1,36 @@
 {
  "standings": [
   {
-   "lastAccept": 1590786588,
+   "lastAccept": 1590792270,
    "pos": 1,
+   "score": 1589,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 333,
+     "time": 1590779815
+    },
+    "androids_encryption": {
+     "points": 253,
+     "time": 1590776763
+    },
+    "omnitmizer": {
+     "points": 500,
+     "time": 1590792270
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772931
+    },
+    "trusted_node": {
+     "points": 453,
+     "time": 1590791646
+    }
+   },
+   "team": "perfect blue"
+  },
+  {
+   "lastAccept": 1590786588,
+   "pos": 2,
    "score": 1303,
    "taskStats": {
     "androids_encryption": {
@@ -23,30 +51,6 @@
     }
    },
    "team": "justCatTheFish"
-  },
-  {
-   "lastAccept": 1590791646,
-   "pos": 2,
-   "score": 1089,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 333,
-     "time": 1590779815
-    },
-    "androids_encryption": {
-     "points": 253,
-     "time": 1590776763
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772931
-    },
-    "trusted_node": {
-     "points": 453,
-     "time": 1590791646
-    }
-   },
-   "team": "perfect blue"
   },
   {
    "lastAccept": 1590789084,
@@ -3558,6 +3562,7 @@
   "trusted_node",
   "dr_manhattan",
   "s1_protocol",
-  "omni_crypto"
+  "omni_crypto",
+  "omnitmizer"
  ]
 }
