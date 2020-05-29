@@ -3415,6 +3415,18 @@
     }
    },
    "team": "Shellphish"
+  },
+  {
+   "lastAccept": 1590789808,
+   "pos": 271,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590789808
+    }
+   },
+   "team": "RussianCats"
   }
  ],
  "tasks": [
