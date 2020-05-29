@@ -3495,6 +3495,18 @@
     }
    },
    "team": "StrawHatPirates"
+  },
+  {
+   "lastAccept": 1590791242,
+   "pos": 276,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590791242
+    }
+   },
+   "team": "pizarron"
   }
  ],
  "tasks": [
