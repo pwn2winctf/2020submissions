@@ -1999,6 +1999,18 @@
     }
    },
    "team": "kietu"
+  },
+  {
+   "lastAccept": 1590776975,
+   "pos": 167,
+   "score": 67,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 67,
+     "time": 1590776975
+    }
+   },
+   "team": "CTRL Phreaks"
   }
  ],
  "tasks": [
