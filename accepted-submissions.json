@@ -2531,6 +2531,18 @@
     }
    },
    "team": "PelarianCP"
+  },
+  {
+   "lastAccept": 1590778810,
+   "pos": 210,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778810
+    }
+   },
+   "team": "Hexion"
   }
  ],
  "tasks": [
