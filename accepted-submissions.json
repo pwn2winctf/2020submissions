@@ -1,0 +1,19 @@
+{
+ "standings": [
+  {
+   "lastAccept": 1590770226,
+   "pos": 1,
+   "score": 500,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 500,
+     "time": 1590770226
+    }
+   },
+   "team": "Kuality"
+  }
+ ],
+ "tasks": [
+  "transcendence_rebellion"
+ ]
+}
