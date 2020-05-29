@@ -3075,6 +3075,18 @@
     }
    },
    "team": "Maple Bacon"
+  },
+  {
+   "lastAccept": 1590782414,
+   "pos": 250,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590782414
+    }
+   },
+   "team": "maiSHA256"
   }
  ],
  "tasks": [
