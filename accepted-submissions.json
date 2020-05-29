@@ -1,8 +1,28 @@
 {
  "standings": [
   {
-   "lastAccept": 1590779815,
+   "lastAccept": 1590783556,
    "pos": 1,
+   "score": 933,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 383,
+     "time": 1590777115
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772681
+    },
+    "trusted_node": {
+     "points": 500,
+     "time": 1590783556
+    }
+   },
+   "team": "ID-10-T"
+  },
+  {
+   "lastAccept": 1590779815,
+   "pos": 2,
    "score": 736,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -22,7 +42,7 @@
   },
   {
    "lastAccept": 1590780443,
-   "pos": 2,
+   "pos": 3,
    "score": 686,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -38,7 +58,7 @@
   },
   {
    "lastAccept": 1590779836,
-   "pos": 3,
+   "pos": 4,
    "score": 550,
    "taskStats": {
     "lost_qkeys": {
@@ -54,7 +74,7 @@
   },
   {
    "lastAccept": 1590779717,
-   "pos": 4,
+   "pos": 5,
    "score": 524,
    "taskStats": {
     "at_your_command": {
@@ -70,7 +90,7 @@
   },
   {
    "lastAccept": 1590780540,
-   "pos": 5,
+   "pos": 6,
    "score": 474,
    "taskStats": {
     "at_your_command": {
@@ -79,22 +99,6 @@
     }
    },
    "team": "Balsn"
-  },
-  {
-   "lastAccept": 1590777115,
-   "pos": 6,
-   "score": 433,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 383,
-     "time": 1590777115
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772681
-    }
-   },
-   "team": "ID-10-T"
   },
   {
    "lastAccept": 1590778653,
@@ -3118,6 +3122,7 @@
   "androids_encryption",
   "a_payload_to_rule_them_all",
   "at_your_command",
-  "lost_qkeys"
+  "lost_qkeys",
+  "trusted_node"
  ]
 }
