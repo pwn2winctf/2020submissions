@@ -1,8 +1,28 @@
 {
  "standings": [
   {
-   "lastAccept": 1590779717,
+   "lastAccept": 1590779815,
    "pos": 1,
+   "score": 864,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 420,
+     "time": 1590779815
+    },
+    "androids_encryption": {
+     "points": 394,
+     "time": 1590776763
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772931
+    }
+   },
+   "team": "perfect blue"
+  },
+  {
+   "lastAccept": 1590779717,
+   "pos": 2,
    "score": 550,
    "taskStats": {
     "at_your_command": {
@@ -18,11 +38,11 @@
   },
   {
    "lastAccept": 1590777115,
-   "pos": 2,
-   "score": 485,
+   "pos": 3,
+   "score": 470,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 435,
+     "points": 420,
      "time": 1590777115
     },
     "transcendence_rebellion": {
@@ -34,11 +54,11 @@
   },
   {
    "lastAccept": 1590778653,
-   "pos": 3,
-   "score": 485,
+   "pos": 4,
+   "score": 470,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 435,
+     "points": 420,
      "time": 1590778653
     },
     "transcendence_rebellion": {
@@ -50,7 +70,7 @@
   },
   {
    "lastAccept": 1590774991,
-   "pos": 4,
+   "pos": 5,
    "score": 444,
    "taskStats": {
     "androids_encryption": {
@@ -63,22 +83,6 @@
     }
    },
    "team": "hxp"
-  },
-  {
-   "lastAccept": 1590776763,
-   "pos": 5,
-   "score": 444,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 394,
-     "time": 1590776763
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772931
-    }
-   },
-   "team": "perfect blue"
   },
   {
    "lastAccept": 1590777160,
@@ -131,10 +135,10 @@
   {
    "lastAccept": 1590779277,
    "pos": 9,
-   "score": 435,
+   "score": 420,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 435,
+     "points": 420,
      "time": 1590779277
     }
    },
@@ -143,10 +147,10 @@
   {
    "lastAccept": 1590779602,
    "pos": 10,
-   "score": 435,
+   "score": 420,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 435,
+     "points": 420,
      "time": 1590779602
     }
    },
