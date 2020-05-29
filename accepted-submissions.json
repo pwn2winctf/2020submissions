@@ -3,14 +3,14 @@
   {
    "lastAccept": 1590779815,
    "pos": 1,
-   "score": 764,
+   "score": 758,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 394,
      "time": 1590779815
     },
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590776763
     },
     "transcendence_rebellion": {
@@ -23,14 +23,14 @@
   {
    "lastAccept": 1590780443,
    "pos": 2,
-   "score": 714,
+   "score": 708,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 394,
      "time": 1590779602
     },
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590780443
     }
    },
@@ -159,10 +159,10 @@
   {
    "lastAccept": 1590774991,
    "pos": 11,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590774991
     },
     "transcendence_rebellion": {
@@ -175,10 +175,10 @@
   {
    "lastAccept": 1590777160,
    "pos": 12,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590777160
     },
     "transcendence_rebellion": {
@@ -191,10 +191,10 @@
   {
    "lastAccept": 1590777657,
    "pos": 13,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590777657
     },
     "transcendence_rebellion": {
@@ -207,10 +207,10 @@
   {
    "lastAccept": 1590779583,
    "pos": 14,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590779583
     },
     "transcendence_rebellion": {
@@ -223,10 +223,10 @@
   {
    "lastAccept": 1590779914,
    "pos": 15,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590777806
     },
     "transcendence_rebellion": {
@@ -239,10 +239,10 @@
   {
    "lastAccept": 1590779973,
    "pos": 16,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590779973
     },
     "transcendence_rebellion": {
@@ -255,10 +255,10 @@
   {
    "lastAccept": 1590780120,
    "pos": 17,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590780120
     },
     "transcendence_rebellion": {
@@ -271,10 +271,10 @@
   {
    "lastAccept": 1590780322,
    "pos": 18,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590780322
     },
     "transcendence_rebellion": {
@@ -287,10 +287,10 @@
   {
    "lastAccept": 1590780425,
    "pos": 19,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590780425
     },
     "transcendence_rebellion": {
@@ -303,10 +303,10 @@
   {
    "lastAccept": 1590780647,
    "pos": 20,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590780647
     },
     "transcendence_rebellion": {
@@ -319,10 +319,10 @@
   {
    "lastAccept": 1590781287,
    "pos": 21,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590781287
     },
     "transcendence_rebellion": {
@@ -335,10 +335,10 @@
   {
    "lastAccept": 1590781565,
    "pos": 22,
-   "score": 370,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590781565
     },
     "transcendence_rebellion": {
@@ -349,12 +349,28 @@
    "team": "CTFSG"
   },
   {
-   "lastAccept": 1590779763,
+   "lastAccept": 1590781747,
    "pos": 23,
-   "score": 320,
+   "score": 364,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
+     "time": 1590781747
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770567
+    }
+   },
+   "team": "Shingeki No Covid"
+  },
+  {
+   "lastAccept": 1590779763,
+   "pos": 24,
+   "score": 314,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 314,
      "time": 1590779763
     }
    },
@@ -362,11 +378,11 @@
   },
   {
    "lastAccept": 1590781364,
-   "pos": 24,
-   "score": 320,
+   "pos": 25,
+   "score": 314,
    "taskStats": {
     "androids_encryption": {
-     "points": 320,
+     "points": 314,
      "time": 1590781364
     }
    },
@@ -374,7 +390,7 @@
   },
   {
    "lastAccept": 1590770226,
-   "pos": 25,
+   "pos": 26,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -386,7 +402,7 @@
   },
   {
    "lastAccept": 1590770267,
-   "pos": 26,
+   "pos": 27,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -398,7 +414,7 @@
   },
   {
    "lastAccept": 1590770287,
-   "pos": 27,
+   "pos": 28,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -410,7 +426,7 @@
   },
   {
    "lastAccept": 1590770305,
-   "pos": 28,
+   "pos": 29,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -422,7 +438,7 @@
   },
   {
    "lastAccept": 1590770323,
-   "pos": 29,
+   "pos": 30,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -434,7 +450,7 @@
   },
   {
    "lastAccept": 1590770361,
-   "pos": 30,
+   "pos": 31,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -446,7 +462,7 @@
   },
   {
    "lastAccept": 1590770378,
-   "pos": 31,
+   "pos": 32,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -458,7 +474,7 @@
   },
   {
    "lastAccept": 1590770482,
-   "pos": 32,
+   "pos": 33,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -470,7 +486,7 @@
   },
   {
    "lastAccept": 1590770501,
-   "pos": 33,
+   "pos": 34,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -482,7 +498,7 @@
   },
   {
    "lastAccept": 1590770550,
-   "pos": 34,
+   "pos": 35,
    "score": 50,
    "taskStats": {
     "transcendence_rebellion": {
@@ -491,18 +507,6 @@
     }
    },
    "team": "FireShell"
-  },
-  {
-   "lastAccept": 1590770567,
-   "pos": 35,
-   "score": 50,
-   "taskStats": {
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770567
-    }
-   },
-   "team": "Shingeki No Covid"
   },
   {
    "lastAccept": 1590770600,
