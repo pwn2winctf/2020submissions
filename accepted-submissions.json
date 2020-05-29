@@ -2567,6 +2567,18 @@
     }
    },
    "team": "Vox Dei"
+  },
+  {
+   "lastAccept": 1590778935,
+   "pos": 213,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778935
+    }
+   },
+   "team": "ShroomZ"
   }
  ],
  "tasks": [
