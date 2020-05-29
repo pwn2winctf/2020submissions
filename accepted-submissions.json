@@ -3443,6 +3443,18 @@
     }
    },
    "team": "B.R.A.V.O"
+  },
+  {
+   "lastAccept": 1590790094,
+   "pos": 273,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590790094
+    }
+   },
+   "team": "JonPwnJones"
   }
  ],
  "tasks": [
