@@ -2787,6 +2787,18 @@
     }
    },
    "team": "RPISEC"
+  },
+  {
+   "lastAccept": 1590779876,
+   "pos": 230,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779876
+    }
+   },
+   "team": "Iowa Bois"
   }
  ],
  "tasks": [
