@@ -3023,6 +3023,18 @@
     }
    },
    "team": "VUbar"
+  },
+  {
+   "lastAccept": 1590781708,
+   "pos": 246,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590781708
+    }
+   },
+   "team": "N33rdZ"
   }
  ],
  "tasks": [
