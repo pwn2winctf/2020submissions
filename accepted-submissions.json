@@ -653,8 +653,24 @@
    "team": "House Of Depression"
   },
   {
-   "lastAccept": 1590779763,
+   "lastAccept": 1590790744,
    "pos": 40,
+   "score": 313,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 263,
+     "time": 1590786733
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590790744
+    }
+   },
+   "team": "Invaders"
+  },
+  {
+   "lastAccept": 1590779763,
+   "pos": 41,
    "score": 263,
    "taskStats": {
     "androids_encryption": {
@@ -663,18 +679,6 @@
     }
    },
    "team": "timmy"
-  },
-  {
-   "lastAccept": 1590786733,
-   "pos": 41,
-   "score": 263,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 263,
-     "time": 1590786733
-    }
-   },
-   "team": "Invaders"
   },
   {
    "lastAccept": 1590770226,
