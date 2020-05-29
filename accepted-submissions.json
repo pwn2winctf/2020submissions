@@ -1587,6 +1587,18 @@
     }
    },
    "team": "TokyoWesterns"
+  },
+  {
+   "lastAccept": 1590775348,
+   "pos": 133,
+   "score": 93,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 93,
+     "time": 1590775348
+    }
+   },
+   "team": "Sky2Pwn"
   }
  ],
  "tasks": [
