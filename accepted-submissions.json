@@ -385,13 +385,17 @@
    "team": "pptown"
   },
   {
-   "lastAccept": 1590779277,
+   "lastAccept": 1590793275,
    "pos": 22,
-   "score": 326,
+   "score": 376,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 326,
      "time": 1590779277
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590793275
     }
    },
    "team": "r3billions"
