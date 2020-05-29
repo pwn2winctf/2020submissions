@@ -3187,6 +3187,18 @@
     }
    },
    "team": "Unt!tled"
+  },
+  {
+   "lastAccept": 1590785178,
+   "pos": 257,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590785178
+    }
+   },
+   "team": "technic"
   }
  ],
  "tasks": [
