@@ -1779,6 +1779,18 @@
     }
    },
    "team": "thrumbos"
+  },
+  {
+   "lastAccept": 1590776156,
+   "pos": 149,
+   "score": 80,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 80,
+     "time": 1590776156
+    }
+   },
+   "team": "AmIRight"
   }
  ],
  "tasks": [
