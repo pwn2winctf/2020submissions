@@ -3475,6 +3475,18 @@
     }
    },
    "team": "onotch"
+  },
+  {
+   "lastAccept": 1590790896,
+   "pos": 275,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590790896
+    }
+   },
+   "team": "StrawHatPirates"
   }
  ],
  "tasks": [
