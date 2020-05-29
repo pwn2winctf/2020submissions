@@ -3699,6 +3699,18 @@
     }
    },
    "team": "TEST TEAM PLEASE IGNORE"
+  },
+  {
+   "lastAccept": 1590796312,
+   "pos": 285,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590796312
+    }
+   },
+   "team": "InsHack@ti"
   }
  ],
  "tasks": [
