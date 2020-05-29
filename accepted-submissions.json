@@ -2079,6 +2079,18 @@
     }
    },
    "team": "flagbot"
+  },
+  {
+   "lastAccept": 1590777315,
+   "pos": 173,
+   "score": 63,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 63,
+     "time": 1590777315
+    }
+   },
+   "team": "Spikers"
   }
  ],
  "tasks": [
