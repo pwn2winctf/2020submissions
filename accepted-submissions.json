@@ -3535,6 +3535,18 @@
     }
    },
    "team": "tunks"
+  },
+  {
+   "lastAccept": 1590791966,
+   "pos": 278,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590791966
+    }
+   },
+   "team": "echobash"
   }
  ],
  "tasks": [
