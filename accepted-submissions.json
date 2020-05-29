@@ -2431,6 +2431,18 @@
     }
    },
    "team": "L33t Dev"
+  },
+  {
+   "lastAccept": 1590778455,
+   "pos": 202,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778455
+    }
+   },
+   "team": "break_the_code"
   }
  ],
  "tasks": [
