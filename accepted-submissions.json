@@ -409,8 +409,24 @@
    "team": "Made In MIM"
   },
   {
-   "lastAccept": 1590779763,
+   "lastAccept": 1590782645,
    "pos": 27,
+   "score": 353,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 303,
+     "time": 1590781364
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590782645
+    }
+   },
+   "team": "cxp"
+  },
+  {
+   "lastAccept": 1590779763,
+   "pos": 28,
    "score": 303,
    "taskStats": {
     "androids_encryption": {
@@ -419,18 +435,6 @@
     }
    },
    "team": "timmy"
-  },
-  {
-   "lastAccept": 1590781364,
-   "pos": 28,
-   "score": 303,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 303,
-     "time": 1590781364
-    }
-   },
-   "team": "cxp"
   },
   {
    "lastAccept": 1590770226,
