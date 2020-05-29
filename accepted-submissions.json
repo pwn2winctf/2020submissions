@@ -3683,6 +3683,18 @@
     }
    },
    "team": "K1_W4L0"
+  },
+  {
+   "lastAccept": 1590796182,
+   "pos": 284,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590796182
+    }
+   },
+   "team": "TEST TEAM PLEASE IGNORE"
   }
  ],
  "tasks": [
