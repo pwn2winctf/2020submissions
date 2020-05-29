@@ -3391,6 +3391,18 @@
     }
    },
    "team": "ch"
+  },
+  {
+   "lastAccept": 1590789124,
+   "pos": 270,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590789124
+    }
+   },
+   "team": "Shellphish"
   }
  ],
  "tasks": [
