@@ -2843,6 +2843,18 @@
     }
    },
    "team": "7SecCTF"
+  },
+  {
+   "lastAccept": 1590780080,
+   "pos": 234,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590780080
+    }
+   },
+   "team": "zer0pts"
   }
  ],
  "tasks": [
