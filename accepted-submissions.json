@@ -3099,6 +3099,18 @@
     }
    },
    "team": "maiSHA256"
+  },
+  {
+   "lastAccept": 1590782690,
+   "pos": 251,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590782690
+    }
+   },
+   "team": "y4chtclub"
   }
  ],
  "tasks": [
