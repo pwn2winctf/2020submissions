@@ -2555,6 +2555,18 @@
     }
    },
    "team": "NuttyShell"
+  },
+  {
+   "lastAccept": 1590778913,
+   "pos": 212,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590778913
+    }
+   },
+   "team": "Vox Dei"
   }
  ],
  "tasks": [
