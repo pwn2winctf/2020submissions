@@ -153,8 +153,24 @@
    "team": "The Flat Network Society"
   },
   {
-   "lastAccept": 1590779277,
+   "lastAccept": 1590786139,
    "pos": 10,
+   "score": 423,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 373,
+     "time": 1590786041
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590786139
+    }
+   },
+   "team": "Regular Fellows"
+  },
+  {
+   "lastAccept": 1590779277,
+   "pos": 11,
    "score": 373,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -166,7 +182,7 @@
   },
   {
    "lastAccept": 1590781775,
-   "pos": 11,
+   "pos": 12,
    "score": 373,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -175,18 +191,6 @@
     }
    },
    "team": "tikSNa"
-  },
-  {
-   "lastAccept": 1590786041,
-   "pos": 12,
-   "score": 373,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 373,
-     "time": 1590786041
-    }
-   },
-   "team": "Regular Fellows"
   },
   {
    "lastAccept": 1590774991,
