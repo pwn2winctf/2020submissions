@@ -3199,6 +3199,18 @@
     }
    },
    "team": "technic"
+  },
+  {
+   "lastAccept": 1590785232,
+   "pos": 258,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590785232
+    }
+   },
+   "team": "Stanford Applied Cybersecurity"
   }
  ],
  "tasks": [
