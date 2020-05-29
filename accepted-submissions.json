@@ -25,8 +25,32 @@
    "team": "justCatTheFish"
   },
   {
-   "lastAccept": 1590783556,
+   "lastAccept": 1590789084,
    "pos": 2,
+   "score": 1103,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 347,
+     "time": 1590780251
+    },
+    "androids_encryption": {
+     "points": 271,
+     "time": 1590787729
+    },
+    "at_your_command": {
+     "points": 435,
+     "time": 1590789084
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590775329
+    }
+   },
+   "team": "TokyoWesterns"
+  },
+  {
+   "lastAccept": 1590783556,
+   "pos": 3,
    "score": 897,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -46,15 +70,15 @@
   },
   {
    "lastAccept": 1590787577,
-   "pos": 3,
-   "score": 850,
+   "pos": 4,
+   "score": 832,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 347,
      "time": 1590786248
     },
     "at_your_command": {
-     "points": 453,
+     "points": 435,
      "time": 1590787577
     },
     "transcendence_rebellion": {
@@ -66,7 +90,7 @@
   },
   {
    "lastAccept": 1590779815,
-   "pos": 4,
+   "pos": 5,
    "score": 668,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -83,26 +107,6 @@
     }
    },
    "team": "perfect blue"
-  },
-  {
-   "lastAccept": 1590787729,
-   "pos": 5,
-   "score": 668,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 347,
-     "time": 1590780251
-    },
-    "androids_encryption": {
-     "points": 271,
-     "time": 1590787729
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590775329
-    }
-   },
-   "team": "TokyoWesterns"
   },
   {
    "lastAccept": 1590780443,
@@ -139,10 +143,10 @@
   {
    "lastAccept": 1590779717,
    "pos": 8,
-   "score": 503,
+   "score": 485,
    "taskStats": {
     "at_your_command": {
-     "points": 453,
+     "points": 435,
      "time": 1590779717
     },
     "transcendence_rebellion": {
@@ -155,10 +159,10 @@
   {
    "lastAccept": 1590780540,
    "pos": 9,
-   "score": 453,
+   "score": 435,
    "taskStats": {
     "at_your_command": {
-     "points": 453,
+     "points": 435,
      "time": 1590780540
     }
    },
