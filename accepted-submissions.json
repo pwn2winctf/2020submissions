@@ -3159,6 +3159,18 @@
     }
    },
    "team": "Djangos Team"
+  },
+  {
+   "lastAccept": 1590784634,
+   "pos": 255,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590784634
+    }
+   },
+   "team": "noraneco"
   }
  ],
  "tasks": [
