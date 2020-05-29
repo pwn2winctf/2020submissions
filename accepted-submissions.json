@@ -1659,6 +1659,18 @@
     }
    },
    "team": "stankc"
+  },
+  {
+   "lastAccept": 1590775585,
+   "pos": 139,
+   "score": 88,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 88,
+     "time": 1590775585
+    }
+   },
+   "team": "UWCTF"
   }
  ],
  "tasks": [
