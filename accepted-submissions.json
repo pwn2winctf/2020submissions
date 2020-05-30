@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590866848,
    "pos": 1,
-   "score": 4207,
+   "score": 4186,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 206,
@@ -26,7 +26,7 @@
      "time": 1590864656
     },
     "ip_protection": {
-     "points": 474,
+     "points": 453,
      "time": 1590825510
     },
     "lost_qkeys": {
@@ -161,8 +161,48 @@
    "team": "justCatTheFish"
   },
   {
-   "lastAccept": 1590866934,
+   "lastAccept": 1590868005,
    "pos": 4,
+   "score": 2389,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 136,
+     "time": 1590777657
+    },
+    "at_your_command": {
+     "points": 293,
+     "time": 1590858332
+    },
+    "dr_manhattan": {
+     "points": 333,
+     "time": 1590858272
+    },
+    "ip_protection": {
+     "points": 453,
+     "time": 1590868005
+    },
+    "omni_crypto": {
+     "points": 298,
+     "time": 1590851408
+    },
+    "private_backdoor": {
+     "points": 453,
+     "time": 1590856061
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772019
+    },
+    "tukro": {
+     "points": 373,
+     "time": 1590835225
+    }
+   },
+   "team": "p4"
+  },
+  {
+   "lastAccept": 1590866934,
+   "pos": 5,
    "score": 2203,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -199,42 +239,6 @@
     }
    },
    "team": "Corrupted Pwnis"
-  },
-  {
-   "lastAccept": 1590858332,
-   "pos": 5,
-   "score": 1936,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 136,
-     "time": 1590777657
-    },
-    "at_your_command": {
-     "points": 293,
-     "time": 1590858332
-    },
-    "dr_manhattan": {
-     "points": 333,
-     "time": 1590858272
-    },
-    "omni_crypto": {
-     "points": 298,
-     "time": 1590851408
-    },
-    "private_backdoor": {
-     "points": 453,
-     "time": 1590856061
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772019
-    },
-    "tukro": {
-     "points": 373,
-     "time": 1590835225
-    }
-   },
-   "team": "p4"
   },
   {
    "lastAccept": 1590854449,
@@ -501,36 +505,8 @@
    "team": "NeSE_BG"
   },
   {
-   "lastAccept": 1590857536,
-   "pos": 14,
-   "score": 1373,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 136,
-     "time": 1590789104
-    },
-    "at_your_command": {
-     "points": 293,
-     "time": 1590800674
-    },
-    "butcher_bmc": {
-     "points": 420,
-     "time": 1590857536
-    },
-    "ip_protection": {
-     "points": 474,
-     "time": 1590794827
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590773017
-    }
-   },
-   "team": "Dragon Sector"
-  },
-  {
    "lastAccept": 1590855648,
-   "pos": 15,
+   "pos": 14,
    "score": 1352,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -555,6 +531,34 @@
     }
    },
    "team": "ID-10-T"
+  },
+  {
+   "lastAccept": 1590857536,
+   "pos": 15,
+   "score": 1352,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 136,
+     "time": 1590789104
+    },
+    "at_your_command": {
+     "points": 293,
+     "time": 1590800674
+    },
+    "butcher_bmc": {
+     "points": 420,
+     "time": 1590857536
+    },
+    "ip_protection": {
+     "points": 453,
+     "time": 1590794827
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590773017
+    }
+   },
+   "team": "Dragon Sector"
   },
   {
    "lastAccept": 1590861321,
