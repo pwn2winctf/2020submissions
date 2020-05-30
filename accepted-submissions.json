@@ -4375,6 +4375,18 @@
     }
    },
    "team": "N0N@me13"
+  },
+  {
+   "lastAccept": 1590820399,
+   "pos": 325,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590820399
+    }
+   },
+   "team": "bob8gook"
   }
  ],
  "tasks": [
