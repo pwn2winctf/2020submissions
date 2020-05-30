@@ -1365,8 +1365,28 @@
    "team": "imesec1337"
   },
   {
-   "lastAccept": 1590798712,
+   "lastAccept": 1590862436,
    "pos": 54,
+   "score": 401,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 213,
+     "time": 1590862196
+    },
+    "androids_encryption": {
+     "points": 138,
+     "time": 1590812832
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590862436
+    }
+   },
+   "team": "RooterX"
+  },
+  {
+   "lastAccept": 1590798712,
+   "pos": 55,
    "score": 383,
    "taskStats": {
     "tukro": {
@@ -1378,7 +1398,7 @@
   },
   {
    "lastAccept": 1590780443,
-   "pos": 55,
+   "pos": 56,
    "score": 351,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -1391,22 +1411,6 @@
     }
    },
    "team": "Chocolatine"
-  },
-  {
-   "lastAccept": 1590862196,
-   "pos": 56,
-   "score": 351,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 213,
-     "time": 1590862196
-    },
-    "androids_encryption": {
-     "points": 138,
-     "time": 1590812832
-    }
-   },
-   "team": "RooterX"
   },
   {
    "lastAccept": 1590786933,
