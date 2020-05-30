@@ -3887,6 +3887,18 @@
     }
    },
    "team": ":(){ :|: & };:"
+  },
+  {
+   "lastAccept": 1590801966,
+   "pos": 295,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590801966
+    }
+   },
+   "team": "./Vespiary"
   }
  ],
  "tasks": [
