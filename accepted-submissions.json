@@ -1,69 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590804499,
+   "lastAccept": 1590807018,
    "pos": 1,
-   "score": 1787,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 275,
-     "time": 1590796353
-    },
-    "androids_encryption": {
-     "points": 193,
-     "time": 1590784079
-    },
-    "at_your_command": {
-     "points": 363,
-     "time": 1590804499
-    },
-    "dr_manhattan": {
-     "points": 453,
-     "time": 1590786588
-    },
-    "lost_qkeys": {
-     "points": 453,
-     "time": 1590779836
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770403
-    }
-   },
-   "team": "justCatTheFish"
-  },
-  {
-   "lastAccept": 1590806002,
-   "pos": 2,
-   "score": 1641,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 275,
-     "time": 1590799520
-    },
-    "at_your_command": {
-     "points": 363,
-     "time": 1590799212
-    },
-    "dr_manhattan": {
-     "points": 453,
-     "time": 1590801313
-    },
-    "matrona": {
-     "points": 500,
-     "time": 1590806002
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590779359
-    }
-   },
-   "team": "PPP"
-  },
-  {
-   "lastAccept": 1590792270,
-   "pos": 3,
-   "score": 1471,
+   "score": 1906,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 275,
@@ -72,6 +12,10 @@
     "androids_encryption": {
      "points": 193,
      "time": 1590776763
+    },
+    "dr_manhattan": {
+     "points": 435,
+     "time": 1590807018
     },
     "omnitmizer": {
      "points": 500,
@@ -87,6 +31,66 @@
     }
    },
    "team": "perfect blue"
+  },
+  {
+   "lastAccept": 1590804499,
+   "pos": 2,
+   "score": 1769,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 275,
+     "time": 1590796353
+    },
+    "androids_encryption": {
+     "points": 193,
+     "time": 1590784079
+    },
+    "at_your_command": {
+     "points": 363,
+     "time": 1590804499
+    },
+    "dr_manhattan": {
+     "points": 435,
+     "time": 1590786588
+    },
+    "lost_qkeys": {
+     "points": 453,
+     "time": 1590779836
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770403
+    }
+   },
+   "team": "justCatTheFish"
+  },
+  {
+   "lastAccept": 1590806002,
+   "pos": 3,
+   "score": 1623,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 275,
+     "time": 1590799520
+    },
+    "at_your_command": {
+     "points": 363,
+     "time": 1590799212
+    },
+    "dr_manhattan": {
+     "points": 435,
+     "time": 1590801313
+    },
+    "matrona": {
+     "points": 500,
+     "time": 1590806002
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779359
+    }
+   },
+   "team": "PPP"
   },
   {
    "lastAccept": 1590794891,
@@ -579,10 +583,10 @@
   {
    "lastAccept": 1590804734,
    "pos": 28,
-   "score": 503,
+   "score": 485,
    "taskStats": {
     "dr_manhattan": {
-     "points": 453,
+     "points": 435,
      "time": 1590804734
     },
     "transcendence_rebellion": {
