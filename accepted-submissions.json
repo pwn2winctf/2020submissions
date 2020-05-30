@@ -4275,6 +4275,18 @@
     }
    },
    "team": "outOfCheese"
+  },
+  {
+   "lastAccept": 1590814879,
+   "pos": 319,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590814879
+    }
+   },
+   "team": "Ezbar el mgal"
   }
  ],
  "tasks": [
