@@ -113,9 +113,9 @@
    "team": "perfect blue"
   },
   {
-   "lastAccept": 1590856241,
+   "lastAccept": 1590875106,
    "pos": 3,
-   "score": 2780,
+   "score": 3254,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 201,
@@ -140,6 +140,10 @@
     "omni_crypto": {
      "points": 283,
      "time": 1590833775
+    },
+    "quasi_scriptless": {
+     "points": 474,
+     "time": 1590875106
     },
     "s1_protocol": {
      "points": 355,
@@ -203,7 +207,7 @@
   {
    "lastAccept": 1590873742,
    "pos": 5,
-   "score": 2203,
+   "score": 2177,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 201,
@@ -222,7 +226,7 @@
      "time": 1590806002
     },
     "quasi_scriptless": {
-     "points": 500,
+     "points": 474,
      "time": 1590873742
     },
     "transcendence_rebellion": {
