@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590810797,
    "pos": 1,
-   "score": 2303,
+   "score": 2285,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 263,
@@ -30,7 +30,7 @@
      "time": 1590791646
     },
     "tukro": {
-     "points": 453,
+     "points": 435,
      "time": 1590810797
     }
    },
@@ -97,8 +97,36 @@
    "team": "PPP"
   },
   {
-   "lastAccept": 1590816766,
+   "lastAccept": 1590822213,
    "pos": 4,
+   "score": 1386,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 178,
+     "time": 1590804715
+    },
+    "at_your_command": {
+     "points": 340,
+     "time": 1590804047
+    },
+    "omni_crypto": {
+     "points": 383,
+     "time": 1590822177
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590780080
+    },
+    "tukro": {
+     "points": 435,
+     "time": 1590822213
+    }
+   },
+   "team": "zer0pts"
+  },
+  {
+   "lastAccept": 1590816766,
+   "pos": 5,
    "score": 1219,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -122,7 +150,7 @@
   },
   {
    "lastAccept": 1590794891,
-   "pos": 5,
+   "pos": 6,
    "score": 1153,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -146,7 +174,7 @@
   },
   {
    "lastAccept": 1590800674,
-   "pos": 6,
+   "pos": 7,
    "score": 1068,
    "taskStats": {
     "androids_encryption": {
@@ -170,7 +198,7 @@
   },
   {
    "lastAccept": 1590806021,
-   "pos": 7,
+   "pos": 8,
    "score": 1046,
    "taskStats": {
     "androids_encryption": {
@@ -194,7 +222,7 @@
   },
   {
    "lastAccept": 1590814476,
-   "pos": 8,
+   "pos": 9,
    "score": 985,
    "taskStats": {
     "lost_qkeys": {
@@ -213,52 +241,8 @@
    "team": "Tasteless"
   },
   {
-   "lastAccept": 1590822177,
-   "pos": 9,
-   "score": 951,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 178,
-     "time": 1590804715
-    },
-    "at_your_command": {
-     "points": 340,
-     "time": 1590804047
-    },
-    "omni_crypto": {
-     "points": 383,
-     "time": 1590822177
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590780080
-    }
-   },
-   "team": "zer0pts"
-  },
-  {
-   "lastAccept": 1590803025,
-   "pos": 10,
-   "score": 843,
-   "taskStats": {
-    "at_your_command": {
-     "points": 340,
-     "time": 1590780540
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590794803
-    },
-    "tukro": {
-     "points": 453,
-     "time": 1590803025
-    }
-   },
-   "team": "Balsn"
-  },
-  {
    "lastAccept": 1590789084,
-   "pos": 11,
+   "pos": 10,
    "score": 831,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -282,7 +266,7 @@
   },
   {
    "lastAccept": 1590817321,
-   "pos": 12,
+   "pos": 11,
    "score": 831,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -306,7 +290,7 @@
   },
   {
    "lastAccept": 1590820941,
-   "pos": 13,
+   "pos": 12,
    "score": 831,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -327,6 +311,26 @@
     }
    },
    "team": "the3000"
+  },
+  {
+   "lastAccept": 1590803025,
+   "pos": 13,
+   "score": 825,
+   "taskStats": {
+    "at_your_command": {
+     "points": 340,
+     "time": 1590780540
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590794803
+    },
+    "tukro": {
+     "points": 435,
+     "time": 1590803025
+    }
+   },
+   "team": "Balsn"
   },
   {
    "lastAccept": 1590820914,
@@ -761,20 +765,8 @@
    "team": "0daysober"
   },
   {
-   "lastAccept": 1590798712,
-   "pos": 36,
-   "score": 453,
-   "taskStats": {
-    "tukro": {
-     "points": 453,
-     "time": 1590798712
-    }
-   },
-   "team": "JJY"
-  },
-  {
    "lastAccept": 1590780443,
-   "pos": 37,
+   "pos": 36,
    "score": 441,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -787,6 +779,18 @@
     }
    },
    "team": "Chocolatine"
+  },
+  {
+   "lastAccept": 1590798712,
+   "pos": 37,
+   "score": 435,
+   "taskStats": {
+    "tukro": {
+     "points": 435,
+     "time": 1590798712
+    }
+   },
+   "team": "JJY"
   },
   {
    "lastAccept": 1590817822,
