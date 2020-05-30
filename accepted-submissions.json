@@ -4811,6 +4811,18 @@
     }
    },
    "team": "Lynx"
+  },
+  {
+   "lastAccept": 1590833539,
+   "pos": 351,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590833539
+    }
+   },
+   "team": "Babang Tamvan"
   }
  ],
  "tasks": [
