@@ -4519,6 +4519,18 @@
     }
    },
    "team": "Nat1"
+  },
+  {
+   "lastAccept": 1590823241,
+   "pos": 334,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590823241
+    }
+   },
+   "team": "Four&Six"
   }
  ],
  "tasks": [
