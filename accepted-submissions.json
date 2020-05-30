@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590855096,
    "pos": 1,
-   "score": 3469,
+   "score": 3454,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -18,7 +18,7 @@
      "time": 1590789084
     },
     "butcher_bmc": {
-     "points": 435,
+     "points": 420,
      "time": 1590828878
     },
     "ip_protection": {
@@ -55,7 +55,7 @@
   {
    "lastAccept": 1590829496,
    "pos": 2,
-   "score": 3154,
+   "score": 3139,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -66,7 +66,7 @@
      "time": 1590776763
     },
     "butcher_bmc": {
-     "points": 435,
+     "points": 420,
      "time": 1590825857
     },
     "dr_manhattan": {
@@ -387,7 +387,7 @@
   {
    "lastAccept": 1590855143,
    "pos": 11,
-   "score": 1450,
+   "score": 1435,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -402,7 +402,7 @@
      "time": 1590787577
     },
     "butcher_bmc": {
-     "points": 435,
+     "points": 420,
      "time": 1590794891
     },
     "omni_crypto": {
@@ -417,9 +417,37 @@
    "team": "More Smoked Leet Chicken"
   },
   {
-   "lastAccept": 1590855648,
+   "lastAccept": 1590857536,
    "pos": 12,
    "score": 1391,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 139,
+     "time": 1590789104
+    },
+    "at_your_command": {
+     "points": 308,
+     "time": 1590800674
+    },
+    "butcher_bmc": {
+     "points": 420,
+     "time": 1590857536
+    },
+    "ip_protection": {
+     "points": 474,
+     "time": 1590794827
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590773017
+    }
+   },
+   "team": "Dragon Sector"
+  },
+  {
+   "lastAccept": 1590855648,
+   "pos": 13,
+   "score": 1376,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -430,7 +458,7 @@
      "time": 1590850849
     },
     "butcher_bmc": {
-     "points": 435,
+     "points": 420,
      "time": 1590855648
     },
     "transcendence_rebellion": {
@@ -446,7 +474,7 @@
   },
   {
    "lastAccept": 1590856061,
-   "pos": 13,
+   "pos": 14,
    "score": 1349,
    "taskStats": {
     "androids_encryption": {
@@ -474,7 +502,7 @@
   },
   {
    "lastAccept": 1590836155,
-   "pos": 14,
+   "pos": 15,
    "score": 1328,
    "taskStats": {
     "androids_encryption": {
@@ -502,7 +530,7 @@
   },
   {
    "lastAccept": 1590838049,
-   "pos": 15,
+   "pos": 16,
    "score": 1124,
    "taskStats": {
     "at_your_command": {
@@ -526,7 +554,7 @@
   },
   {
    "lastAccept": 1590849382,
-   "pos": 16,
+   "pos": 17,
    "score": 1118,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -554,7 +582,7 @@
   },
   {
    "lastAccept": 1590816766,
-   "pos": 17,
+   "pos": 18,
    "score": 1044,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -575,30 +603,6 @@
     }
    },
    "team": "samurai"
-  },
-  {
-   "lastAccept": 1590800674,
-   "pos": 18,
-   "score": 971,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 139,
-     "time": 1590789104
-    },
-    "at_your_command": {
-     "points": 308,
-     "time": 1590800674
-    },
-    "ip_protection": {
-     "points": 474,
-     "time": 1590794827
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590773017
-    }
-   },
-   "team": "Dragon Sector"
   },
   {
    "lastAccept": 1590854649,
