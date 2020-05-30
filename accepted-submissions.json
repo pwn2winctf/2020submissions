@@ -3943,6 +3943,18 @@
     }
    },
    "team": "Ba Sing Sec"
+  },
+  {
+   "lastAccept": 1590803737,
+   "pos": 299,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590803737
+    }
+   },
+   "team": "r@o_root"
   }
  ],
  "tasks": [
