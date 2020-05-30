@@ -161,9 +161,49 @@
    "team": "justCatTheFish"
   },
   {
-   "lastAccept": 1590858332,
+   "lastAccept": 1590866934,
    "pos": 4,
-   "score": 1957,
+   "score": 2203,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 206,
+     "time": 1590778653
+    },
+    "androids_encryption": {
+     "points": 136,
+     "time": 1590836691
+    },
+    "at_your_command": {
+     "points": 293,
+     "time": 1590837698
+    },
+    "omni_crypto": {
+     "points": 298,
+     "time": 1590833993
+    },
+    "private_backdoor": {
+     "points": 453,
+     "time": 1590866934
+    },
+    "sound_maze": {
+     "points": 394,
+     "time": 1590851229
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590773247
+    },
+    "tukro": {
+     "points": 373,
+     "time": 1590837490
+    }
+   },
+   "team": "Corrupted Pwnis"
+  },
+  {
+   "lastAccept": 1590858332,
+   "pos": 5,
+   "score": 1936,
    "taskStats": {
     "androids_encryption": {
      "points": 136,
@@ -182,7 +222,7 @@
      "time": 1590851408
     },
     "private_backdoor": {
-     "points": 474,
+     "points": 453,
      "time": 1590856061
     },
     "transcendence_rebellion": {
@@ -198,7 +238,7 @@
   },
   {
    "lastAccept": 1590854449,
-   "pos": 5,
+   "pos": 6,
    "score": 1795,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -231,42 +271,6 @@
     }
    },
    "team": "FireShell"
-  },
-  {
-   "lastAccept": 1590851229,
-   "pos": 6,
-   "score": 1750,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 206,
-     "time": 1590778653
-    },
-    "androids_encryption": {
-     "points": 136,
-     "time": 1590836691
-    },
-    "at_your_command": {
-     "points": 293,
-     "time": 1590837698
-    },
-    "omni_crypto": {
-     "points": 298,
-     "time": 1590833993
-    },
-    "sound_maze": {
-     "points": 394,
-     "time": 1590851229
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590773247
-    },
-    "tukro": {
-     "points": 373,
-     "time": 1590837490
-    }
-   },
-   "team": "Corrupted Pwnis"
   },
   {
    "lastAccept": 1590852675,
@@ -639,14 +643,14 @@
   {
    "lastAccept": 1590863675,
    "pos": 19,
-   "score": 1124,
+   "score": 1103,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 206,
      "time": 1590786041
     },
     "private_backdoor": {
-     "points": 474,
+     "points": 453,
      "time": 1590839671
     },
     "sound_maze": {
