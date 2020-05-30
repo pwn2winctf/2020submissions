@@ -39,7 +39,7 @@
   {
    "lastAccept": 1590804499,
    "pos": 2,
-   "score": 1745,
+   "score": 1727,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 275,
@@ -58,7 +58,7 @@
      "time": 1590786588
     },
     "lost_qkeys": {
-     "points": 453,
+     "points": 435,
      "time": 1590779836
     },
     "transcendence_rebellion": {
@@ -121,32 +121,8 @@
    "team": "More Smoked Leet Chicken"
   },
   {
-   "lastAccept": 1590806021,
-   "pos": 5,
-   "score": 1094,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 185,
-     "time": 1590777806
-    },
-    "lost_qkeys": {
-     "points": 453,
-     "time": 1590806021
-    },
-    "omni_crypto": {
-     "points": 406,
-     "time": 1590789708
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590779914
-    }
-   },
-   "team": "STT"
-  },
-  {
    "lastAccept": 1590800674,
-   "pos": 6,
+   "pos": 5,
    "score": 1082,
    "taskStats": {
     "androids_encryption": {
@@ -169,8 +145,52 @@
    "team": "Dragon Sector"
   },
   {
-   "lastAccept": 1590789084,
+   "lastAccept": 1590806021,
+   "pos": 6,
+   "score": 1076,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 185,
+     "time": 1590777806
+    },
+    "lost_qkeys": {
+     "points": 435,
+     "time": 1590806021
+    },
+    "omni_crypto": {
+     "points": 406,
+     "time": 1590789708
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779914
+    }
+   },
+   "team": "STT"
+  },
+  {
+   "lastAccept": 1590814476,
    "pos": 7,
+   "score": 985,
+   "taskStats": {
+    "lost_qkeys": {
+     "points": 435,
+     "time": 1590814476
+    },
+    "s1_protocol": {
+     "points": 500,
+     "time": 1590787282
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590787538
+    }
+   },
+   "team": "Tasteless"
+  },
+  {
+   "lastAccept": 1590789084,
+   "pos": 8,
    "score": 857,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -194,7 +214,7 @@
   },
   {
    "lastAccept": 1590803025,
-   "pos": 8,
+   "pos": 9,
    "score": 850,
    "taskStats": {
     "at_your_command": {
@@ -214,7 +234,7 @@
   },
   {
    "lastAccept": 1590810966,
-   "pos": 9,
+   "pos": 10,
    "score": 825,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -234,7 +254,7 @@
   },
   {
    "lastAccept": 1590783556,
-   "pos": 10,
+   "pos": 11,
    "score": 778,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -251,26 +271,6 @@
     }
    },
    "team": "ID-10-T"
-  },
-  {
-   "lastAccept": 1590796207,
-   "pos": 11,
-   "score": 688,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 185,
-     "time": 1590781364
-    },
-    "lost_qkeys": {
-     "points": 453,
-     "time": 1590796207
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590782645
-    }
-   },
-   "team": "cxp"
   },
   {
    "lastAccept": 1590794366,
@@ -293,8 +293,28 @@
    "team": "the3000"
   },
   {
-   "lastAccept": 1590789659,
+   "lastAccept": 1590796207,
    "pos": 13,
+   "score": 670,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 185,
+     "time": 1590781364
+    },
+    "lost_qkeys": {
+     "points": 435,
+     "time": 1590796207
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590782645
+    }
+   },
+   "team": "cxp"
+  },
+  {
+   "lastAccept": 1590789659,
+   "pos": 14,
    "score": 641,
    "taskStats": {
     "androids_encryption": {
@@ -314,7 +334,7 @@
   },
   {
    "lastAccept": 1590795801,
-   "pos": 14,
+   "pos": 15,
    "score": 641,
    "taskStats": {
     "androids_encryption": {
@@ -334,7 +354,7 @@
   },
   {
    "lastAccept": 1590805911,
-   "pos": 15,
+   "pos": 16,
    "score": 641,
    "taskStats": {
     "androids_encryption": {
@@ -354,7 +374,7 @@
   },
   {
    "lastAccept": 1590806992,
-   "pos": 16,
+   "pos": 17,
    "score": 641,
    "taskStats": {
     "androids_encryption": {
@@ -374,7 +394,7 @@
   },
   {
    "lastAccept": 1590813189,
-   "pos": 17,
+   "pos": 18,
    "score": 641,
    "taskStats": {
     "androids_encryption": {
@@ -394,7 +414,7 @@
   },
   {
    "lastAccept": 1590794070,
-   "pos": 18,
+   "pos": 19,
    "score": 582,
    "taskStats": {
     "androids_encryption": {
@@ -414,7 +434,7 @@
   },
   {
    "lastAccept": 1590804715,
-   "pos": 19,
+   "pos": 20,
    "score": 582,
    "taskStats": {
     "androids_encryption": {
@@ -431,22 +451,6 @@
     }
    },
    "team": "zer0pts"
-  },
-  {
-   "lastAccept": 1590787538,
-   "pos": 20,
-   "score": 550,
-   "taskStats": {
-    "s1_protocol": {
-     "points": 500,
-     "time": 1590787282
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590787538
-    }
-   },
-   "team": "Tasteless"
   },
   {
    "lastAccept": 1590789918,
