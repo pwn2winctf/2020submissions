@@ -5031,6 +5031,18 @@
     }
    },
    "team": "ProSnake"
+  },
+  {
+   "lastAccept": 1590838724,
+   "pos": 363,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590838724
+    }
+   },
+   "team": "common"
   }
  ],
  "tasks": [
