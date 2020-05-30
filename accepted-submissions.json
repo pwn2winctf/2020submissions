@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590855096,
    "pos": 1,
-   "score": 3490,
+   "score": 3479,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -46,7 +46,7 @@
      "time": 1590775329
     },
     "trusted_node": {
-     "points": 394,
+     "points": 383,
      "time": 1590827144
     }
    },
@@ -55,7 +55,7 @@
   {
    "lastAccept": 1590829496,
    "pos": 2,
-   "score": 3175,
+   "score": 3164,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -90,7 +90,7 @@
      "time": 1590772931
     },
     "trusted_node": {
-     "points": 394,
+     "points": 383,
      "time": 1590791646
     },
     "tukro": {
@@ -101,9 +101,9 @@
    "team": "perfect blue"
   },
   {
-   "lastAccept": 1590854699,
+   "lastAccept": 1590856241,
    "pos": 3,
-   "score": 2560,
+   "score": 2943,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -140,6 +140,10 @@
     "transcendence_rebellion": {
      "points": 50,
      "time": 1590770403
+    },
+    "trusted_node": {
+     "points": 383,
+     "time": 1590856241
     }
    },
    "team": "justCatTheFish"
@@ -147,7 +151,7 @@
   {
    "lastAccept": 1590854449,
    "pos": 4,
-   "score": 1885,
+   "score": 1874,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -174,7 +178,7 @@
      "time": 1590770550
     },
     "trusted_node": {
-     "points": 394,
+     "points": 383,
      "time": 1590834018
     }
    },
@@ -383,7 +387,7 @@
   {
    "lastAccept": 1590855648,
    "pos": 11,
-   "score": 1402,
+   "score": 1391,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -402,43 +406,15 @@
      "time": 1590772681
     },
     "trusted_node": {
-     "points": 394,
+     "points": 383,
      "time": 1590783556
     }
    },
    "team": "ID-10-T"
   },
   {
-   "lastAccept": 1590836155,
-   "pos": 12,
-   "score": 1349,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 139,
-     "time": 1590827737
-    },
-    "lost_qkeys": {
-     "points": 383,
-     "time": 1590814476
-    },
-    "s1_protocol": {
-     "points": 383,
-     "time": 1590787282
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590787538
-    },
-    "trusted_node": {
-     "points": 394,
-     "time": 1590836155
-    }
-   },
-   "team": "Tasteless"
-  },
-  {
    "lastAccept": 1590856061,
-   "pos": 13,
+   "pos": 12,
    "score": 1349,
    "taskStats": {
     "androids_encryption": {
@@ -463,6 +439,34 @@
     }
    },
    "team": "p4"
+  },
+  {
+   "lastAccept": 1590836155,
+   "pos": 13,
+   "score": 1338,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 139,
+     "time": 1590827737
+    },
+    "lost_qkeys": {
+     "points": 383,
+     "time": 1590814476
+    },
+    "s1_protocol": {
+     "points": 383,
+     "time": 1590787282
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590787538
+    },
+    "trusted_node": {
+     "points": 383,
+     "time": 1590836155
+    }
+   },
+   "team": "Tasteless"
   },
   {
    "lastAccept": 1590838049,
@@ -713,32 +717,8 @@
    "team": "efiens"
   },
   {
-   "lastAccept": 1590854577,
-   "pos": 24,
-   "score": 798,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 215,
-     "time": 1590839647
-    },
-    "androids_encryption": {
-     "points": 139,
-     "time": 1590854577
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590771848
-    },
-    "trusted_node": {
-     "points": 394,
-     "time": 1590847017
-    }
-   },
-   "team": "NoPwnIntended"
-  },
-  {
    "lastAccept": 1590829726,
-   "pos": 25,
+   "pos": 24,
    "score": 787,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -759,6 +739,30 @@
     }
    },
    "team": "bi0s"
+  },
+  {
+   "lastAccept": 1590854577,
+   "pos": 25,
+   "score": 787,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 215,
+     "time": 1590839647
+    },
+    "androids_encryption": {
+     "points": 139,
+     "time": 1590854577
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590771848
+    },
+    "trusted_node": {
+     "points": 383,
+     "time": 1590847017
+    }
+   },
+   "team": "NoPwnIntended"
   },
   {
    "lastAccept": 1590834294,
@@ -1071,14 +1075,14 @@
   {
    "lastAccept": 1590791753,
    "pos": 41,
-   "score": 444,
+   "score": 433,
    "taskStats": {
     "transcendence_rebellion": {
      "points": 50,
      "time": 1590771389
     },
     "trusted_node": {
-     "points": 394,
+     "points": 383,
      "time": 1590791753
     }
    },
