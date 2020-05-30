@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590866848,
    "pos": 1,
-   "score": 4037,
+   "score": 4023,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 197,
@@ -18,7 +18,7 @@
      "time": 1590789084
     },
     "butcher_bmc": {
-     "points": 420,
+     "points": 406,
      "time": 1590828878
     },
     "dr_manhattan": {
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1590875743,
    "pos": 2,
-   "score": 3749,
+   "score": 3735,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 197,
@@ -78,7 +78,7 @@
      "time": 1590860401
     },
     "butcher_bmc": {
-     "points": 420,
+     "points": 406,
      "time": 1590825857
     },
     "dr_manhattan": {
@@ -169,9 +169,9 @@
    "team": "justCatTheFish"
   },
   {
-   "lastAccept": 1590877564,
+   "lastAccept": 1590878943,
    "pos": 4,
-   "score": 2718,
+   "score": 3124,
    "taskStats": {
     "androids_encryption": {
      "points": 135,
@@ -180,6 +180,10 @@
     "at_your_command": {
      "points": 293,
      "time": 1590858332
+    },
+    "butcher_bmc": {
+     "points": 406,
+     "time": 1590878943
     },
     "dr_manhattan": {
      "points": 333,
@@ -429,40 +433,8 @@
    "team": "NeSE_BG"
   },
   {
-   "lastAccept": 1590855143,
-   "pos": 11,
-   "score": 1378,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 197,
-     "time": 1590786248
-    },
-    "androids_encryption": {
-     "points": 135,
-     "time": 1590852905
-    },
-    "at_your_command": {
-     "points": 293,
-     "time": 1590787577
-    },
-    "butcher_bmc": {
-     "points": 420,
-     "time": 1590794891
-    },
-    "omni_crypto": {
-     "points": 283,
-     "time": 1590855143
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590774546
-    }
-   },
-   "team": "More Smoked Leet Chicken"
-  },
-  {
    "lastAccept": 1590856600,
-   "pos": 12,
+   "pos": 11,
    "score": 1375,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -494,7 +466,7 @@
   },
   {
    "lastAccept": 1590857631,
-   "pos": 13,
+   "pos": 12,
    "score": 1371,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -523,6 +495,38 @@
     }
    },
    "team": "Kuality"
+  },
+  {
+   "lastAccept": 1590855143,
+   "pos": 13,
+   "score": 1364,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 197,
+     "time": 1590786248
+    },
+    "androids_encryption": {
+     "points": 135,
+     "time": 1590852905
+    },
+    "at_your_command": {
+     "points": 293,
+     "time": 1590787577
+    },
+    "butcher_bmc": {
+     "points": 406,
+     "time": 1590794891
+    },
+    "omni_crypto": {
+     "points": 283,
+     "time": 1590855143
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590774546
+    }
+   },
+   "team": "More Smoked Leet Chicken"
   },
   {
    "lastAccept": 1590835250,
@@ -559,7 +563,7 @@
   {
    "lastAccept": 1590855648,
    "pos": 15,
-   "score": 1343,
+   "score": 1329,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 197,
@@ -570,7 +574,7 @@
      "time": 1590850849
     },
     "butcher_bmc": {
-     "points": 420,
+     "points": 406,
      "time": 1590855648
     },
     "transcendence_rebellion": {
@@ -587,7 +591,7 @@
   {
    "lastAccept": 1590857536,
    "pos": 16,
-   "score": 1333,
+   "score": 1319,
    "taskStats": {
     "androids_encryption": {
      "points": 135,
@@ -598,7 +602,7 @@
      "time": 1590800674
     },
     "butcher_bmc": {
-     "points": 420,
+     "points": 406,
      "time": 1590857536
     },
     "ip_protection": {
