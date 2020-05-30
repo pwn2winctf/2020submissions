@@ -3907,6 +3907,18 @@
     }
    },
    "team": "./Vespiary"
+  },
+  {
+   "lastAccept": 1590803370,
+   "pos": 296,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590803370
+    }
+   },
+   "team": "Sieberrsec"
   }
  ],
  "tasks": [
