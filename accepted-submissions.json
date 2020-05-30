@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590829496,
    "pos": 1,
-   "score": 3246,
+   "score": 3234,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -42,7 +42,7 @@
      "time": 1590791646
     },
     "tukro": {
-     "points": 406,
+     "points": 394,
      "time": 1590810797
     }
    },
@@ -137,9 +137,41 @@
    "team": "justCatTheFish"
   },
   {
-   "lastAccept": 1590851229,
+   "lastAccept": 1590853332,
    "pos": 4,
-   "score": 1836,
+   "score": 1853,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 218,
+     "time": 1590799520
+    },
+    "at_your_command": {
+     "points": 308,
+     "time": 1590799212
+    },
+    "dr_manhattan": {
+     "points": 383,
+     "time": 1590801313
+    },
+    "matrona": {
+     "points": 500,
+     "time": 1590806002
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779359
+    },
+    "tukro": {
+     "points": 394,
+     "time": 1590853332
+    }
+   },
+   "team": "PPP"
+  },
+  {
+   "lastAccept": 1590851229,
+   "pos": 5,
+   "score": 1824,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -166,7 +198,7 @@
      "time": 1590773247
     },
     "tukro": {
-     "points": 406,
+     "points": 394,
      "time": 1590837490
     }
    },
@@ -174,8 +206,8 @@
   },
   {
    "lastAccept": 1590852675,
-   "pos": 5,
-   "score": 1824,
+   "pos": 6,
+   "score": 1812,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -202,7 +234,7 @@
      "time": 1590780080
     },
     "tukro": {
-     "points": 406,
+     "points": 394,
      "time": 1590822213
     }
    },
@@ -210,7 +242,7 @@
   },
   {
    "lastAccept": 1590846025,
-   "pos": 6,
+   "pos": 7,
    "score": 1516,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -242,7 +274,7 @@
   },
   {
    "lastAccept": 1590835250,
-   "pos": 7,
+   "pos": 8,
    "score": 1493,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -273,34 +305,6 @@
    "team": "0daysober"
   },
   {
-   "lastAccept": 1590806002,
-   "pos": 8,
-   "score": 1459,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 218,
-     "time": 1590799520
-    },
-    "at_your_command": {
-     "points": 308,
-     "time": 1590799212
-    },
-    "dr_manhattan": {
-     "points": 383,
-     "time": 1590801313
-    },
-    "matrona": {
-     "points": 500,
-     "time": 1590806002
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590779359
-    }
-   },
-   "team": "PPP"
-  },
-  {
    "lastAccept": 1590836155,
    "pos": 9,
    "score": 1384,
@@ -329,32 +333,8 @@
    "team": "Tasteless"
   },
   {
-   "lastAccept": 1590838049,
-   "pos": 10,
-   "score": 1170,
-   "taskStats": {
-    "at_your_command": {
-     "points": 308,
-     "time": 1590780540
-    },
-    "lost_qkeys": {
-     "points": 406,
-     "time": 1590838049
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590794803
-    },
-    "tukro": {
-     "points": 406,
-     "time": 1590803025
-    }
-   },
-   "team": "Balsn"
-  },
-  {
    "lastAccept": 1590852905,
-   "pos": 11,
+   "pos": 10,
    "score": 1169,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -379,6 +359,30 @@
     }
    },
    "team": "More Smoked Leet Chicken"
+  },
+  {
+   "lastAccept": 1590838049,
+   "pos": 11,
+   "score": 1158,
+   "taskStats": {
+    "at_your_command": {
+     "points": 308,
+     "time": 1590780540
+    },
+    "lost_qkeys": {
+     "points": 406,
+     "time": 1590838049
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590794803
+    },
+    "tukro": {
+     "points": 394,
+     "time": 1590803025
+    }
+   },
+   "team": "Balsn"
   },
   {
    "lastAccept": 1590843388,
@@ -587,7 +591,7 @@
   {
    "lastAccept": 1590851408,
    "pos": 20,
-   "score": 904,
+   "score": 892,
    "taskStats": {
     "androids_encryption": {
      "points": 140,
@@ -602,7 +606,7 @@
      "time": 1590772019
     },
     "tukro": {
-     "points": 406,
+     "points": 394,
      "time": 1590835225
     }
    },
@@ -1243,10 +1247,10 @@
   {
    "lastAccept": 1590798712,
    "pos": 52,
-   "score": 406,
+   "score": 394,
    "taskStats": {
     "tukro": {
-     "points": 406,
+     "points": 394,
      "time": 1590798712
     }
    },
