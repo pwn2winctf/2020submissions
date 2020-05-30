@@ -4299,6 +4299,18 @@
     }
    },
    "team": "Papa"
+  },
+  {
+   "lastAccept": 1590815015,
+   "pos": 321,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590815015
+    }
+   },
+   "team": "han solo"
   }
  ],
  "tasks": [
