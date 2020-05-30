@@ -4111,6 +4111,18 @@
     }
    },
    "team": "killswitch"
+  },
+  {
+   "lastAccept": 1590808899,
+   "pos": 309,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590808899
+    }
+   },
+   "team": "c0urage"
   }
  ],
  "tasks": [
