@@ -773,13 +773,17 @@
    "team": "10sec"
   },
   {
-   "lastAccept": 1590814451,
+   "lastAccept": 1590817822,
    "pos": 38,
-   "score": 340,
+   "score": 390,
    "taskStats": {
     "at_your_command": {
      "points": 340,
      "time": 1590814451
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590817822
     }
    },
    "team": "PwnaSonic"
