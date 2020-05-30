@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590825857,
    "pos": 1,
-   "score": 3081,
+   "score": 3060,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 260,
@@ -14,7 +14,7 @@
      "time": 1590776763
     },
     "butcher_bmc": {
-     "points": 474,
+     "points": 453,
      "time": 1590825857
     },
     "dr_manhattan": {
@@ -45,9 +45,9 @@
    "team": "perfect blue"
   },
   {
-   "lastAccept": 1590827144,
+   "lastAccept": 1590828878,
    "pos": 2,
-   "score": 1723,
+   "score": 2176,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 260,
@@ -60,6 +60,10 @@
     "at_your_command": {
      "points": 333,
      "time": 1590789084
+    },
+    "butcher_bmc": {
+     "points": 453,
+     "time": 1590828878
     },
     "ip_protection": {
      "points": 474,
@@ -243,7 +247,7 @@
   {
    "lastAccept": 1590794891,
    "pos": 9,
-   "score": 1117,
+   "score": 1096,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 260,
@@ -254,7 +258,7 @@
      "time": 1590787577
     },
     "butcher_bmc": {
-     "points": 474,
+     "points": 453,
      "time": 1590794891
     },
     "transcendence_rebellion": {
