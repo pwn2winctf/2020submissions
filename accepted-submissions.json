@@ -4547,6 +4547,18 @@
     }
    },
    "team": "dididi"
+  },
+  {
+   "lastAccept": 1590823833,
+   "pos": 336,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590823833
+    }
+   },
+   "team": "Tea Time"
   }
  ],
  "tasks": [
