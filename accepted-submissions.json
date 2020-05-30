@@ -5155,6 +5155,18 @@
     }
    },
    "team": "self"
+  },
+  {
+   "lastAccept": 1590843838,
+   "pos": 370,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590843838
+    }
+   },
+   "team": "Code Black"
   }
  ],
  "tasks": [
