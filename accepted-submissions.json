@@ -93,9 +93,9 @@
    "team": "TokyoWesterns"
   },
   {
-   "lastAccept": 1590833775,
+   "lastAccept": 1590850440,
    "pos": 3,
-   "score": 1841,
+   "score": 2276,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -121,6 +121,10 @@
      "points": 320,
      "time": 1590833775
     },
+    "sound_maze": {
+     "points": 435,
+     "time": 1590850440
+    },
     "transcendence_rebellion": {
      "points": 50,
      "time": 1590770403
@@ -131,7 +135,7 @@
   {
    "lastAccept": 1590846025,
    "pos": 4,
-   "score": 1579,
+   "score": 1561,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -146,7 +150,7 @@
      "time": 1590846025
     },
     "sound_maze": {
-     "points": 453,
+     "points": 435,
      "time": 1590842739
     },
     "transcendence_rebellion": {
@@ -309,36 +313,8 @@
    "team": "zer0pts"
   },
   {
-   "lastAccept": 1590849382,
-   "pos": 10,
-   "score": 1185,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 223,
-     "time": 1590802158
-    },
-    "androids_encryption": {
-     "points": 145,
-     "time": 1590817321
-    },
-    "at_your_command": {
-     "points": 314,
-     "time": 1590814795
-    },
-    "sound_maze": {
-     "points": 453,
-     "time": 1590849382
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770226
-    }
-   },
-   "team": "Kuality"
-  },
-  {
    "lastAccept": 1590838049,
-   "pos": 11,
+   "pos": 10,
    "score": 1176,
    "taskStats": {
     "at_your_command": {
@@ -359,6 +335,34 @@
     }
    },
    "team": "Balsn"
+  },
+  {
+   "lastAccept": 1590849382,
+   "pos": 11,
+   "score": 1167,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 223,
+     "time": 1590802158
+    },
+    "androids_encryption": {
+     "points": 145,
+     "time": 1590817321
+    },
+    "at_your_command": {
+     "points": 314,
+     "time": 1590814795
+    },
+    "sound_maze": {
+     "points": 435,
+     "time": 1590849382
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770226
+    }
+   },
+   "team": "Kuality"
   },
   {
    "lastAccept": 1590843388,
@@ -419,7 +423,7 @@
   {
    "lastAccept": 1590816766,
    "pos": 14,
-   "score": 1109,
+   "score": 1091,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -430,7 +434,7 @@
      "time": 1590816766
     },
     "sound_maze": {
-     "points": 453,
+     "points": 435,
      "time": 1590810966
     },
     "transcendence_rebellion": {
