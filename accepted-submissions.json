@@ -4227,6 +4227,18 @@
     }
    },
    "team": "Shigudari"
+  },
+  {
+   "lastAccept": 1590813088,
+   "pos": 316,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590813088
+    }
+   },
+   "team": "outOfCheese"
   }
  ],
  "tasks": [
