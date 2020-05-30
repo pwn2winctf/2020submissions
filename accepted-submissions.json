@@ -1629,8 +1629,28 @@
    "team": "./Vespiary"
   },
   {
-   "lastAccept": 1590798712,
+   "lastAccept": 1590879627,
    "pos": 63,
+   "score": 380,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 197,
+     "time": 1590866887
+    },
+    "androids_encryption": {
+     "points": 133,
+     "time": 1590878996
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590879627
+    }
+   },
+   "team": "soloteam"
+  },
+  {
+   "lastAccept": 1590798712,
+   "pos": 64,
    "score": 373,
    "taskStats": {
     "tukro": {
@@ -1642,7 +1662,7 @@
   },
   {
    "lastAccept": 1590780443,
-   "pos": 64,
+   "pos": 65,
    "score": 330,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -1655,22 +1675,6 @@
     }
    },
    "team": "Chocolatine"
-  },
-  {
-   "lastAccept": 1590878996,
-   "pos": 65,
-   "score": 330,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 197,
-     "time": 1590866887
-    },
-    "androids_encryption": {
-     "points": 133,
-     "time": 1590878996
-    }
-   },
-   "team": "soloteam"
   },
   {
    "lastAccept": 1590786933,
