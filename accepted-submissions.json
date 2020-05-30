@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590866848,
    "pos": 1,
-   "score": 4086,
+   "score": 4068,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 199,
@@ -34,7 +34,7 @@
      "time": 1590855096
     },
     "matrona": {
-     "points": 453,
+     "points": 435,
      "time": 1590866848
     },
     "omni_crypto": {
@@ -61,9 +61,9 @@
    "team": "TokyoWesterns"
   },
   {
-   "lastAccept": 1590860401,
+   "lastAccept": 1590875743,
    "pos": 2,
-   "score": 3325,
+   "score": 3760,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 199,
@@ -84,6 +84,10 @@
     "dr_manhattan": {
      "points": 333,
      "time": 1590807018
+    },
+    "matrona": {
+     "points": 435,
+     "time": 1590875743
     },
     "omni_crypto": {
      "points": 283,
@@ -205,44 +209,8 @@
    "team": "p4"
   },
   {
-   "lastAccept": 1590873742,
-   "pos": 5,
-   "score": 2175,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 199,
-     "time": 1590799520
-    },
-    "at_your_command": {
-     "points": 293,
-     "time": 1590799212
-    },
-    "dr_manhattan": {
-     "points": 333,
-     "time": 1590801313
-    },
-    "matrona": {
-     "points": 453,
-     "time": 1590806002
-    },
-    "quasi_scriptless": {
-     "points": 474,
-     "time": 1590873742
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590779359
-    },
-    "tukro": {
-     "points": 373,
-     "time": 1590853332
-    }
-   },
-   "team": "PPP"
-  },
-  {
    "lastAccept": 1590866934,
-   "pos": 6,
+   "pos": 5,
    "score": 2160,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -281,9 +249,45 @@
    "team": "Corrupted Pwnis"
   },
   {
+   "lastAccept": 1590873742,
+   "pos": 6,
+   "score": 2157,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 199,
+     "time": 1590799520
+    },
+    "at_your_command": {
+     "points": 293,
+     "time": 1590799212
+    },
+    "dr_manhattan": {
+     "points": 333,
+     "time": 1590801313
+    },
+    "matrona": {
+     "points": 435,
+     "time": 1590806002
+    },
+    "quasi_scriptless": {
+     "points": 474,
+     "time": 1590873742
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779359
+    },
+    "tukro": {
+     "points": 373,
+     "time": 1590853332
+    }
+   },
+   "team": "PPP"
+  },
+  {
    "lastAccept": 1590869559,
    "pos": 7,
-   "score": 2142,
+   "score": 2124,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 199,
@@ -298,7 +302,7 @@
      "time": 1590804047
     },
     "matrona": {
-     "points": 453,
+     "points": 435,
      "time": 1590869559
     },
     "omni_crypto": {
