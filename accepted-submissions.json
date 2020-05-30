@@ -4923,6 +4923,18 @@
     }
    },
    "team": "KXTI_PineCone"
+  },
+  {
+   "lastAccept": 1590835089,
+   "pos": 357,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590835089
+    }
+   },
+   "team": "KarToff"
   }
  ],
  "tasks": [
