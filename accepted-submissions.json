@@ -4051,6 +4051,18 @@
     }
    },
    "team": "RedTiger"
+  },
+  {
+   "lastAccept": 1590806573,
+   "pos": 305,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590806573
+    }
+   },
+   "team": "MorningLightMountain"
   }
  ],
  "tasks": [
