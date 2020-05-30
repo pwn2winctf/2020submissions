@@ -4455,6 +4455,18 @@
     }
    },
    "team": "Disqualified"
+  },
+  {
+   "lastAccept": 1590821929,
+   "pos": 330,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590821929
+    }
+   },
+   "team": "S33DM0N"
   }
  ],
  "tasks": [
