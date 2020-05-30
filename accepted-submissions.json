@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590829496,
    "pos": 1,
-   "score": 3223,
+   "score": 3212,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -30,7 +30,7 @@
      "time": 1590792270
     },
     "s1_protocol": {
-     "points": 394,
+     "points": 383,
      "time": 1590829496
     },
     "transcendence_rebellion": {
@@ -51,7 +51,7 @@
   {
    "lastAccept": 1590852306,
    "pos": 2,
-   "score": 3144,
+   "score": 3133,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -78,7 +78,7 @@
      "time": 1590845710
     },
     "s1_protocol": {
-     "points": 394,
+     "points": 383,
      "time": 1590840266
     },
     "sound_maze": {
@@ -97,9 +97,9 @@
    "team": "TokyoWesterns"
   },
   {
-   "lastAccept": 1590850440,
+   "lastAccept": 1590854699,
    "pos": 3,
-   "score": 2208,
+   "score": 2591,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -124,6 +124,10 @@
     "omni_crypto": {
      "points": 308,
      "time": 1590833775
+    },
+    "s1_protocol": {
+     "points": 383,
+     "time": 1590854699
     },
     "sound_maze": {
      "points": 406,
@@ -243,7 +247,7 @@
   {
    "lastAccept": 1590852675,
    "pos": 7,
-   "score": 1811,
+   "score": 1800,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -262,7 +266,7 @@
      "time": 1590822177
     },
     "s1_protocol": {
-     "points": 394,
+     "points": 383,
      "time": 1590852675
     },
     "transcendence_rebellion": {
@@ -279,7 +283,7 @@
   {
    "lastAccept": 1590835250,
    "pos": 8,
-   "score": 1482,
+   "score": 1471,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -298,7 +302,7 @@
      "time": 1590830135
     },
     "s1_protocol": {
-     "points": 394,
+     "points": 383,
      "time": 1590822541
     },
     "transcendence_rebellion": {
@@ -311,7 +315,7 @@
   {
    "lastAccept": 1590836155,
    "pos": 9,
-   "score": 1383,
+   "score": 1372,
    "taskStats": {
     "androids_encryption": {
      "points": 139,
@@ -322,7 +326,7 @@
      "time": 1590814476
     },
     "s1_protocol": {
-     "points": 394,
+     "points": 383,
      "time": 1590787282
     },
     "transcendence_rebellion": {
@@ -665,32 +669,8 @@
    "team": "efiens"
   },
   {
-   "lastAccept": 1590829726,
-   "pos": 23,
-   "score": 801,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 218,
-     "time": 1590794225
-    },
-    "androids_encryption": {
-     "points": 139,
-     "time": 1590777160
-    },
-    "s1_protocol": {
-     "points": 394,
-     "time": 1590829726
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770519
-    }
-   },
-   "team": "bi0s"
-  },
-  {
    "lastAccept": 1590854577,
-   "pos": 24,
+   "pos": 23,
    "score": 801,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -711,6 +691,30 @@
     }
    },
    "team": "NoPwnIntended"
+  },
+  {
+   "lastAccept": 1590829726,
+   "pos": 24,
+   "score": 790,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 218,
+     "time": 1590794225
+    },
+    "androids_encryption": {
+     "points": 139,
+     "time": 1590777160
+    },
+    "s1_protocol": {
+     "points": 383,
+     "time": 1590829726
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770519
+    }
+   },
+   "team": "bi0s"
   },
   {
    "lastAccept": 1590834294,
@@ -821,28 +825,8 @@
    "team": "cxp"
   },
   {
-   "lastAccept": 1590839374,
-   "pos": 30,
-   "score": 583,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 139,
-     "time": 1590782511
-    },
-    "s1_protocol": {
-     "points": 394,
-     "time": 1590839374
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590771614
-    }
-   },
-   "team": "Made In MIM"
-  },
-  {
    "lastAccept": 1590821099,
-   "pos": 31,
+   "pos": 30,
    "score": 576,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -859,6 +843,26 @@
     }
    },
    "team": "InfoSecIITR"
+  },
+  {
+   "lastAccept": 1590839374,
+   "pos": 31,
+   "score": 572,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 139,
+     "time": 1590782511
+    },
+    "s1_protocol": {
+     "points": 383,
+     "time": 1590839374
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590771614
+    }
+   },
+   "team": "Made In MIM"
   },
   {
    "lastAccept": 1590789659,
