@@ -4631,6 +4631,18 @@
     }
    },
    "team": "Salespies"
+  },
+  {
+   "lastAccept": 1590827639,
+   "pos": 340,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590827639
+    }
+   },
+   "team": "TEAM0001"
   }
  ],
  "tasks": [
