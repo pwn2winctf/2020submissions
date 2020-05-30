@@ -1,8 +1,40 @@
 {
  "standings": [
   {
-   "lastAccept": 1590792270,
+   "lastAccept": 1590804499,
    "pos": 1,
+   "score": 1839,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 275,
+     "time": 1590796353
+    },
+    "androids_encryption": {
+     "points": 203,
+     "time": 1590784079
+    },
+    "at_your_command": {
+     "points": 363,
+     "time": 1590804499
+    },
+    "dr_manhattan": {
+     "points": 474,
+     "time": 1590786588
+    },
+    "lost_qkeys": {
+     "points": 474,
+     "time": 1590779836
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770403
+    }
+   },
+   "team": "justCatTheFish"
+  },
+  {
+   "lastAccept": 1590792270,
+   "pos": 2,
    "score": 1481,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -29,44 +61,16 @@
    "team": "perfect blue"
   },
   {
-   "lastAccept": 1590796353,
-   "pos": 2,
-   "score": 1476,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 275,
-     "time": 1590796353
-    },
-    "androids_encryption": {
-     "points": 203,
-     "time": 1590784079
-    },
-    "dr_manhattan": {
-     "points": 474,
-     "time": 1590786588
-    },
-    "lost_qkeys": {
-     "points": 474,
-     "time": 1590779836
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770403
-    }
-   },
-   "team": "justCatTheFish"
-  },
-  {
    "lastAccept": 1590794891,
    "pos": 3,
-   "score": 1198,
+   "score": 1188,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 275,
      "time": 1590786248
     },
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590787577
     },
     "butcher_bmc": {
@@ -83,14 +87,14 @@
   {
    "lastAccept": 1590801313,
    "pos": 4,
-   "score": 1172,
+   "score": 1162,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 275,
      "time": 1590799520
     },
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590799212
     },
     "dr_manhattan": {
@@ -107,14 +111,14 @@
   {
    "lastAccept": 1590800674,
    "pos": 5,
-   "score": 1126,
+   "score": 1116,
    "taskStats": {
     "androids_encryption": {
      "points": 203,
      "time": 1590789104
     },
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590800674
     },
     "ip_protection": {
@@ -131,7 +135,7 @@
   {
    "lastAccept": 1590789084,
    "pos": 6,
-   "score": 901,
+   "score": 891,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 275,
@@ -142,7 +146,7 @@
      "time": 1590787729
     },
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590789084
     },
     "transcendence_rebellion": {
@@ -155,10 +159,10 @@
   {
    "lastAccept": 1590803025,
    "pos": 7,
-   "score": 897,
+   "score": 887,
    "taskStats": {
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590780540
     },
     "transcendence_rebellion": {
@@ -275,14 +279,14 @@
   {
    "lastAccept": 1590794366,
    "pos": 13,
-   "score": 698,
+   "score": 688,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 275,
      "time": 1590794366
     },
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590790449
     },
     "transcendence_rebellion": {
@@ -295,14 +299,14 @@
   {
    "lastAccept": 1590794070,
    "pos": 14,
-   "score": 626,
+   "score": 616,
    "taskStats": {
     "androids_encryption": {
      "points": 203,
      "time": 1590786766
     },
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590794070
     },
     "transcendence_rebellion": {
@@ -535,10 +539,10 @@
   {
    "lastAccept": 1590779717,
    "pos": 27,
-   "score": 423,
+   "score": 413,
    "taskStats": {
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590779717
     },
     "transcendence_rebellion": {
@@ -551,10 +555,10 @@
   {
    "lastAccept": 1590804047,
    "pos": 28,
-   "score": 423,
+   "score": 413,
    "taskStats": {
     "at_your_command": {
-     "points": 373,
+     "points": 363,
      "time": 1590804047
     },
     "transcendence_rebellion": {
