@@ -1097,8 +1097,24 @@
    "team": "KDB"
   },
   {
-   "lastAccept": 1590779763,
+   "lastAccept": 1590801411,
    "pos": 63,
+   "score": 258,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 208,
+     "time": 1590794866
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590801411
+    }
+   },
+   "team": "Sadpacket"
+  },
+  {
+   "lastAccept": 1590779763,
+   "pos": 64,
    "score": 208,
    "taskStats": {
     "androids_encryption": {
@@ -1107,18 +1123,6 @@
     }
    },
    "team": "timmy"
-  },
-  {
-   "lastAccept": 1590794866,
-   "pos": 64,
-   "score": 208,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 208,
-     "time": 1590794866
-    }
-   },
-   "team": "Sadpacket"
   },
   {
    "lastAccept": 1590795637,
