@@ -5567,6 +5567,18 @@
     }
    },
    "team": "pwn5uck"
+  },
+  {
+   "lastAccept": 1590866074,
+   "pos": 385,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590866074
+    }
+   },
+   "team": "ntropy"
   }
  ],
  "tasks": [
