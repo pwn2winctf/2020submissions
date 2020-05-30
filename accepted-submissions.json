@@ -5059,6 +5059,18 @@
     }
    },
    "team": "common"
+  },
+  {
+   "lastAccept": 1590839908,
+   "pos": 364,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590839908
+    }
+   },
+   "team": "1337 Ipsum"
   }
  ],
  "tasks": [
