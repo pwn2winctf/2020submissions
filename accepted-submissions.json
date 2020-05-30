@@ -4935,6 +4935,18 @@
     }
    },
    "team": "KarToff"
+  },
+  {
+   "lastAccept": 1590835203,
+   "pos": 358,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590835203
+    }
+   },
+   "team": "CBF"
   }
  ],
  "tasks": [
