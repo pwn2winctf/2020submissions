@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590824314,
+   "lastAccept": 1590825857,
    "pos": 1,
-   "score": 2639,
+   "score": 3113,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 260,
@@ -12,6 +12,10 @@
     "androids_encryption": {
      "points": 174,
      "time": 1590776763
+    },
+    "butcher_bmc": {
+     "points": 474,
+     "time": 1590825857
     },
     "dr_manhattan": {
      "points": 394,
@@ -183,7 +187,7 @@
   {
    "lastAccept": 1590794891,
    "pos": 7,
-   "score": 1150,
+   "score": 1124,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 260,
@@ -194,7 +198,7 @@
      "time": 1590787577
     },
     "butcher_bmc": {
-     "points": 500,
+     "points": 474,
      "time": 1590794891
     },
     "transcendence_rebellion": {
