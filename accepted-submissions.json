@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590829496,
    "pos": 1,
-   "score": 3261,
+   "score": 3249,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -30,7 +30,7 @@
      "time": 1590792270
     },
     "s1_protocol": {
-     "points": 406,
+     "points": 394,
      "time": 1590829496
     },
     "transcendence_rebellion": {
@@ -51,7 +51,7 @@
   {
    "lastAccept": 1590852306,
    "pos": 2,
-   "score": 3160,
+   "score": 3148,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -78,7 +78,7 @@
      "time": 1590845710
     },
     "s1_protocol": {
-     "points": 406,
+     "points": 394,
      "time": 1590840266
     },
     "sound_maze": {
@@ -173,8 +173,44 @@
    "team": "Corrupted Pwnis"
   },
   {
-   "lastAccept": 1590846025,
+   "lastAccept": 1590852675,
    "pos": 5,
+   "score": 1827,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 218,
+     "time": 1590852471
+    },
+    "androids_encryption": {
+     "points": 143,
+     "time": 1590804715
+    },
+    "at_your_command": {
+     "points": 308,
+     "time": 1590804047
+    },
+    "omni_crypto": {
+     "points": 308,
+     "time": 1590822177
+    },
+    "s1_protocol": {
+     "points": 394,
+     "time": 1590852675
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590780080
+    },
+    "tukro": {
+     "points": 406,
+     "time": 1590822213
+    }
+   },
+   "team": "zer0pts"
+  },
+  {
+   "lastAccept": 1590846025,
+   "pos": 6,
    "score": 1519,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -206,8 +242,8 @@
   },
   {
    "lastAccept": 1590835250,
-   "pos": 6,
-   "score": 1508,
+   "pos": 7,
+   "score": 1496,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 218,
@@ -226,7 +262,7 @@
      "time": 1590830135
     },
     "s1_protocol": {
-     "points": 406,
+     "points": 394,
      "time": 1590822541
     },
     "transcendence_rebellion": {
@@ -238,7 +274,7 @@
   },
   {
    "lastAccept": 1590806002,
-   "pos": 7,
+   "pos": 8,
    "score": 1459,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -265,41 +301,9 @@
    "team": "PPP"
   },
   {
-   "lastAccept": 1590852471,
-   "pos": 8,
-   "score": 1433,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 218,
-     "time": 1590852471
-    },
-    "androids_encryption": {
-     "points": 143,
-     "time": 1590804715
-    },
-    "at_your_command": {
-     "points": 308,
-     "time": 1590804047
-    },
-    "omni_crypto": {
-     "points": 308,
-     "time": 1590822177
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590780080
-    },
-    "tukro": {
-     "points": 406,
-     "time": 1590822213
-    }
-   },
-   "team": "zer0pts"
-  },
-  {
    "lastAccept": 1590836155,
    "pos": 9,
-   "score": 1399,
+   "score": 1387,
    "taskStats": {
     "androids_encryption": {
      "points": 143,
@@ -310,7 +314,7 @@
      "time": 1590814476
     },
     "s1_protocol": {
-     "points": 406,
+     "points": 394,
      "time": 1590787282
     },
     "transcendence_rebellion": {
@@ -601,32 +605,8 @@
    "team": "p4"
   },
   {
-   "lastAccept": 1590829726,
-   "pos": 21,
-   "score": 817,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 218,
-     "time": 1590794225
-    },
-    "androids_encryption": {
-     "points": 143,
-     "time": 1590777160
-    },
-    "s1_protocol": {
-     "points": 406,
-     "time": 1590829726
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770519
-    }
-   },
-   "team": "bi0s"
-  },
-  {
    "lastAccept": 1590844772,
-   "pos": 22,
+   "pos": 21,
    "score": 809,
    "taskStats": {
     "androids_encryption": {
@@ -647,6 +627,30 @@
     }
    },
    "team": "efiens"
+  },
+  {
+   "lastAccept": 1590829726,
+   "pos": 22,
+   "score": 805,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 218,
+     "time": 1590794225
+    },
+    "androids_encryption": {
+     "points": 143,
+     "time": 1590777160
+    },
+    "s1_protocol": {
+     "points": 394,
+     "time": 1590829726
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770519
+    }
+   },
+   "team": "bi0s"
   },
   {
    "lastAccept": 1590834294,
@@ -779,14 +783,14 @@
   {
    "lastAccept": 1590839374,
    "pos": 29,
-   "score": 599,
+   "score": 587,
    "taskStats": {
     "androids_encryption": {
      "points": 143,
      "time": 1590782511
     },
     "s1_protocol": {
-     "points": 406,
+     "points": 394,
      "time": 1590839374
     },
     "transcendence_rebellion": {
