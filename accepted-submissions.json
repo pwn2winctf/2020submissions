@@ -4795,6 +4795,18 @@
     }
    },
    "team": "SudoWoodoDoasWoodo"
+  },
+  {
+   "lastAccept": 1590832875,
+   "pos": 350,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590832875
+    }
+   },
+   "team": "Lynx"
   }
  ],
  "tasks": [
