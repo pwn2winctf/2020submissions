@@ -841,8 +841,28 @@
    "team": "r3billions"
   },
   {
-   "lastAccept": 1590798712,
+   "lastAccept": 1590831866,
    "pos": 37,
+   "score": 469,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 253,
+     "time": 1590830866
+    },
+    "androids_encryption": {
+     "points": 166,
+     "time": 1590830887
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590831866
+    }
+   },
+   "team": "TheGoonies"
+  },
+  {
+   "lastAccept": 1590798712,
+   "pos": 38,
    "score": 435,
    "taskStats": {
     "tukro": {
@@ -854,7 +874,7 @@
   },
   {
    "lastAccept": 1590780443,
-   "pos": 38,
+   "pos": 39,
    "score": 419,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -867,22 +887,6 @@
     }
    },
    "team": "Chocolatine"
-  },
-  {
-   "lastAccept": 1590830887,
-   "pos": 39,
-   "score": 419,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 253,
-     "time": 1590830866
-    },
-    "androids_encryption": {
-     "points": 166,
-     "time": 1590830887
-    }
-   },
-   "team": "TheGoonies"
   },
   {
    "lastAccept": 1590817822,
