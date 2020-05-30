@@ -3987,6 +3987,18 @@
     }
    },
    "team": "Fr13Nd5_DTU"
+  },
+  {
+   "lastAccept": 1590805225,
+   "pos": 301,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590805225
+    }
+   },
+   "team": "FrenchRoomba"
   }
  ],
  "tasks": [
