@@ -5339,6 +5339,18 @@
     }
    },
    "team": "matdaneth"
+  },
+  {
+   "lastAccept": 1590854951,
+   "pos": 376,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590854951
+    }
+   },
+   "team": "Hackones"
   }
  ],
  "tasks": [
