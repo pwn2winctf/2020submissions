@@ -4987,6 +4987,18 @@
     }
    },
    "team": "NISRA"
+  },
+  {
+   "lastAccept": 1590836361,
+   "pos": 361,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590836361
+    }
+   },
+   "team": "ddd428"
   }
  ],
  "tasks": [
