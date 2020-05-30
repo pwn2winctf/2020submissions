@@ -4099,6 +4099,18 @@
     }
    },
    "team": "OD1E"
+  },
+  {
+   "lastAccept": 1590807906,
+   "pos": 308,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590807906
+    }
+   },
+   "team": "killswitch"
   }
  ],
  "tasks": [
