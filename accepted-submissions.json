@@ -4287,6 +4287,18 @@
     }
    },
    "team": "Ezbar el mgal"
+  },
+  {
+   "lastAccept": 1590814977,
+   "pos": 320,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590814977
+    }
+   },
+   "team": "Papa"
   }
  ],
  "tasks": [
