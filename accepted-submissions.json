@@ -373,8 +373,28 @@
    "team": "LEGOFAN"
   },
   {
-   "lastAccept": 1590794070,
+   "lastAccept": 1590813189,
    "pos": 17,
+   "score": 641,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 185,
+     "time": 1590803659
+    },
+    "omni_crypto": {
+     "points": 406,
+     "time": 1590809926
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590813189
+    }
+   },
+   "team": "pcback"
+  },
+  {
+   "lastAccept": 1590794070,
+   "pos": 18,
    "score": 598,
    "taskStats": {
     "androids_encryption": {
@@ -394,7 +414,7 @@
   },
   {
    "lastAccept": 1590804715,
-   "pos": 18,
+   "pos": 19,
    "score": 598,
    "taskStats": {
     "androids_encryption": {
@@ -411,22 +431,6 @@
     }
    },
    "team": "zer0pts"
-  },
-  {
-   "lastAccept": 1590809926,
-   "pos": 19,
-   "score": 591,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 185,
-     "time": 1590803659
-    },
-    "omni_crypto": {
-     "points": 406,
-     "time": 1590809926
-    }
-   },
-   "team": "pcback"
   },
   {
    "lastAccept": 1590787538,
