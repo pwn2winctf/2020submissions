@@ -131,7 +131,7 @@
   {
    "lastAccept": 1590846025,
    "pos": 4,
-   "score": 1600,
+   "score": 1579,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -146,7 +146,7 @@
      "time": 1590846025
     },
     "sound_maze": {
-     "points": 474,
+     "points": 453,
      "time": 1590842739
     },
     "transcendence_rebellion": {
@@ -309,8 +309,36 @@
    "team": "zer0pts"
   },
   {
-   "lastAccept": 1590838049,
+   "lastAccept": 1590849382,
    "pos": 10,
+   "score": 1185,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 223,
+     "time": 1590802158
+    },
+    "androids_encryption": {
+     "points": 145,
+     "time": 1590817321
+    },
+    "at_your_command": {
+     "points": 314,
+     "time": 1590814795
+    },
+    "sound_maze": {
+     "points": 453,
+     "time": 1590849382
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770226
+    }
+   },
+   "team": "Kuality"
+  },
+  {
+   "lastAccept": 1590838049,
+   "pos": 11,
    "score": 1176,
    "taskStats": {
     "at_your_command": {
@@ -334,7 +362,7 @@
   },
   {
    "lastAccept": 1590843388,
-   "pos": 11,
+   "pos": 12,
    "score": 1144,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -359,30 +387,6 @@
     }
    },
    "team": "The Flat Network Society"
-  },
-  {
-   "lastAccept": 1590816766,
-   "pos": 12,
-   "score": 1130,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 223,
-     "time": 1590791608
-    },
-    "dr_manhattan": {
-     "points": 383,
-     "time": 1590816766
-    },
-    "sound_maze": {
-     "points": 474,
-     "time": 1590810966
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590775978
-    }
-   },
-   "team": "samurai"
   },
   {
    "lastAccept": 1590827288,
@@ -413,8 +417,32 @@
    "team": "NeSE_BG"
   },
   {
-   "lastAccept": 1590794891,
+   "lastAccept": 1590816766,
    "pos": 14,
+   "score": 1109,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 223,
+     "time": 1590791608
+    },
+    "dr_manhattan": {
+     "points": 383,
+     "time": 1590816766
+    },
+    "sound_maze": {
+     "points": 453,
+     "time": 1590810966
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590775978
+    }
+   },
+   "team": "samurai"
+  },
+  {
+   "lastAccept": 1590794891,
+   "pos": 15,
    "score": 1040,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -438,7 +466,7 @@
   },
   {
    "lastAccept": 1590800674,
-   "pos": 15,
+   "pos": 16,
    "score": 983,
    "taskStats": {
     "androids_encryption": {
@@ -462,7 +490,7 @@
   },
   {
    "lastAccept": 1590823921,
-   "pos": 16,
+   "pos": 17,
    "score": 970,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -486,7 +514,7 @@
   },
   {
    "lastAccept": 1590806021,
-   "pos": 17,
+   "pos": 18,
    "score": 921,
    "taskStats": {
     "androids_encryption": {
@@ -510,7 +538,7 @@
   },
   {
    "lastAccept": 1590844772,
-   "pos": 18,
+   "pos": 19,
    "score": 829,
    "taskStats": {
     "androids_encryption": {
@@ -534,7 +562,7 @@
   },
   {
    "lastAccept": 1590829726,
-   "pos": 19,
+   "pos": 20,
    "score": 824,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -558,7 +586,7 @@
   },
   {
    "lastAccept": 1590834294,
-   "pos": 20,
+   "pos": 21,
    "score": 801,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -582,7 +610,7 @@
   },
   {
    "lastAccept": 1590839671,
-   "pos": 21,
+   "pos": 22,
    "score": 773,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -599,30 +627,6 @@
     }
    },
    "team": "Regular Fellows"
-  },
-  {
-   "lastAccept": 1590817321,
-   "pos": 22,
-   "score": 732,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 223,
-     "time": 1590802158
-    },
-    "androids_encryption": {
-     "points": 145,
-     "time": 1590817321
-    },
-    "at_your_command": {
-     "points": 314,
-     "time": 1590814795
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770226
-    }
-   },
-   "team": "Kuality"
   },
   {
    "lastAccept": 1590820941,
