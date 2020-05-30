@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590825857,
+   "lastAccept": 1590829496,
    "pos": 1,
-   "score": 3060,
+   "score": 3513,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 260,
@@ -28,6 +28,10 @@
     "omnitmizer": {
      "points": 500,
      "time": 1590792270
+    },
+    "s1_protocol": {
+     "points": 453,
+     "time": 1590829496
     },
     "transcendence_rebellion": {
      "points": 50,
@@ -223,7 +227,7 @@
   {
    "lastAccept": 1590827737,
    "pos": 8,
-   "score": 1130,
+   "score": 1109,
    "taskStats": {
     "androids_encryption": {
      "points": 171,
@@ -234,7 +238,7 @@
      "time": 1590814476
     },
     "s1_protocol": {
-     "points": 474,
+     "points": 453,
      "time": 1590787282
     },
     "transcendence_rebellion": {
@@ -343,14 +347,14 @@
   {
    "lastAccept": 1590822541,
    "pos": 13,
-   "score": 907,
+   "score": 886,
    "taskStats": {
     "dr_manhattan": {
      "points": 383,
      "time": 1590804734
     },
     "s1_protocol": {
-     "points": 474,
+     "points": 453,
      "time": 1590822541
     },
     "transcendence_rebellion": {
