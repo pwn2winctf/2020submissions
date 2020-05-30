@@ -2177,8 +2177,24 @@
    "team": "GeeseWithTeeth"
   },
   {
-   "lastAccept": 1590779763,
+   "lastAccept": 1590861590,
    "pos": 106,
+   "score": 188,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 138,
+     "time": 1590840323
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590861590
+    }
+   },
+   "team": "voyager"
+  },
+  {
+   "lastAccept": 1590779763,
+   "pos": 107,
    "score": 138,
    "taskStats": {
     "androids_encryption": {
@@ -2190,7 +2206,7 @@
   },
   {
    "lastAccept": 1590812832,
-   "pos": 107,
+   "pos": 108,
    "score": 138,
    "taskStats": {
     "androids_encryption": {
@@ -2199,18 +2215,6 @@
     }
    },
    "team": "RooterX"
-  },
-  {
-   "lastAccept": 1590840323,
-   "pos": 108,
-   "score": 138,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 138,
-     "time": 1590840323
-    }
-   },
-   "team": "voyager"
   },
   {
    "lastAccept": 1590845759,
