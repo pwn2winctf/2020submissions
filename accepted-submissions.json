@@ -4331,6 +4331,18 @@
     }
    },
    "team": "han solo"
+  },
+  {
+   "lastAccept": 1590815707,
+   "pos": 323,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590815707
+    }
+   },
+   "team": "ROXXIE"
   }
  ],
  "tasks": [
