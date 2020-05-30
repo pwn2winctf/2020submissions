@@ -4851,6 +4851,18 @@
     }
    },
    "team": "Cat Training Force"
+  },
+  {
+   "lastAccept": 1590833870,
+   "pos": 353,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590833870
+    }
+   },
+   "team": "platace"
   }
  ],
  "tasks": [
