@@ -4959,6 +4959,18 @@
     }
    },
    "team": "CBF"
+  },
+  {
+   "lastAccept": 1590835463,
+   "pos": 359,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590835463
+    }
+   },
+   "team": "NISRA"
   }
  ],
  "tasks": [
