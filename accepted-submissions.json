@@ -3787,6 +3787,18 @@
     }
    },
    "team": "score_gazer"
+  },
+  {
+   "lastAccept": 1590799953,
+   "pos": 289,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590799953
+    }
+   },
+   "team": "Team Fr34ks"
   }
  ],
  "tasks": [
