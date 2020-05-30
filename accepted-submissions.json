@@ -5555,6 +5555,18 @@
     }
    },
    "team": "LDY"
+  },
+  {
+   "lastAccept": 1590865811,
+   "pos": 384,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590865811
+    }
+   },
+   "team": "pwn5uck"
   }
  ],
  "tasks": [
