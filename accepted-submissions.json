@@ -129,8 +129,36 @@
    "team": "zer0pts"
   },
   {
-   "lastAccept": 1590816766,
+   "lastAccept": 1590825510,
    "pos": 5,
+   "score": 1298,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 260,
+     "time": 1590780251
+    },
+    "androids_encryption": {
+     "points": 174,
+     "time": 1590787729
+    },
+    "at_your_command": {
+     "points": 340,
+     "time": 1590789084
+    },
+    "ip_protection": {
+     "points": 474,
+     "time": 1590825510
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590775329
+    }
+   },
+   "team": "TokyoWesterns"
+  },
+  {
+   "lastAccept": 1590816766,
+   "pos": 6,
    "score": 1204,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -154,7 +182,7 @@
   },
   {
    "lastAccept": 1590794891,
-   "pos": 6,
+   "pos": 7,
    "score": 1150,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -175,30 +203,6 @@
     }
    },
    "team": "More Smoked Leet Chicken"
-  },
-  {
-   "lastAccept": 1590800674,
-   "pos": 7,
-   "score": 1064,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 174,
-     "time": 1590789104
-    },
-    "at_your_command": {
-     "points": 340,
-     "time": 1590800674
-    },
-    "ip_protection": {
-     "points": 500,
-     "time": 1590794827
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590773017
-    }
-   },
-   "team": "Dragon Sector"
   },
   {
    "lastAccept": 1590823921,
@@ -225,8 +229,32 @@
    "team": "10sec"
   },
   {
-   "lastAccept": 1590806021,
+   "lastAccept": 1590800674,
    "pos": 9,
+   "score": 1038,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 174,
+     "time": 1590789104
+    },
+    "at_your_command": {
+     "points": 340,
+     "time": 1590800674
+    },
+    "ip_protection": {
+     "points": 474,
+     "time": 1590794827
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590773017
+    }
+   },
+   "team": "Dragon Sector"
+  },
+  {
+   "lastAccept": 1590806021,
+   "pos": 10,
    "score": 1032,
    "taskStats": {
     "androids_encryption": {
@@ -250,7 +278,7 @@
   },
   {
    "lastAccept": 1590814476,
-   "pos": 10,
+   "pos": 11,
    "score": 959,
    "taskStats": {
     "lost_qkeys": {
@@ -270,7 +298,7 @@
   },
   {
    "lastAccept": 1590822541,
-   "pos": 11,
+   "pos": 12,
    "score": 918,
    "taskStats": {
     "dr_manhattan": {
@@ -290,7 +318,7 @@
   },
   {
    "lastAccept": 1590803025,
-   "pos": 12,
+   "pos": 13,
    "score": 825,
    "taskStats": {
     "at_your_command": {
@@ -307,30 +335,6 @@
     }
    },
    "team": "Balsn"
-  },
-  {
-   "lastAccept": 1590789084,
-   "pos": 13,
-   "score": 824,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 260,
-     "time": 1590780251
-    },
-    "androids_encryption": {
-     "points": 174,
-     "time": 1590787729
-    },
-    "at_your_command": {
-     "points": 340,
-     "time": 1590789084
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590775329
-    }
-   },
-   "team": "TokyoWesterns"
   },
   {
    "lastAccept": 1590817321,
