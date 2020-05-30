@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590825857,
    "pos": 1,
-   "score": 3112,
+   "score": 3094,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 260,
@@ -34,7 +34,7 @@
      "time": 1590772931
     },
     "trusted_node": {
-     "points": 453,
+     "points": 435,
      "time": 1590791646
     },
     "tukro": {
@@ -45,8 +45,40 @@
    "team": "perfect blue"
   },
   {
-   "lastAccept": 1590804499,
+   "lastAccept": 1590827144,
    "pos": 2,
+   "score": 1725,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 260,
+     "time": 1590780251
+    },
+    "androids_encryption": {
+     "points": 173,
+     "time": 1590787729
+    },
+    "at_your_command": {
+     "points": 333,
+     "time": 1590789084
+    },
+    "ip_protection": {
+     "points": 474,
+     "time": 1590825510
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590775329
+    },
+    "trusted_node": {
+     "points": 435,
+     "time": 1590827144
+    }
+   },
+   "team": "TokyoWesterns"
+  },
+  {
+   "lastAccept": 1590804499,
+   "pos": 3,
    "score": 1645,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -78,7 +110,7 @@
   },
   {
    "lastAccept": 1590806002,
-   "pos": 3,
+   "pos": 4,
    "score": 1537,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -106,7 +138,7 @@
   },
   {
    "lastAccept": 1590822213,
-   "pos": 4,
+   "pos": 5,
    "score": 1364,
    "taskStats": {
     "androids_encryption": {
@@ -131,34 +163,6 @@
     }
    },
    "team": "zer0pts"
-  },
-  {
-   "lastAccept": 1590825510,
-   "pos": 5,
-   "score": 1290,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 260,
-     "time": 1590780251
-    },
-    "androids_encryption": {
-     "points": 173,
-     "time": 1590787729
-    },
-    "at_your_command": {
-     "points": 333,
-     "time": 1590789084
-    },
-    "ip_protection": {
-     "points": 474,
-     "time": 1590825510
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590775329
-    }
-   },
-   "team": "TokyoWesterns"
   },
   {
    "lastAccept": 1590816766,
@@ -415,7 +419,7 @@
   {
    "lastAccept": 1590783556,
    "pos": 17,
-   "score": 763,
+   "score": 745,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 260,
@@ -426,7 +430,7 @@
      "time": 1590772681
     },
     "trusted_node": {
-     "points": 453,
+     "points": 435,
      "time": 1590783556
     }
    },
@@ -635,14 +639,14 @@
   {
    "lastAccept": 1590791753,
    "pos": 28,
-   "score": 503,
+   "score": 485,
    "taskStats": {
     "transcendence_rebellion": {
      "points": 50,
      "time": 1590771389
     },
     "trusted_node": {
-     "points": 453,
+     "points": 435,
      "time": 1590791753
     }
    },
