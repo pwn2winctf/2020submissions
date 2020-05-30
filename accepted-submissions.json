@@ -55,7 +55,7 @@
   {
    "lastAccept": 1590829496,
    "pos": 2,
-   "score": 3186,
+   "score": 3175,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -94,7 +94,7 @@
      "time": 1590791646
     },
     "tukro": {
-     "points": 394,
+     "points": 383,
      "time": 1590810797
     }
    },
@@ -183,7 +183,7 @@
   {
    "lastAccept": 1590853332,
    "pos": 5,
-   "score": 1840,
+   "score": 1829,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -206,7 +206,7 @@
      "time": 1590779359
     },
     "tukro": {
-     "points": 394,
+     "points": 383,
      "time": 1590853332
     }
    },
@@ -215,7 +215,7 @@
   {
    "lastAccept": 1590851229,
    "pos": 6,
-   "score": 1815,
+   "score": 1804,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -242,7 +242,7 @@
      "time": 1590773247
     },
     "tukro": {
-     "points": 394,
+     "points": 383,
      "time": 1590837490
     }
    },
@@ -251,7 +251,7 @@
   {
    "lastAccept": 1590852675,
    "pos": 7,
-   "score": 1792,
+   "score": 1781,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -278,15 +278,47 @@
      "time": 1590780080
     },
     "tukro": {
-     "points": 394,
+     "points": 383,
      "time": 1590822213
     }
    },
    "team": "zer0pts"
   },
   {
-   "lastAccept": 1590835250,
+   "lastAccept": 1590855935,
    "pos": 8,
+   "score": 1468,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 215,
+     "time": 1590815729
+    },
+    "androids_encryption": {
+     "points": 139,
+     "time": 1590809966
+    },
+    "at_your_command": {
+     "points": 308,
+     "time": 1590826135
+    },
+    "dr_manhattan": {
+     "points": 373,
+     "time": 1590827288
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772473
+    },
+    "tukro": {
+     "points": 383,
+     "time": 1590855935
+    }
+   },
+   "team": "NeSE_BG"
+  },
+  {
+   "lastAccept": 1590835250,
+   "pos": 9,
    "score": 1463,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -318,7 +350,7 @@
   },
   {
    "lastAccept": 1590855143,
-   "pos": 9,
+   "pos": 10,
    "score": 1450,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -350,7 +382,7 @@
   },
   {
    "lastAccept": 1590855648,
-   "pos": 10,
+   "pos": 11,
    "score": 1402,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -378,7 +410,7 @@
   },
   {
    "lastAccept": 1590836155,
-   "pos": 11,
+   "pos": 12,
    "score": 1349,
    "taskStats": {
     "androids_encryption": {
@@ -406,8 +438,8 @@
   },
   {
    "lastAccept": 1590838049,
-   "pos": 12,
-   "score": 1135,
+   "pos": 13,
+   "score": 1124,
    "taskStats": {
     "at_your_command": {
      "points": 308,
@@ -422,7 +454,7 @@
      "time": 1590794803
     },
     "tukro": {
-     "points": 394,
+     "points": 383,
      "time": 1590803025
     }
    },
@@ -430,7 +462,7 @@
   },
   {
    "lastAccept": 1590849382,
-   "pos": 13,
+   "pos": 14,
    "score": 1118,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -458,7 +490,7 @@
   },
   {
    "lastAccept": 1590843388,
-   "pos": 14,
+   "pos": 15,
    "score": 1090,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -483,34 +515,6 @@
     }
    },
    "team": "The Flat Network Society"
-  },
-  {
-   "lastAccept": 1590827288,
-   "pos": 15,
-   "score": 1085,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 215,
-     "time": 1590815729
-    },
-    "androids_encryption": {
-     "points": 139,
-     "time": 1590809966
-    },
-    "at_your_command": {
-     "points": 308,
-     "time": 1590826135
-    },
-    "dr_manhattan": {
-     "points": 373,
-     "time": 1590827288
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772473
-    }
-   },
-   "team": "NeSE_BG"
   },
   {
    "lastAccept": 1590816766,
@@ -609,32 +613,8 @@
    "team": "10sec"
   },
   {
-   "lastAccept": 1590851408,
-   "pos": 20,
-   "score": 886,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 139,
-     "time": 1590777657
-    },
-    "omni_crypto": {
-     "points": 303,
-     "time": 1590851408
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772019
-    },
-    "tukro": {
-     "points": 394,
-     "time": 1590835225
-    }
-   },
-   "team": "p4"
-  },
-  {
    "lastAccept": 1590806021,
-   "pos": 21,
+   "pos": 20,
    "score": 875,
    "taskStats": {
     "androids_encryption": {
@@ -655,6 +635,30 @@
     }
    },
    "team": "STT"
+  },
+  {
+   "lastAccept": 1590851408,
+   "pos": 21,
+   "score": 875,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 139,
+     "time": 1590777657
+    },
+    "omni_crypto": {
+     "points": 303,
+     "time": 1590851408
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772019
+    },
+    "tukro": {
+     "points": 383,
+     "time": 1590835225
+    }
+   },
+   "team": "p4"
   },
   {
    "lastAccept": 1590855026,
@@ -1279,10 +1283,10 @@
   {
    "lastAccept": 1590798712,
    "pos": 52,
-   "score": 394,
+   "score": 383,
    "taskStats": {
     "tukro": {
-     "points": 394,
+     "points": 383,
      "time": 1590798712
     }
    },
