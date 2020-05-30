@@ -4887,6 +4887,18 @@
     }
    },
    "team": "platace"
+  },
+  {
+   "lastAccept": 1590834230,
+   "pos": 355,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590834230
+    }
+   },
+   "team": "iceclue"
   }
  ],
  "tasks": [
