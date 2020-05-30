@@ -5375,6 +5375,18 @@
     }
    },
    "team": "H3"
+  },
+  {
+   "lastAccept": 1590855554,
+   "pos": 378,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590855554
+    }
+   },
+   "team": "psych0social_engin33ring"
   }
  ],
  "tasks": [
