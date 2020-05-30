@@ -55,7 +55,7 @@
   {
    "lastAccept": 1590829496,
    "pos": 2,
-   "score": 3129,
+   "score": 3121,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -70,7 +70,7 @@
      "time": 1590825857
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590807018
     },
     "omni_crypto": {
@@ -103,7 +103,7 @@
   {
    "lastAccept": 1590856241,
    "pos": 3,
-   "score": 2918,
+   "score": 2910,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -118,7 +118,7 @@
      "time": 1590804499
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590786588
     },
     "lost_qkeys": {
@@ -151,7 +151,7 @@
   {
    "lastAccept": 1590854449,
    "pos": 4,
-   "score": 1859,
+   "score": 1851,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -166,7 +166,7 @@
      "time": 1590846025
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590854449
     },
     "sound_maze": {
@@ -187,7 +187,7 @@
   {
    "lastAccept": 1590853332,
    "pos": 5,
-   "score": 1814,
+   "score": 1806,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -198,7 +198,7 @@
      "time": 1590799212
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590801313
     },
     "matrona": {
@@ -289,9 +289,41 @@
    "team": "zer0pts"
   },
   {
-   "lastAccept": 1590857631,
+   "lastAccept": 1590858272,
    "pos": 8,
-   "score": 1476,
+   "score": 1704,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 139,
+     "time": 1590777657
+    },
+    "dr_manhattan": {
+     "points": 355,
+     "time": 1590858272
+    },
+    "omni_crypto": {
+     "points": 303,
+     "time": 1590851408
+    },
+    "private_backdoor": {
+     "points": 474,
+     "time": 1590856061
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772019
+    },
+    "tukro": {
+     "points": 383,
+     "time": 1590835225
+    }
+   },
+   "team": "p4"
+  },
+  {
+   "lastAccept": 1590857631,
+   "pos": 9,
+   "score": 1468,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -306,7 +338,7 @@
      "time": 1590814795
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590857631
     },
     "sound_maze": {
@@ -322,7 +354,7 @@
   },
   {
    "lastAccept": 1590856600,
-   "pos": 9,
+   "pos": 10,
    "score": 1463,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -354,8 +386,8 @@
   },
   {
    "lastAccept": 1590855935,
-   "pos": 10,
-   "score": 1453,
+   "pos": 11,
+   "score": 1445,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -370,7 +402,7 @@
      "time": 1590826135
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590827288
     },
     "transcendence_rebellion": {
@@ -386,8 +418,8 @@
   },
   {
    "lastAccept": 1590835250,
-   "pos": 11,
-   "score": 1443,
+   "pos": 12,
+   "score": 1435,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -398,7 +430,7 @@
      "time": 1590834253
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590804734
     },
     "omni_crypto": {
@@ -418,7 +450,7 @@
   },
   {
    "lastAccept": 1590855143,
-   "pos": 12,
+   "pos": 13,
    "score": 1430,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -450,7 +482,7 @@
   },
   {
    "lastAccept": 1590857536,
-   "pos": 13,
+   "pos": 14,
    "score": 1386,
    "taskStats": {
     "androids_encryption": {
@@ -478,7 +510,7 @@
   },
   {
    "lastAccept": 1590855648,
-   "pos": 14,
+   "pos": 15,
    "score": 1371,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -503,34 +535,6 @@
     }
    },
    "team": "ID-10-T"
-  },
-  {
-   "lastAccept": 1590856061,
-   "pos": 15,
-   "score": 1349,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 139,
-     "time": 1590777657
-    },
-    "omni_crypto": {
-     "points": 303,
-     "time": 1590851408
-    },
-    "private_backdoor": {
-     "points": 474,
-     "time": 1590856061
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772019
-    },
-    "tukro": {
-     "points": 383,
-     "time": 1590835225
-    }
-   },
-   "team": "p4"
   },
   {
    "lastAccept": 1590836155,
@@ -587,14 +591,14 @@
   {
    "lastAccept": 1590816766,
    "pos": 18,
-   "score": 1034,
+   "score": 1026,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
      "time": 1590791608
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590816766
     },
     "sound_maze": {
@@ -635,7 +639,7 @@
   {
    "lastAccept": 1590823921,
    "pos": 20,
-   "score": 931,
+   "score": 923,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -646,7 +650,7 @@
      "time": 1590813652
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590820914
     },
     "transcendence_rebellion": {
@@ -779,7 +783,7 @@
   {
    "lastAccept": 1590834294,
    "pos": 26,
-   "score": 767,
+   "score": 759,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 215,
@@ -790,7 +794,7 @@
      "time": 1590834294
     },
     "dr_manhattan": {
-     "points": 363,
+     "points": 355,
      "time": 1590823812
     },
     "transcendence_rebellion": {
