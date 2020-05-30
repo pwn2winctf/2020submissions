@@ -201,8 +201,44 @@
    "team": "p4"
   },
   {
-   "lastAccept": 1590866934,
+   "lastAccept": 1590873742,
    "pos": 5,
+   "score": 2205,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 203,
+     "time": 1590799520
+    },
+    "at_your_command": {
+     "points": 293,
+     "time": 1590799212
+    },
+    "dr_manhattan": {
+     "points": 333,
+     "time": 1590801313
+    },
+    "matrona": {
+     "points": 453,
+     "time": 1590806002
+    },
+    "quasi_scriptless": {
+     "points": 500,
+     "time": 1590873742
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779359
+    },
+    "tukro": {
+     "points": 373,
+     "time": 1590853332
+    }
+   },
+   "team": "PPP"
+  },
+  {
+   "lastAccept": 1590866934,
+   "pos": 6,
    "score": 2169,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -242,7 +278,7 @@
   },
   {
    "lastAccept": 1590869559,
-   "pos": 6,
+   "pos": 7,
    "score": 2151,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -282,7 +318,7 @@
   },
   {
    "lastAccept": 1590854449,
-   "pos": 7,
+   "pos": 8,
    "score": 1771,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -315,38 +351,6 @@
     }
    },
    "team": "FireShell"
-  },
-  {
-   "lastAccept": 1590853332,
-   "pos": 8,
-   "score": 1705,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 203,
-     "time": 1590799520
-    },
-    "at_your_command": {
-     "points": 293,
-     "time": 1590799212
-    },
-    "dr_manhattan": {
-     "points": 333,
-     "time": 1590801313
-    },
-    "matrona": {
-     "points": 453,
-     "time": 1590806002
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590779359
-    },
-    "tukro": {
-     "points": 373,
-     "time": 1590853332
-    }
-   },
-   "team": "PPP"
   },
   {
    "lastAccept": 1590868741,
@@ -5695,6 +5699,7 @@
   "sound_maze",
   "private_backdoor",
   "oldschool_adventures",
-  "stolen_backdoor"
+  "stolen_backdoor",
+  "quasi_scriptless"
  ]
 }
