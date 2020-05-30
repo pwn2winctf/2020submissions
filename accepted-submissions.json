@@ -833,8 +833,24 @@
    "team": "pwnPrime"
   },
   {
-   "lastAccept": 1590781775,
+   "lastAccept": 1590815549,
    "pos": 43,
+   "score": 321,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 271,
+     "time": 1590815516
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590815549
+    }
+   },
+   "team": "GreyFang"
+  },
+  {
+   "lastAccept": 1590781775,
+   "pos": 44,
    "score": 271,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -843,18 +859,6 @@
     }
    },
    "team": "tikSNa"
-  },
-  {
-   "lastAccept": 1590815516,
-   "pos": 44,
-   "score": 271,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 271,
-     "time": 1590815516
-    }
-   },
-   "team": "GreyFang"
   },
   {
    "lastAccept": 1590777657,
