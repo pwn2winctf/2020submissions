@@ -1021,13 +1021,17 @@
    "team": "pwnPrime"
   },
   {
-   "lastAccept": 1590781775,
+   "lastAccept": 1590833635,
    "pos": 48,
-   "score": 246,
+   "score": 296,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 246,
      "time": 1590781775
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590833635
     }
    },
    "team": "tikSNa"
