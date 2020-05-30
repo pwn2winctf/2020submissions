@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590864656,
+   "lastAccept": 1590866848,
    "pos": 1,
-   "score": 3735,
+   "score": 4209,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 208,
@@ -32,6 +32,10 @@
     "lost_qkeys": {
      "points": 373,
      "time": 1590855096
+    },
+    "matrona": {
+     "points": 474,
+     "time": 1590866848
     },
     "omni_crypto": {
      "points": 298,
@@ -229,40 +233,8 @@
    "team": "FireShell"
   },
   {
-   "lastAccept": 1590853332,
-   "pos": 6,
-   "score": 1757,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 208,
-     "time": 1590799520
-    },
-    "at_your_command": {
-     "points": 293,
-     "time": 1590799212
-    },
-    "dr_manhattan": {
-     "points": 333,
-     "time": 1590801313
-    },
-    "matrona": {
-     "points": 500,
-     "time": 1590806002
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590779359
-    },
-    "tukro": {
-     "points": 373,
-     "time": 1590853332
-    }
-   },
-   "team": "PPP"
-  },
-  {
    "lastAccept": 1590851229,
-   "pos": 7,
+   "pos": 6,
    "score": 1752,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -298,7 +270,7 @@
   },
   {
    "lastAccept": 1590852675,
-   "pos": 8,
+   "pos": 7,
    "score": 1731,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -331,6 +303,38 @@
     }
    },
    "team": "zer0pts"
+  },
+  {
+   "lastAccept": 1590853332,
+   "pos": 8,
+   "score": 1731,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 208,
+     "time": 1590799520
+    },
+    "at_your_command": {
+     "points": 293,
+     "time": 1590799212
+    },
+    "dr_manhattan": {
+     "points": 333,
+     "time": 1590801313
+    },
+    "matrona": {
+     "points": 474,
+     "time": 1590806002
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779359
+    },
+    "tukro": {
+     "points": 373,
+     "time": 1590853332
+    }
+   },
+   "team": "PPP"
   },
   {
    "lastAccept": 1590856600,
