@@ -4911,6 +4911,18 @@
     }
    },
    "team": "iceclue"
+  },
+  {
+   "lastAccept": 1590834509,
+   "pos": 356,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590834509
+    }
+   },
+   "team": "KXTI_PineCone"
   }
  ],
  "tasks": [
