@@ -4003,6 +4003,18 @@
     }
    },
    "team": "FrenchRoomba"
+  },
+  {
+   "lastAccept": 1590805781,
+   "pos": 302,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590805781
+    }
+   },
+   "team": "time do tom"
   }
  ],
  "tasks": [
