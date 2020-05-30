@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590829496,
    "pos": 1,
-   "score": 3302,
+   "score": 3296,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -22,7 +22,7 @@
      "time": 1590807018
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590824314
     },
     "omnitmizer": {
@@ -49,9 +49,9 @@
    "team": "perfect blue"
   },
   {
-   "lastAccept": 1590840266,
+   "lastAccept": 1590845710,
    "pos": 2,
-   "score": 2481,
+   "score": 2801,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -73,6 +73,10 @@
      "points": 474,
      "time": 1590825510
     },
+    "omni_crypto": {
+     "points": 320,
+     "time": 1590845710
+    },
     "s1_protocol": {
      "points": 406,
      "time": 1590840266
@@ -91,7 +95,7 @@
   {
    "lastAccept": 1590833775,
    "pos": 3,
-   "score": 1857,
+   "score": 1851,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -114,7 +118,7 @@
      "time": 1590779836
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590833775
     },
     "transcendence_rebellion": {
@@ -127,7 +131,7 @@
   {
    "lastAccept": 1590835250,
    "pos": 4,
-   "score": 1537,
+   "score": 1531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -142,7 +146,7 @@
      "time": 1590804734
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590830135
     },
     "s1_protocol": {
@@ -187,7 +191,7 @@
   {
    "lastAccept": 1590837698,
    "pos": 6,
-   "score": 1474,
+   "score": 1468,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -202,7 +206,7 @@
      "time": 1590837698
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590833993
     },
     "transcendence_rebellion": {
@@ -275,7 +279,7 @@
   {
    "lastAccept": 1590822213,
    "pos": 9,
-   "score": 1251,
+   "score": 1245,
    "taskStats": {
     "androids_encryption": {
      "points": 149,
@@ -286,7 +290,7 @@
      "time": 1590804047
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590822177
     },
     "transcendence_rebellion": {
@@ -327,7 +331,7 @@
   {
    "lastAccept": 1590843388,
    "pos": 11,
-   "score": 1154,
+   "score": 1148,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 223,
@@ -342,7 +346,7 @@
      "time": 1590831519
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590843388
     },
     "transcendence_rebellion": {
@@ -479,7 +483,7 @@
   {
    "lastAccept": 1590806021,
    "pos": 17,
-   "score": 931,
+   "score": 925,
    "taskStats": {
     "androids_encryption": {
      "points": 149,
@@ -490,7 +494,7 @@
      "time": 1590806021
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590789708
     },
     "transcendence_rebellion": {
@@ -503,7 +507,7 @@
   {
    "lastAccept": 1590844772,
    "pos": 18,
-   "score": 845,
+   "score": 839,
    "taskStats": {
     "androids_encryption": {
      "points": 149,
@@ -514,7 +518,7 @@
      "time": 1590843711
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590844772
     },
     "transcendence_rebellion": {
@@ -763,14 +767,14 @@
   {
    "lastAccept": 1590789659,
    "pos": 30,
-   "score": 525,
+   "score": 519,
    "taskStats": {
     "androids_encryption": {
      "points": 149,
      "time": 1590780647
     },
     "omni_crypto": {
-     "points": 326,
+     "points": 320,
      "time": 1590789659
     },
     "transcendence_rebellion": {
@@ -781,128 +785,8 @@
    "team": "u310831124E0B5DF3311A"
   },
   {
-   "lastAccept": 1590795801,
-   "pos": 31,
-   "score": 525,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 149,
-     "time": 1590774991
-    },
-    "omni_crypto": {
-     "points": 326,
-     "time": 1590795801
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770422
-    }
-   },
-   "team": "hxp"
-  },
-  {
-   "lastAccept": 1590805911,
-   "pos": 32,
-   "score": 525,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 149,
-     "time": 1590794560
-    },
-    "omni_crypto": {
-     "points": 326,
-     "time": 1590805911
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590771193
-    }
-   },
-   "team": "CTD Elite"
-  },
-  {
-   "lastAccept": 1590806992,
-   "pos": 33,
-   "score": 525,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 149,
-     "time": 1590799139
-    },
-    "omni_crypto": {
-     "points": 326,
-     "time": 1590806992
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590771103
-    }
-   },
-   "team": "LEGOFAN"
-  },
-  {
-   "lastAccept": 1590813189,
-   "pos": 34,
-   "score": 525,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 149,
-     "time": 1590803659
-    },
-    "omni_crypto": {
-     "points": 326,
-     "time": 1590809926
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590813189
-    }
-   },
-   "team": "pcback"
-  },
-  {
-   "lastAccept": 1590816933,
-   "pos": 35,
-   "score": 525,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 149,
-     "time": 1590804694
-    },
-    "omni_crypto": {
-     "points": 326,
-     "time": 1590816933
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590771151
-    }
-   },
-   "team": "The Additional Payphones"
-  },
-  {
-   "lastAccept": 1590833728,
-   "pos": 36,
-   "score": 525,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 149,
-     "time": 1590786733
-    },
-    "omni_crypto": {
-     "points": 326,
-     "time": 1590833728
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590790744
-    }
-   },
-   "team": "Invaders"
-  },
-  {
    "lastAccept": 1590794070,
-   "pos": 37,
+   "pos": 31,
    "score": 519,
    "taskStats": {
     "androids_encryption": {
@@ -919,6 +803,126 @@
     }
    },
    "team": "Blackjackets"
+  },
+  {
+   "lastAccept": 1590795801,
+   "pos": 32,
+   "score": 519,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 149,
+     "time": 1590774991
+    },
+    "omni_crypto": {
+     "points": 320,
+     "time": 1590795801
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770422
+    }
+   },
+   "team": "hxp"
+  },
+  {
+   "lastAccept": 1590805911,
+   "pos": 33,
+   "score": 519,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 149,
+     "time": 1590794560
+    },
+    "omni_crypto": {
+     "points": 320,
+     "time": 1590805911
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590771193
+    }
+   },
+   "team": "CTD Elite"
+  },
+  {
+   "lastAccept": 1590806992,
+   "pos": 34,
+   "score": 519,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 149,
+     "time": 1590799139
+    },
+    "omni_crypto": {
+     "points": 320,
+     "time": 1590806992
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590771103
+    }
+   },
+   "team": "LEGOFAN"
+  },
+  {
+   "lastAccept": 1590813189,
+   "pos": 35,
+   "score": 519,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 149,
+     "time": 1590803659
+    },
+    "omni_crypto": {
+     "points": 320,
+     "time": 1590809926
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590813189
+    }
+   },
+   "team": "pcback"
+  },
+  {
+   "lastAccept": 1590816933,
+   "pos": 36,
+   "score": 519,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 149,
+     "time": 1590804694
+    },
+    "omni_crypto": {
+     "points": 320,
+     "time": 1590816933
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590771151
+    }
+   },
+   "team": "The Additional Payphones"
+  },
+  {
+   "lastAccept": 1590833728,
+   "pos": 37,
+   "score": 519,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 149,
+     "time": 1590786733
+    },
+    "omni_crypto": {
+     "points": 320,
+     "time": 1590833728
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590790744
+    }
+   },
+   "team": "Invaders"
   },
   {
    "lastAccept": 1590791753,
