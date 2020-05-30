@@ -26,5 +26,9 @@
  {
   "msg": "[Oldschool Adventures] To help you to test your payloads locally: we are using JSBeeb Emulator and Dynamsoft Barcode Reader (trial version) to check the QRs",
   "time": 1590832971
+ },
+ {
+  "msg": "If you want a more lightweight version of the scoreboard, visit: https://pwn2.win/2020/#/rank or https://ctftime.org/live/961",
+  "time": 1590839548
  }
 ]
