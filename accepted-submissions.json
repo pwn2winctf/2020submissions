@@ -3975,6 +3975,18 @@
     }
    },
    "team": "r@o_root"
+  },
+  {
+   "lastAccept": 1590804988,
+   "pos": 300,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590804988
+    }
+   },
+   "team": "Fr13Nd5_DTU"
   }
  ],
  "tasks": [
