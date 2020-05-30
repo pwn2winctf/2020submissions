@@ -1157,13 +1157,17 @@
    "team": "PwnaSonic"
   },
   {
-   "lastAccept": 1590843711,
+   "lastAccept": 1590843945,
    "pos": 51,
-   "score": 320,
+   "score": 370,
    "taskStats": {
     "at_your_command": {
      "points": 320,
      "time": 1590843711
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590843945
     }
    },
    "team": "efiens"
