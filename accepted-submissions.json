@@ -4647,6 +4647,18 @@
     }
    },
    "team": "TEAM0001"
+  },
+  {
+   "lastAccept": 1590827850,
+   "pos": 341,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590827850
+    }
+   },
+   "team": "kanbedon"
   }
  ],
  "tasks": [
