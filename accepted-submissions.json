@@ -1425,8 +1425,24 @@
    "team": "Ba Sing Sec"
   },
   {
-   "lastAccept": 1590779763,
+   "lastAccept": 1590820893,
    "pos": 79,
+   "score": 231,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 181,
+     "time": 1590820565
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590820893
+    }
+   },
+   "team": "KUDoS"
+  },
+  {
+   "lastAccept": 1590779763,
+   "pos": 80,
    "score": 181,
    "taskStats": {
     "androids_encryption": {
@@ -1438,7 +1454,7 @@
   },
   {
    "lastAccept": 1590812832,
-   "pos": 80,
+   "pos": 81,
    "score": 181,
    "taskStats": {
     "androids_encryption": {
@@ -1447,18 +1463,6 @@
     }
    },
    "team": "RooterX"
-  },
-  {
-   "lastAccept": 1590820565,
-   "pos": 81,
-   "score": 181,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 181,
-     "time": 1590820565
-    }
-   },
-   "team": "KUDoS"
   },
   {
    "lastAccept": 1590770287,
