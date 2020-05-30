@@ -5419,6 +5419,18 @@
     }
    },
    "team": "Saibursp3c"
+  },
+  {
+   "lastAccept": 1590856528,
+   "pos": 380,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590856528
+    }
+   },
+   "team": "Droogy"
   }
  ],
  "tasks": [
