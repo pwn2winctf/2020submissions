@@ -5243,6 +5243,18 @@
     }
    },
    "team": "GoldenHind"
+  },
+  {
+   "lastAccept": 1590850899,
+   "pos": 373,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590850899
+    }
+   },
+   "team": "lyc"
   }
  ],
  "tasks": [
