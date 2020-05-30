@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590807018,
+   "lastAccept": 1590810797,
    "pos": 1,
-   "score": 1902,
+   "score": 2355,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 275,
@@ -28,6 +28,10 @@
     "trusted_node": {
      "points": 453,
      "time": 1590791646
+    },
+    "tukro": {
+     "points": 453,
+     "time": 1590810797
     }
    },
    "team": "perfect blue"
@@ -165,28 +169,8 @@
    "team": "STT"
   },
   {
-   "lastAccept": 1590803025,
-   "pos": 7,
-   "score": 887,
-   "taskStats": {
-    "at_your_command": {
-     "points": 363,
-     "time": 1590780540
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590794803
-    },
-    "tukro": {
-     "points": 474,
-     "time": 1590803025
-    }
-   },
-   "team": "Balsn"
-  },
-  {
    "lastAccept": 1590789084,
-   "pos": 8,
+   "pos": 7,
    "score": 877,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -207,6 +191,26 @@
     }
    },
    "team": "TokyoWesterns"
+  },
+  {
+   "lastAccept": 1590803025,
+   "pos": 8,
+   "score": 866,
+   "taskStats": {
+    "at_your_command": {
+     "points": 363,
+     "time": 1590780540
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590794803
+    },
+    "tukro": {
+     "points": 453,
+     "time": 1590803025
+    }
+   },
+   "team": "Balsn"
   },
   {
    "lastAccept": 1590783556,
@@ -613,20 +617,8 @@
    "team": "0daysober"
   },
   {
-   "lastAccept": 1590798712,
-   "pos": 30,
-   "score": 474,
-   "taskStats": {
-    "tukro": {
-     "points": 474,
-     "time": 1590798712
-    }
-   },
-   "team": "JJY"
-  },
-  {
    "lastAccept": 1590780443,
-   "pos": 31,
+   "pos": 30,
    "score": 464,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -639,6 +631,18 @@
     }
    },
    "team": "Chocolatine"
+  },
+  {
+   "lastAccept": 1590798712,
+   "pos": 31,
+   "score": 453,
+   "taskStats": {
+    "tukro": {
+     "points": 453,
+     "time": 1590798712
+    }
+   },
+   "team": "JJY"
   },
   {
    "lastAccept": 1590779717,
