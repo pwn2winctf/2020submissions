@@ -14,5 +14,9 @@
  {
   "msg": "Queue fixed! Now your submissions will count instantaneously! :)",
   "time": 1590780940
+ },
+ {
+  "msg": "[web-watchers] We changed the name of the link pointing to the challenge's source code to highlight it since it went unnoticed by some teams.",
+  "time": 1590799965
  }
 ]
