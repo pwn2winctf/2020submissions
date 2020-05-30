@@ -153,8 +153,28 @@
    "team": "TokyoWesterns"
   },
   {
-   "lastAccept": 1590783556,
+   "lastAccept": 1590803025,
    "pos": 7,
+   "score": 907,
+   "taskStats": {
+    "at_your_command": {
+     "points": 383,
+     "time": 1590780540
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590794803
+    },
+    "tukro": {
+     "points": 474,
+     "time": 1590803025
+    }
+   },
+   "team": "Balsn"
+  },
+  {
+   "lastAccept": 1590783556,
+   "pos": 8,
    "score": 778,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -174,7 +194,7 @@
   },
   {
    "lastAccept": 1590796207,
-   "pos": 8,
+   "pos": 9,
    "score": 730,
    "taskStats": {
     "androids_encryption": {
@@ -194,7 +214,7 @@
   },
   {
    "lastAccept": 1590789659,
-   "pos": 9,
+   "pos": 10,
    "score": 709,
    "taskStats": {
     "androids_encryption": {
@@ -214,7 +234,7 @@
   },
   {
    "lastAccept": 1590789708,
-   "pos": 10,
+   "pos": 11,
    "score": 709,
    "taskStats": {
     "androids_encryption": {
@@ -234,7 +254,7 @@
   },
   {
    "lastAccept": 1590795801,
-   "pos": 11,
+   "pos": 12,
    "score": 709,
    "taskStats": {
     "androids_encryption": {
@@ -254,7 +274,7 @@
   },
   {
    "lastAccept": 1590794366,
-   "pos": 12,
+   "pos": 13,
    "score": 708,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -274,7 +294,7 @@
   },
   {
    "lastAccept": 1590794070,
-   "pos": 13,
+   "pos": 14,
    "score": 639,
    "taskStats": {
     "androids_encryption": {
@@ -294,7 +314,7 @@
   },
   {
    "lastAccept": 1590787538,
-   "pos": 14,
+   "pos": 15,
    "score": 550,
    "taskStats": {
     "s1_protocol": {
@@ -310,7 +330,7 @@
   },
   {
    "lastAccept": 1590789918,
-   "pos": 15,
+   "pos": 16,
    "score": 531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -330,7 +350,7 @@
   },
   {
    "lastAccept": 1590791149,
-   "pos": 16,
+   "pos": 17,
    "score": 531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -350,7 +370,7 @@
   },
   {
    "lastAccept": 1590794225,
-   "pos": 17,
+   "pos": 18,
    "score": 531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -370,7 +390,7 @@
   },
   {
    "lastAccept": 1590795128,
-   "pos": 18,
+   "pos": 19,
    "score": 531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -390,7 +410,7 @@
   },
   {
    "lastAccept": 1590798050,
-   "pos": 19,
+   "pos": 20,
    "score": 531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -410,7 +430,7 @@
   },
   {
    "lastAccept": 1590798146,
-   "pos": 20,
+   "pos": 21,
    "score": 531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -430,7 +450,7 @@
   },
   {
    "lastAccept": 1590798405,
-   "pos": 21,
+   "pos": 22,
    "score": 531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -450,7 +470,7 @@
   },
   {
    "lastAccept": 1590801821,
-   "pos": 22,
+   "pos": 23,
    "score": 531,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -470,7 +490,7 @@
   },
   {
    "lastAccept": 1590791753,
-   "pos": 23,
+   "pos": 24,
    "score": 503,
    "taskStats": {
     "transcendence_rebellion": {
@@ -483,18 +503,6 @@
     }
    },
    "team": "uroz"
-  },
-  {
-   "lastAccept": 1590798712,
-   "pos": 24,
-   "score": 500,
-   "taskStats": {
-    "tukro": {
-     "points": 500,
-     "time": 1590798712
-    }
-   },
-   "team": "JJY"
   },
   {
    "lastAccept": 1590780443,
@@ -513,8 +521,20 @@
    "team": "Chocolatine"
   },
   {
-   "lastAccept": 1590779717,
+   "lastAccept": 1590798712,
    "pos": 26,
+   "score": 474,
+   "taskStats": {
+    "tukro": {
+     "points": 474,
+     "time": 1590798712
+    }
+   },
+   "team": "JJY"
+  },
+  {
+   "lastAccept": 1590779717,
+   "pos": 27,
    "score": 433,
    "taskStats": {
     "at_your_command": {
@@ -527,22 +547,6 @@
     }
    },
    "team": "InfoSecIITR"
-  },
-  {
-   "lastAccept": 1590794803,
-   "pos": 27,
-   "score": 433,
-   "taskStats": {
-    "at_your_command": {
-     "points": 383,
-     "time": 1590780540
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590794803
-    }
-   },
-   "team": "Balsn"
   },
   {
    "lastAccept": 1590778653,
