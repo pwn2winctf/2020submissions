@@ -4563,6 +4563,18 @@
     }
    },
    "team": "Tea Time"
+  },
+  {
+   "lastAccept": 1590823942,
+   "pos": 337,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590823942
+    }
+   },
+   "team": "VikasGola"
   }
  ],
  "tasks": [
