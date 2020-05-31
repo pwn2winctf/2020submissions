@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590895447,
+   "lastAccept": 1590906717,
    "pos": 1,
-   "score": 4355,
+   "score": 4761,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
@@ -24,6 +24,10 @@
     "dr_manhattan": {
      "points": 333,
      "time": 1590807018
+    },
+    "ip_protection": {
+     "points": 406,
+     "time": 1590906717
     },
     "matrona": {
      "points": 420,
@@ -67,7 +71,7 @@
   {
    "lastAccept": 1590866848,
    "pos": 2,
-   "score": 3890,
+   "score": 3876,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
@@ -90,7 +94,7 @@
      "time": 1590864656
     },
     "ip_protection": {
-     "points": 420,
+     "points": 406,
      "time": 1590825510
     },
     "lost_qkeys": {
@@ -127,7 +131,7 @@
   {
    "lastAccept": 1590891953,
    "pos": 3,
-   "score": 3887,
+   "score": 3873,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
@@ -150,7 +154,7 @@
      "time": 1590858272
     },
     "ip_protection": {
-     "points": 420,
+     "points": 406,
      "time": 1590868005
     },
     "lost_qkeys": {
@@ -415,14 +419,14 @@
   {
    "lastAccept": 1590881303,
    "pos": 9,
-   "score": 1715,
+   "score": 1701,
    "taskStats": {
     "at_your_command": {
      "points": 279,
      "time": 1590780540
     },
     "ip_protection": {
-     "points": 420,
+     "points": 406,
      "time": 1590868741
     },
     "lost_qkeys": {
@@ -675,7 +679,7 @@
   {
    "lastAccept": 1590857536,
    "pos": 17,
-   "score": 1282,
+   "score": 1268,
    "taskStats": {
     "androids_encryption": {
      "points": 127,
@@ -690,7 +694,7 @@
      "time": 1590857536
     },
     "ip_protection": {
-     "points": 420,
+     "points": 406,
      "time": 1590794827
     },
     "transcendence_rebellion": {
@@ -1333,24 +1337,8 @@
    "team": "cxp"
   },
   {
-   "lastAccept": 1590891065,
-   "pos": 44,
-   "score": 470,
-   "taskStats": {
-    "ip_protection": {
-     "points": 420,
-     "time": 1590891065
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590782388
-    }
-   },
-   "team": "Maple Bacon"
-  },
-  {
    "lastAccept": 1590857656,
-   "pos": 45,
+   "pos": 44,
    "score": 456,
    "taskStats": {
     "androids_encryption": {
@@ -1367,6 +1355,22 @@
     }
    },
    "team": "cr0wn"
+  },
+  {
+   "lastAccept": 1590891065,
+   "pos": 45,
+   "score": 456,
+   "taskStats": {
+    "ip_protection": {
+     "points": 406,
+     "time": 1590891065
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590782388
+    }
+   },
+   "team": "Maple Bacon"
   },
   {
    "lastAccept": 1590795801,
