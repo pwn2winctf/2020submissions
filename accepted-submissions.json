@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590866848,
    "pos": 1,
-   "score": 3986,
+   "score": 3971,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 197,
@@ -34,7 +34,7 @@
      "time": 1590855096
     },
     "matrona": {
-     "points": 435,
+     "points": 420,
      "time": 1590866848
     },
     "omni_crypto": {
@@ -119,7 +119,7 @@
   {
    "lastAccept": 1590875743,
    "pos": 3,
-   "score": 3688,
+   "score": 3673,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 197,
@@ -142,7 +142,7 @@
      "time": 1590807018
     },
     "matrona": {
-     "points": 435,
+     "points": 420,
      "time": 1590875743
     },
     "omni_crypto": {
@@ -173,9 +173,9 @@
    "team": "perfect blue"
   },
   {
-   "lastAccept": 1590875106,
+   "lastAccept": 1590885400,
    "pos": 4,
-   "score": 3184,
+   "score": 3604,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 197,
@@ -196,6 +196,10 @@
     "lost_qkeys": {
      "points": 347,
      "time": 1590779836
+    },
+    "matrona": {
+     "points": 420,
+     "time": 1590885400
     },
     "omni_crypto": {
      "points": 279,
@@ -271,7 +275,7 @@
   {
    "lastAccept": 1590880079,
    "pos": 6,
-   "score": 2280,
+   "score": 2265,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 197,
@@ -290,7 +294,7 @@
      "time": 1590801313
     },
     "matrona": {
-     "points": 435,
+     "points": 420,
      "time": 1590806002
     },
     "quasi_scriptless": {
@@ -311,7 +315,7 @@
   {
    "lastAccept": 1590869559,
    "pos": 7,
-   "score": 2092,
+   "score": 2077,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 197,
@@ -326,7 +330,7 @@
      "time": 1590804047
     },
     "matrona": {
-     "points": 435,
+     "points": 420,
      "time": 1590869559
     },
     "omni_crypto": {
