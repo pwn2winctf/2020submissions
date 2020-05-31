@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590866848,
    "pos": 1,
-   "score": 3969,
+   "score": 3962,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 195,
@@ -30,7 +30,7 @@
      "time": 1590825510
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590855096
     },
     "matrona": {
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1590881755,
    "pos": 2,
-   "score": 3797,
+   "score": 3790,
    "taskStats": {
     "androids_encryption": {
      "points": 130,
@@ -86,7 +86,7 @@
      "time": 1590868005
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590880125
     },
     "omni_crypto": {
@@ -175,7 +175,7 @@
   {
    "lastAccept": 1590885400,
    "pos": 4,
-   "score": 3602,
+   "score": 3595,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 195,
@@ -194,7 +194,7 @@
      "time": 1590786588
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590779836
     },
     "matrona": {
@@ -273,8 +273,52 @@
    "team": "Corrupted Pwnis"
   },
   {
-   "lastAccept": 1590880079,
+   "lastAccept": 1590888716,
    "pos": 6,
+   "score": 2415,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 195,
+     "time": 1590852471
+    },
+    "androids_encryption": {
+     "points": 130,
+     "time": 1590804715
+    },
+    "at_your_command": {
+     "points": 288,
+     "time": 1590804047
+    },
+    "lost_qkeys": {
+     "points": 340,
+     "time": 1590888716
+    },
+    "matrona": {
+     "points": 420,
+     "time": 1590869559
+    },
+    "omni_crypto": {
+     "points": 279,
+     "time": 1590822177
+    },
+    "s1_protocol": {
+     "points": 340,
+     "time": 1590852675
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590780080
+    },
+    "tukro": {
+     "points": 373,
+     "time": 1590822213
+    }
+   },
+   "team": "zer0pts"
+  },
+  {
+   "lastAccept": 1590880079,
+   "pos": 7,
    "score": 2263,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -313,49 +357,9 @@
    "team": "PPP"
   },
   {
-   "lastAccept": 1590869559,
-   "pos": 7,
-   "score": 2075,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 195,
-     "time": 1590852471
-    },
-    "androids_encryption": {
-     "points": 130,
-     "time": 1590804715
-    },
-    "at_your_command": {
-     "points": 288,
-     "time": 1590804047
-    },
-    "matrona": {
-     "points": 420,
-     "time": 1590869559
-    },
-    "omni_crypto": {
-     "points": 279,
-     "time": 1590822177
-    },
-    "s1_protocol": {
-     "points": 340,
-     "time": 1590852675
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590780080
-    },
-    "tukro": {
-     "points": 373,
-     "time": 1590822213
-    }
-   },
-   "team": "zer0pts"
-  },
-  {
    "lastAccept": 1590881303,
    "pos": 8,
-   "score": 1772,
+   "score": 1765,
    "taskStats": {
     "at_your_command": {
      "points": 288,
@@ -366,7 +370,7 @@
      "time": 1590868741
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590838049
     },
     "omni_crypto": {
@@ -583,7 +587,7 @@
   {
    "lastAccept": 1590856600,
    "pos": 15,
-   "score": 1341,
+   "score": 1334,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 195,
@@ -594,7 +598,7 @@
      "time": 1590791149
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590831519
     },
     "omni_crypto": {
@@ -675,14 +679,14 @@
   {
    "lastAccept": 1590861321,
    "pos": 18,
-   "score": 1280,
+   "score": 1273,
    "taskStats": {
     "androids_encryption": {
      "points": 130,
      "time": 1590794560
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590861321
     },
     "oldschool_adventures": {
@@ -703,14 +707,14 @@
   {
    "lastAccept": 1590836155,
    "pos": 19,
-   "score": 1250,
+   "score": 1243,
    "taskStats": {
     "androids_encryption": {
      "points": 130,
      "time": 1590827737
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590814476
     },
     "s1_protocol": {
@@ -759,14 +763,14 @@
   {
    "lastAccept": 1590871636,
    "pos": 21,
-   "score": 1146,
+   "score": 1139,
    "taskStats": {
     "androids_encryption": {
      "points": 130,
      "time": 1590777806
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590806021
     },
     "omni_crypto": {
@@ -787,14 +791,14 @@
   {
    "lastAccept": 1590878021,
    "pos": 22,
-   "score": 1146,
+   "score": 1139,
    "taskStats": {
     "androids_encryption": {
      "points": 130,
      "time": 1590780647
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590878021
     },
     "omni_crypto": {
@@ -865,36 +869,8 @@
    "team": "Regular Fellows"
   },
   {
-   "lastAccept": 1590881823,
-   "pos": 25,
-   "score": 1001,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 195,
-     "time": 1590877754
-    },
-    "androids_encryption": {
-     "points": 130,
-     "time": 1590804694
-    },
-    "lost_qkeys": {
-     "points": 347,
-     "time": 1590881823
-    },
-    "omni_crypto": {
-     "points": 279,
-     "time": 1590816933
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590771151
-    }
-   },
-   "team": "The Additional Payphones"
-  },
-  {
    "lastAccept": 1590858888,
-   "pos": 26,
+   "pos": 25,
    "score": 996,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -919,6 +895,34 @@
     }
    },
    "team": "the3000"
+  },
+  {
+   "lastAccept": 1590881823,
+   "pos": 26,
+   "score": 994,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 195,
+     "time": 1590877754
+    },
+    "androids_encryption": {
+     "points": 130,
+     "time": 1590804694
+    },
+    "lost_qkeys": {
+     "points": 340,
+     "time": 1590881823
+    },
+    "omni_crypto": {
+     "points": 279,
+     "time": 1590816933
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590771151
+    }
+   },
+   "team": "The Additional Payphones"
   },
   {
    "lastAccept": 1590859184,
@@ -947,14 +951,14 @@
   {
    "lastAccept": 1590855026,
    "pos": 28,
-   "score": 806,
+   "score": 799,
    "taskStats": {
     "androids_encryption": {
      "points": 130,
      "time": 1590786733
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590855026
     },
     "omni_crypto": {
@@ -1167,14 +1171,14 @@
   {
    "lastAccept": 1590796207,
    "pos": 38,
-   "score": 527,
+   "score": 520,
    "taskStats": {
     "androids_encryption": {
      "points": 130,
      "time": 1590781364
     },
     "lost_qkeys": {
-     "points": 347,
+     "points": 340,
      "time": 1590796207
     },
     "transcendence_rebellion": {
