@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590906717,
    "pos": 1,
-   "score": 4686,
+   "score": 4671,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
@@ -38,7 +38,7 @@
      "time": 1590824314
     },
     "omnitmizer": {
-     "points": 435,
+     "points": 420,
      "time": 1590792270
     },
     "private_backdoor": {
@@ -431,7 +431,7 @@
   {
    "lastAccept": 1590903190,
    "pos": 9,
-   "score": 2094,
+   "score": 2079,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
@@ -450,7 +450,7 @@
      "time": 1590854449
     },
     "omnitmizer": {
-     "points": 435,
+     "points": 420,
      "time": 1590903190
     },
     "sound_maze": {
@@ -469,8 +469,48 @@
    "team": "FireShell"
   },
   {
-   "lastAccept": 1590881303,
+   "lastAccept": 1590914622,
    "pos": 10,
+   "score": 1980,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 191,
+     "time": 1590815729
+    },
+    "androids_encryption": {
+     "points": 123,
+     "time": 1590809966
+    },
+    "at_your_command": {
+     "points": 275,
+     "time": 1590826135
+    },
+    "dr_manhattan": {
+     "points": 314,
+     "time": 1590827288
+    },
+    "omni_crypto": {
+     "points": 260,
+     "time": 1590900703
+    },
+    "omnitmizer": {
+     "points": 420,
+     "time": 1590914622
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590772473
+    },
+    "tukro": {
+     "points": 347,
+     "time": 1590855935
+    }
+   },
+   "team": "NeSE_BG"
+  },
+  {
+   "lastAccept": 1590881303,
+   "pos": 11,
    "score": 1678,
    "taskStats": {
     "at_your_command": {
@@ -502,7 +542,7 @@
   },
   {
    "lastAccept": 1590910979,
-   "pos": 11,
+   "pos": 12,
    "score": 1607,
    "taskStats": {
     "androids_encryption": {
@@ -531,42 +571,6 @@
     }
    },
    "team": "Dragon Sector"
-  },
-  {
-   "lastAccept": 1590900703,
-   "pos": 12,
-   "score": 1560,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 191,
-     "time": 1590815729
-    },
-    "androids_encryption": {
-     "points": 123,
-     "time": 1590809966
-    },
-    "at_your_command": {
-     "points": 275,
-     "time": 1590826135
-    },
-    "dr_manhattan": {
-     "points": 314,
-     "time": 1590827288
-    },
-    "omni_crypto": {
-     "points": 260,
-     "time": 1590900703
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590772473
-    },
-    "tukro": {
-     "points": 347,
-     "time": 1590855935
-    }
-   },
-   "team": "NeSE_BG"
   },
   {
    "lastAccept": 1590910356,
@@ -635,7 +639,7 @@
   {
    "lastAccept": 1590880937,
    "pos": 15,
-   "score": 1465,
+   "score": 1450,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
@@ -646,7 +650,7 @@
      "time": 1590777160
     },
     "omnitmizer": {
-     "points": 435,
+     "points": 420,
      "time": 1590880937
     },
     "s1_protocol": {
@@ -989,32 +993,8 @@
    "team": "the3000"
   },
   {
-   "lastAccept": 1590905914,
-   "pos": 27,
-   "score": 941,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 123,
-     "time": 1590905914
-    },
-    "omnitmizer": {
-     "points": 435,
-     "time": 1590904719
-    },
-    "sound_maze": {
-     "points": 333,
-     "time": 1590904698
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590803370
-    }
-   },
-   "team": "Sieberrsec"
-  },
-  {
    "lastAccept": 1590859184,
-   "pos": 28,
+   "pos": 27,
    "score": 933,
    "taskStats": {
     "androids_encryption": {
@@ -1035,6 +1015,30 @@
     }
    },
    "team": "LEGOFAN"
+  },
+  {
+   "lastAccept": 1590905914,
+   "pos": 28,
+   "score": 926,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 123,
+     "time": 1590905914
+    },
+    "omnitmizer": {
+     "points": 420,
+     "time": 1590904719
+    },
+    "sound_maze": {
+     "points": 333,
+     "time": 1590904698
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590803370
+    }
+   },
+   "team": "Sieberrsec"
   },
   {
    "lastAccept": 1590899622,
