@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590922259,
    "pos": 1,
-   "score": 5007,
+   "score": 4993,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 187,
@@ -42,7 +42,7 @@
      "time": 1590792270
     },
     "private_backdoor": {
-     "points": 420,
+     "points": 406,
      "time": 1590891865
     },
     "quasi_scriptless": {
@@ -75,7 +75,7 @@
   {
    "lastAccept": 1590928772,
    "pos": 2,
-   "score": 4282,
+   "score": 4268,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 187,
@@ -106,7 +106,7 @@
      "time": 1590833775
     },
     "private_backdoor": {
-     "points": 420,
+     "points": 406,
      "time": 1590908844
     },
     "quasi_scriptless": {
@@ -203,7 +203,7 @@
   {
    "lastAccept": 1590891953,
    "pos": 4,
-   "score": 3712,
+   "score": 3698,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 187,
@@ -238,7 +238,7 @@
      "time": 1590851408
     },
     "private_backdoor": {
-     "points": 420,
+     "points": 406,
      "time": 1590856061
     },
     "s1_protocol": {
@@ -263,7 +263,7 @@
   {
    "lastAccept": 1590924216,
    "pos": 5,
-   "score": 3348,
+   "score": 3334,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 187,
@@ -290,7 +290,7 @@
      "time": 1590833993
     },
     "private_backdoor": {
-     "points": 420,
+     "points": 406,
      "time": 1590866934
     },
     "s1_protocol": {
@@ -501,8 +501,44 @@
    "team": "The Flat Network Society"
   },
   {
-   "lastAccept": 1590928880,
+   "lastAccept": 1590929362,
    "pos": 10,
+   "score": 2040,
+   "taskStats": {
+    "at_your_command": {
+     "points": 275,
+     "time": 1590780540
+    },
+    "ip_protection": {
+     "points": 394,
+     "time": 1590868741
+    },
+    "lost_qkeys": {
+     "points": 333,
+     "time": 1590838049
+    },
+    "omni_crypto": {
+     "points": 256,
+     "time": 1590881303
+    },
+    "private_backdoor": {
+     "points": 406,
+     "time": 1590929362
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590794803
+    },
+    "tukro": {
+     "points": 326,
+     "time": 1590803025
+    }
+   },
+   "team": "Balsn"
+  },
+  {
+   "lastAccept": 1590928880,
+   "pos": 11,
    "score": 2022,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -542,7 +578,7 @@
   },
   {
    "lastAccept": 1590924931,
-   "pos": 11,
+   "pos": 12,
    "score": 1985,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -582,7 +618,7 @@
   },
   {
    "lastAccept": 1590914622,
-   "pos": 12,
+   "pos": 13,
    "score": 1925,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -622,7 +658,7 @@
   },
   {
    "lastAccept": 1590923005,
-   "pos": 13,
+   "pos": 14,
    "score": 1854,
    "taskStats": {
     "androids_encryption": {
@@ -655,38 +691,6 @@
     }
    },
    "team": "CTD Elite"
-  },
-  {
-   "lastAccept": 1590881303,
-   "pos": 14,
-   "score": 1634,
-   "taskStats": {
-    "at_your_command": {
-     "points": 275,
-     "time": 1590780540
-    },
-    "ip_protection": {
-     "points": 394,
-     "time": 1590868741
-    },
-    "lost_qkeys": {
-     "points": 333,
-     "time": 1590838049
-    },
-    "omni_crypto": {
-     "points": 256,
-     "time": 1590881303
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590794803
-    },
-    "tukro": {
-     "points": 326,
-     "time": 1590803025
-    }
-   },
-   "team": "Balsn"
   },
   {
    "lastAccept": 1590910979,
@@ -1027,14 +1031,14 @@
   {
    "lastAccept": 1590863675,
    "pos": 26,
-   "score": 977,
+   "score": 963,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 187,
      "time": 1590786041
     },
     "private_backdoor": {
-     "points": 420,
+     "points": 406,
      "time": 1590839671
     },
     "sound_maze": {
