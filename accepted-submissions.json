@@ -141,9 +141,9 @@
    "team": "justCatTheFish"
   },
   {
-   "lastAccept": 1590915603,
+   "lastAccept": 1590942729,
    "pos": 3,
-   "score": 3917,
+   "score": 4417,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 173,
@@ -176,6 +176,10 @@
     "matrona": {
      "points": 406,
      "time": 1590866848
+    },
+    "matrona_v2": {
+     "points": 500,
+     "time": 1590942729
     },
     "omni_crypto": {
      "points": 249,
@@ -6313,6 +6317,7 @@
   "oldschool_adventures",
   "stolen_backdoor",
   "quasi_scriptless",
-  "watchers"
+  "watchers",
+  "matrona_v2"
  ]
 }
