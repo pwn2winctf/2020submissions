@@ -82,5 +82,9 @@
  {
   "msg": "If you are a member of the Kuality team, please pm gnx at freenode.",
   "time": 1590928187
+ },
+ {
+  "msg": "[Hardware Trojan] If you want to skip the trouble of diffing the trojaned and non-trojaned version, look for the signals introduced by the trojan. Their name starts with trig.",
+  "time": 1590931544
  }
 ]
