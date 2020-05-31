@@ -309,8 +309,52 @@
    "team": "zer0pts"
   },
   {
-   "lastAccept": 1590920112,
+   "lastAccept": 1590922943,
    "pos": 6,
+   "score": 2646,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 189,
+     "time": 1590799520
+    },
+    "androids_encryption": {
+     "points": 123,
+     "time": 1590880079
+    },
+    "at_your_command": {
+     "points": 275,
+     "time": 1590799212
+    },
+    "dr_manhattan": {
+     "points": 303,
+     "time": 1590801313
+    },
+    "matrona": {
+     "points": 420,
+     "time": 1590806002
+    },
+    "quasi_scriptless": {
+     "points": 453,
+     "time": 1590873742
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590779359
+    },
+    "tukro": {
+     "points": 333,
+     "time": 1590853332
+    },
+    "watchers": {
+     "points": 500,
+     "time": 1590922943
+    }
+   },
+   "team": "PPP"
+  },
+  {
+   "lastAccept": 1590920112,
+   "pos": 7,
    "score": 2608,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -358,7 +402,7 @@
   },
   {
    "lastAccept": 1590908090,
-   "pos": 7,
+   "pos": 8,
    "score": 2195,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -399,46 +443,6 @@
     }
    },
    "team": "The Flat Network Society"
-  },
-  {
-   "lastAccept": 1590880079,
-   "pos": 8,
-   "score": 2146,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 189,
-     "time": 1590799520
-    },
-    "androids_encryption": {
-     "points": 123,
-     "time": 1590880079
-    },
-    "at_your_command": {
-     "points": 275,
-     "time": 1590799212
-    },
-    "dr_manhattan": {
-     "points": 303,
-     "time": 1590801313
-    },
-    "matrona": {
-     "points": 420,
-     "time": 1590806002
-    },
-    "quasi_scriptless": {
-     "points": 453,
-     "time": 1590873742
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590779359
-    },
-    "tukro": {
-     "points": 333,
-     "time": 1590853332
-    }
-   },
-   "team": "PPP"
   },
   {
    "lastAccept": 1590903190,
@@ -6088,6 +6092,7 @@
   "private_backdoor",
   "oldschool_adventures",
   "stolen_backdoor",
-  "quasi_scriptless"
+  "quasi_scriptless",
+  "watchers"
  ]
 }
