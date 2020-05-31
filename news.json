@@ -54,5 +54,9 @@
  {
   "msg": "Watchers is running wappalyzer version 6.0.0 but you should be able to solve our challenge on all recent versions.",
   "time": 1590888484
+ },
+ {
+  "msg": "[Oldschool Adventures] The QR code content should be a usual Linux shell command (not a BBC one).",
+  "time": 1590894608
  }
 ]
