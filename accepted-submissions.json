@@ -2601,8 +2601,24 @@
    "team": "StronkSecurity"
   },
   {
-   "lastAccept": 1590779763,
+   "lastAccept": 1590906293,
    "pos": 118,
+   "score": 177,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 127,
+     "time": 1590853040
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590906293
+    }
+   },
+   "team": "Contrail"
+  },
+  {
+   "lastAccept": 1590779763,
+   "pos": 119,
    "score": 127,
    "taskStats": {
     "androids_encryption": {
@@ -2614,7 +2630,7 @@
   },
   {
    "lastAccept": 1590845759,
-   "pos": 119,
+   "pos": 120,
    "score": 127,
    "taskStats": {
     "androids_encryption": {
@@ -2623,18 +2639,6 @@
     }
    },
    "team": "tiny baby"
-  },
-  {
-   "lastAccept": 1590853040,
-   "pos": 120,
-   "score": 127,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 127,
-     "time": 1590853040
-    }
-   },
-   "team": "Contrail"
   },
   {
    "lastAccept": 1590770287,
