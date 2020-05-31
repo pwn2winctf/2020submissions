@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590895447,
    "pos": 1,
-   "score": 4403,
+   "score": 4382,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
@@ -34,7 +34,7 @@
      "time": 1590824314
     },
     "omnitmizer": {
-     "points": 474,
+     "points": 453,
      "time": 1590792270
     },
     "private_backdoor": {
@@ -373,8 +373,48 @@
    "team": "PPP"
   },
   {
-   "lastAccept": 1590881303,
+   "lastAccept": 1590903190,
    "pos": 8,
+   "score": 2162,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 191,
+     "time": 1590795128
+    },
+    "androids_encryption": {
+     "points": 128,
+     "time": 1590784692
+    },
+    "at_your_command": {
+     "points": 279,
+     "time": 1590846025
+    },
+    "dr_manhattan": {
+     "points": 333,
+     "time": 1590854449
+    },
+    "omnitmizer": {
+     "points": 453,
+     "time": 1590903190
+    },
+    "sound_maze": {
+     "points": 355,
+     "time": 1590842739
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770550
+    },
+    "trusted_node": {
+     "points": 373,
+     "time": 1590834018
+    }
+   },
+   "team": "FireShell"
+  },
+  {
+   "lastAccept": 1590881303,
+   "pos": 9,
    "score": 1715,
    "taskStats": {
     "at_your_command": {
@@ -403,42 +443,6 @@
     }
    },
    "team": "Balsn"
-  },
-  {
-   "lastAccept": 1590854449,
-   "pos": 9,
-   "score": 1709,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 191,
-     "time": 1590795128
-    },
-    "androids_encryption": {
-     "points": 128,
-     "time": 1590784692
-    },
-    "at_your_command": {
-     "points": 279,
-     "time": 1590846025
-    },
-    "dr_manhattan": {
-     "points": 333,
-     "time": 1590854449
-    },
-    "sound_maze": {
-     "points": 355,
-     "time": 1590842739
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770550
-    },
-    "trusted_node": {
-     "points": 373,
-     "time": 1590834018
-    }
-   },
-   "team": "FireShell"
   },
   {
    "lastAccept": 1590900703,
@@ -479,7 +483,7 @@
   {
    "lastAccept": 1590880937,
    "pos": 11,
-   "score": 1531,
+   "score": 1510,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
@@ -490,7 +494,7 @@
      "time": 1590777160
     },
     "omnitmizer": {
-     "points": 474,
+     "points": 453,
      "time": 1590880937
     },
     "s1_protocol": {
