@@ -58,5 +58,9 @@
  {
   "msg": "[Oldschool Adventures] The QR code content should be a usual Linux shell command (not a BBC one).",
   "time": 1590894608
+ },
+ {
+  "msg": "[Dial-up Interception] This challenge is not stego. Please note stego is banned from Pwn2Win since 2017. The task is about demodulating the signal of the dial-up internet connection. If you are not old enough to have used a dial-up and have no idea what this is about, please visit Wikipedia. There are no custom protocols nor guessing involved.",
+  "time": 1590895764
  }
 ]
