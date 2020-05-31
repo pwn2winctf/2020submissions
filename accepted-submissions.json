@@ -73,8 +73,72 @@
    "team": "perfect blue"
   },
   {
-   "lastAccept": 1590915603,
+   "lastAccept": 1590928772,
    "pos": 2,
+   "score": 4288,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 187,
+     "time": 1590796353
+    },
+    "androids_encryption": {
+     "points": 122,
+     "time": 1590784079
+    },
+    "at_your_command": {
+     "points": 275,
+     "time": 1590804499
+    },
+    "dr_manhattan": {
+     "points": 303,
+     "time": 1590786588
+    },
+    "lost_qkeys": {
+     "points": 333,
+     "time": 1590779836
+    },
+    "matrona": {
+     "points": 406,
+     "time": 1590885400
+    },
+    "omni_crypto": {
+     "points": 256,
+     "time": 1590833775
+    },
+    "private_backdoor": {
+     "points": 420,
+     "time": 1590908844
+    },
+    "quasi_scriptless": {
+     "points": 453,
+     "time": 1590875106
+    },
+    "s1_protocol": {
+     "points": 326,
+     "time": 1590854699
+    },
+    "sound_maze": {
+     "points": 320,
+     "time": 1590850440
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590770403
+    },
+    "trusted_node": {
+     "points": 363,
+     "time": 1590856241
+    },
+    "watchers": {
+     "points": 474,
+     "time": 1590928772
+    }
+   },
+   "team": "justCatTheFish"
+  },
+  {
+   "lastAccept": 1590915603,
+   "pos": 3,
    "score": 4067,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -135,66 +199,6 @@
     }
    },
    "team": "TokyoWesterns"
-  },
-  {
-   "lastAccept": 1590908844,
-   "pos": 3,
-   "score": 3814,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 187,
-     "time": 1590796353
-    },
-    "androids_encryption": {
-     "points": 122,
-     "time": 1590784079
-    },
-    "at_your_command": {
-     "points": 275,
-     "time": 1590804499
-    },
-    "dr_manhattan": {
-     "points": 303,
-     "time": 1590786588
-    },
-    "lost_qkeys": {
-     "points": 333,
-     "time": 1590779836
-    },
-    "matrona": {
-     "points": 406,
-     "time": 1590885400
-    },
-    "omni_crypto": {
-     "points": 256,
-     "time": 1590833775
-    },
-    "private_backdoor": {
-     "points": 420,
-     "time": 1590908844
-    },
-    "quasi_scriptless": {
-     "points": 453,
-     "time": 1590875106
-    },
-    "s1_protocol": {
-     "points": 326,
-     "time": 1590854699
-    },
-    "sound_maze": {
-     "points": 320,
-     "time": 1590850440
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590770403
-    },
-    "trusted_node": {
-     "points": 363,
-     "time": 1590856241
-    }
-   },
-   "team": "justCatTheFish"
   },
   {
    "lastAccept": 1590891953,
@@ -367,7 +371,7 @@
   {
    "lastAccept": 1590922943,
    "pos": 7,
-   "score": 2622,
+   "score": 2596,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 187,
@@ -402,7 +406,7 @@
      "time": 1590853332
     },
     "watchers": {
-     "points": 500,
+     "points": 474,
      "time": 1590922943
     }
    },
