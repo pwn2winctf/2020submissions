@@ -2781,8 +2781,24 @@
    "team": "N0N@me13"
   },
   {
-   "lastAccept": 1590779763,
+   "lastAccept": 1590926208,
    "pos": 123,
+   "score": 173,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 123,
+     "time": 1590908718
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590926208
+    }
+   },
+   "team": "pcw109550"
+  },
+  {
+   "lastAccept": 1590779763,
+   "pos": 124,
    "score": 123,
    "taskStats": {
     "androids_encryption": {
@@ -2794,7 +2810,7 @@
   },
   {
    "lastAccept": 1590845759,
-   "pos": 124,
+   "pos": 125,
    "score": 123,
    "taskStats": {
     "androids_encryption": {
@@ -2803,18 +2819,6 @@
     }
    },
    "team": "tiny baby"
-  },
-  {
-   "lastAccept": 1590908718,
-   "pos": 125,
-   "score": 123,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 123,
-     "time": 1590908718
-    }
-   },
-   "team": "pcw109550"
   },
   {
    "lastAccept": 1590770287,
