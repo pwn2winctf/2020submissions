@@ -1289,8 +1289,32 @@
    "team": "Shellphish"
   },
   {
-   "lastAccept": 1590854577,
+   "lastAccept": 1590932305,
    "pos": 36,
+   "score": 737,
+   "taskStats": {
+    "androids_encryption": {
+     "points": 120,
+     "time": 1590911750
+    },
+    "omni_crypto": {
+     "points": 253,
+     "time": 1590912300
+    },
+    "s1_protocol": {
+     "points": 314,
+     "time": 1590931707
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590932305
+    }
+   },
+   "team": "nkj"
+  },
+  {
+   "lastAccept": 1590854577,
+   "pos": 37,
    "score": 716,
    "taskStats": {
     "a_payload_to_rule_them_all": {
@@ -1314,7 +1338,7 @@
   },
   {
    "lastAccept": 1590844772,
-   "pos": 37,
+   "pos": 38,
    "score": 698,
    "taskStats": {
     "androids_encryption": {
@@ -1335,26 +1359,6 @@
     }
    },
    "team": "efiens"
-  },
-  {
-   "lastAccept": 1590931707,
-   "pos": 38,
-   "score": 687,
-   "taskStats": {
-    "androids_encryption": {
-     "points": 120,
-     "time": 1590911750
-    },
-    "omni_crypto": {
-     "points": 253,
-     "time": 1590912300
-    },
-    "s1_protocol": {
-     "points": 314,
-     "time": 1590931707
-    }
-   },
-   "team": "nkj"
   },
   {
    "lastAccept": 1590927020,
