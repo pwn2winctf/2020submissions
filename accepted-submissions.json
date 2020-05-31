@@ -6231,6 +6231,18 @@
     }
    },
    "team": "wr47h"
+  },
+  {
+   "lastAccept": 1590937723,
+   "pos": 401,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590937723
+    }
+   },
+   "team": "VTeam"
   }
  ],
  "tasks": [
