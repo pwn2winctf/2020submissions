@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590906717,
+   "lastAccept": 1590922259,
    "pos": 1,
-   "score": 4611,
+   "score": 5064,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 189,
@@ -44,6 +44,10 @@
     "private_backdoor": {
      "points": 420,
      "time": 1590891865
+    },
+    "quasi_scriptless": {
+     "points": 453,
+     "time": 1590922259
     },
     "s1_protocol": {
      "points": 333,
@@ -135,7 +139,7 @@
   {
    "lastAccept": 1590908844,
    "pos": 3,
-   "score": 3886,
+   "score": 3865,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 189,
@@ -170,7 +174,7 @@
      "time": 1590908844
     },
     "quasi_scriptless": {
-     "points": 474,
+     "points": 453,
      "time": 1590875106
     },
     "s1_protocol": {
@@ -399,7 +403,7 @@
   {
    "lastAccept": 1590880079,
    "pos": 8,
-   "score": 2167,
+   "score": 2146,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 189,
@@ -422,7 +426,7 @@
      "time": 1590806002
     },
     "quasi_scriptless": {
-     "points": 474,
+     "points": 453,
      "time": 1590873742
     },
     "transcendence_rebellion": {
