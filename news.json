@@ -50,5 +50,9 @@
  {
   "msg": "If you are a member of the CL34R team which played last year, please contact gnx at freenode.",
   "time": 1590865975
+ },
+ {
+  "msg": "Watchers is running wappalyzer version 6.0.0 but you should be able to solve our challenge on all recent versions.",
+  "time": 1590888484
  }
 ]
