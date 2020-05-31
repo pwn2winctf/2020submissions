@@ -2001,13 +2001,17 @@
    "team": "SYPER"
   },
   {
-   "lastAccept": 1590829632,
+   "lastAccept": 1590903021,
    "pos": 81,
-   "score": 191,
+   "score": 241,
    "taskStats": {
     "a_payload_to_rule_them_all": {
      "points": 191,
      "time": 1590829632
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590903021
     }
    },
    "team": "jagarmaru suisan"
