@@ -86,5 +86,9 @@
  {
   "msg": "[Hardware Trojan] If you want to skip the trouble of diffing the trojaned and non-trojaned version, look for the signals introduced by the trojan. Their name starts with trig.",
   "time": 1590931544
+ },
+ {
+  "msg": "Guys, don't forget to help us giving your feedback: https://bit.ly/2ZSh55B",
+  "time": 1590942746
  }
 ]
